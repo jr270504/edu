@@ -1,1 +1,1152 @@
-
+[
+{
+"mcq_id": "a1b2c3d4-e5f6-7g8h-9i0j-k1l2m3n4o5p6",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Which model, proposed by Singer and Nicolson in 1972, is currently the most accepted explanation for the structure of the plasma membrane?",
+"options": [
+"Unit Membrane Model",
+"Fluid Mosaic Model",
+"Sandwich Model",
+"Lipid Bilayer Model"
+],
+"correct_answer": "Fluid Mosaic Model",
+"explanation": "The Fluid Mosaic Model describes the cell membrane as a dynamic structure where protein molecules float in a fluid bilayer of phospholipids, resembling a mosaic. This model replaced the earlier static models.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26871/](https://www.ncbi.nlm.nih.gov/books/NBK26871/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "b2c3d4e5-f6g7-8h9i-0j1k-l2m3n4o5p6q7",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "In the process of glycosylation within the Golgi apparatus, what is the primary role of the Golgi complex?",
+"options": [
+"Synthesizing DNA",
+"Modifying proteins and lipids by adding carbohydrate chains",
+"Breaking down waste materials",
+"Generating ATP"
+],
+"correct_answer": "Modifying proteins and lipids by adding carbohydrate chains",
+"explanation": "The Golgi apparatus is responsible for the post-translational modification of proteins and lipids, specifically glycosylation, where carbohydrates are added to form glycoproteins and glycolipids.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK9838/](https://www.ncbi.nlm.nih.gov/books/NBK9838/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "c3d4e5f6-g7h8-9i0j-1k2l-m3n4o5p6q7r8",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Which organelle is known as the 'suicidal bag' of the cell due to its content of hydrolytic enzymes?",
+"options": [
+"Ribosome",
+"Lysosome",
+"Peroxisome",
+"Vacuole"
+],
+"correct_answer": "Lysosome",
+"explanation": "Lysosomes contain potent hydrolytic enzymes capable of breaking down all types of biological polymers. If a lysosome ruptures, it can digest the cell's own components, hence the nickname 'suicidal bag'.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Lysosome](https://www.genome.gov/genetics-glossary/Lysosome)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "d4e5f6g7-h8i9-0j1k-2l3m-n4o5p6q7r8s9",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Tay-Sachs disease is a genetic disorder caused by the accumulation of lipids in brain cells due to a malfunction in which organelle?",
+"options": [
+"Mitochondria",
+"Lysosome",
+"Endoplasmic Reticulum",
+"Golgi Apparatus"
+],
+"correct_answer": "Lysosome",
+"explanation": "Tay-Sachs disease is a lysosomal storage disease caused by the absence of an enzyme (Hexosaminidase A) needed to break down fatty substances (gangliosides), leading to their accumulation in the brain.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://medlineplus.gov/genetics/condition/tay-sachs-disease/](https://medlineplus.gov/genetics/condition/tay-sachs-disease/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "e5f6g7h8-i9j0-1k2l-3m4n-o5p6q7r8s9t0",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "What is the specific arrangement of microtubules found in a centriole?",
+"options": [
+"9 + 2 arrangement",
+"9 triplets (9 + 0 arrangement)",
+"9 singlets",
+"13 protofilaments"
+],
+"correct_answer": "9 triplets (9 + 0 arrangement)",
+"explanation": "A centriole is composed of nine sets of microtubule triplets arranged in a cylinder. This is often referred to as the '9+0' arrangement, distinguishing it from the '9+2' arrangement of cilia and flagella.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK21580/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK21580/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "f6g7h8i9-j0k1-2l3m-4n5o-p6q7r8s9t0u1",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "The inner membrane of the mitochondrion folds inward to form shelf-like structures called:",
+"options": [
+"Thylakoids",
+"Cristae",
+"Cisternae",
+"Grana"
+],
+"correct_answer": "Cristae",
+"explanation": "The inner mitochondrial membrane forms folds called cristae, which increase the surface area available for the electron transport chain and ATP synthesis.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK9896/](https://www.ncbi.nlm.nih.gov/books/NBK9896/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "a7b8c9d0-e1f2-3g4h-5i6j-7k8l9m0n1o2p",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Which of the following components is the primary structural material of the fungal cell wall?",
+"options": [
+"Peptidoglycan",
+"Cellulose",
+"Chitin",
+"Lignin"
+],
+"correct_answer": "Chitin",
+"explanation": "Unlike plant cell walls which are made of cellulose, the cell walls of fungi are primarily composed of chitin, a polymer of N-acetylglucosamine.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26868/](https://www.ncbi.nlm.nih.gov/books/NBK26868/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "b8c9d0e1-f2g3-4h5i-6j7k-8l9m0n1o2p3q",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Ribosomes found in eukaryotic cytoplasm are 80S. What are the sedimentation coefficients of their two subunits?",
+"options": [
+"50S and 30S",
+"60S and 40S",
+"40S and 20S",
+"70S and 50S"
+],
+"correct_answer": "60S and 40S",
+"explanation": "Eukaryotic ribosomes (80S) consist of a larger 60S subunit and a smaller 40S subunit. Prokaryotic ribosomes (70S) consist of 50S and 30S subunits.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK21603/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK21603/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "c9d0e1f2-g3h4-5i6j-7k8l-9m0n1o2p3q4r",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Which organelle is exclusively found in plant seeds and converts stored fatty acids into carbohydrates?",
+"options": [
+"Peroxisome",
+"Glyoxysome",
+"Lysosome",
+"Ribosome"
+],
+"correct_answer": "Glyoxysome",
+"explanation": "Glyoxysomes are specialized peroxisomes found in fat-storing tissues of plant seeds. They contain enzymes that initiate the glyoxylate cycle to convert fatty acids into sugars for the germinating seedling.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/glyoxysome](https://www.google.com/search?q=https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/glyoxysome)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "d0e1f2g3-h4i5-6j7k-8l9m-0n1o2p3q4r5s",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "The sodium-potassium pump is a classic example of active transport. What is the stoichiometry of ions moved per ATP hydrolyzed?",
+"options": [
+"3 Na+ out, 2 K+ in",
+"2 Na+ out, 3 K+ in",
+"3 Na+ in, 2 K+ out",
+"1 Na+ out, 1 K+ in"
+],
+"correct_answer": "3 Na+ out, 2 K+ in",
+"explanation": "The Na+/K+ pump uses one molecule of ATP to pump 3 Sodium ions (Na+) out of the cell and 2 Potassium ions (K+) into the cell against their concentration gradients.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26907/](https://www.ncbi.nlm.nih.gov/books/NBK26907/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "e1f2g3h4-i5j6-7k8l-9m0n-1o2p3q4r5s6t",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Which cytoskeletal component is primarily composed of the protein actin?",
+"options": [
+"Microtubules",
+"Microfilaments",
+"Intermediate filaments",
+"Macrofibrils"
+],
+"correct_answer": "Microfilaments",
+"explanation": "Microfilaments are the thinnest cytoskeletal elements (about 7nm diameter) and are polymers of the protein actin. They are involved in cell movement and shape changes.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK9908/](https://www.ncbi.nlm.nih.gov/books/NBK9908/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "f2g3h4i5-j6k7-8l9m-0n1o-2p3q4r5s6t7u",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "What is the function of the nucleolus found within the eukaryotic nucleus?",
+"options": [
+"Synthesis of DNA",
+"Synthesis and assembly of ribosomal subunits",
+"Storage of lipids",
+"breakdown of proteins"
+],
+"correct_answer": "Synthesis and assembly of ribosomal subunits",
+"explanation": "The nucleolus is a dense region within the nucleus where ribosomal RNA (rRNA) is transcribed and assembled with proteins to form ribosomal subunits.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Nucleolus](https://www.genome.gov/genetics-glossary/Nucleolus)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "a3b4c5d6-e7f8-9g0h-1i2j-3k4l5m6n7o8p",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Which of the following molecules acts as a 'marker' for cell-to-cell recognition on the outer surface of the plasma membrane?",
+"options": [
+"Phospholipids",
+"Cholesterol",
+"Glycolipids and Glycoproteins",
+"Integral proteins"
+],
+"correct_answer": "Glycolipids and Glycoproteins",
+"explanation": "Carbohydrate chains attached to lipids (glycolipids) and proteins (glycoproteins) on the extracellular surface of the membrane act as unique molecular ID tags for cell recognition.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK9898/](https://www.ncbi.nlm.nih.gov/books/NBK9898/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "b4c5d6e7-f8g9-0h1i-2j3k-4l5m6n7o8p9q",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "The membrane surrounding the central vacuole in a plant cell is specifically called the:",
+"options": [
+"Plasmalemma",
+"Tonoplast",
+"Middle Lamella",
+"Periplast"
+],
+"correct_answer": "Tonoplast",
+"explanation": "The tonoplast is the specialized membrane that bounds the central vacuole in plant cells, regulating the movement of ions and molecules into and out of the vacuole.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/tonoplast](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/tonoplast)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "c5d6e7f8-g9h0-1i2j-3k4l-5m6n7o8p9q0r",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Which type of plastid is responsible for giving colors to petals and fruits?",
+"options": [
+"Chloroplast",
+"Leucoplast",
+"Chromoplast",
+"Amyloplast"
+],
+"correct_answer": "Chromoplast",
+"explanation": "Chromoplasts contain pigments other than chlorophyll (like carotenoids) that provide red, orange, and yellow colors to flowers and fruits to attract pollinators.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/chromoplast](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/chromoplast)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "d6e7f8g9-h0i1-2j3k-4l5m-6n7o8p9q0r1s",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "In the bacterial cell wall, the polymer peptidoglycan is also known as:",
+"options": [
+"Murein",
+"Chitin",
+"Pectin",
+"Cellulose"
+],
+"correct_answer": "Murein",
+"explanation": "Peptidoglycan, the rigid mesh-like layer in bacterial cell walls, is also referred to as murein. It is composed of sugars and amino acids.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/medicine-and-dentistry/peptidoglycan](https://www.sciencedirect.com/topics/medicine-and-dentistry/peptidoglycan)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "e7f8g9h0-i1j2-3k4l-5m6n-7o8p9q0r1s2t",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "The continuous interconnection of cytoplasm between adjacent plant cells occurs through channels called:",
+"options": [
+"Gap junctions",
+"Plasmodesmata",
+"Desmosomes",
+"Tight junctions"
+],
+"correct_answer": "Plasmodesmata",
+"explanation": "Plasmodesmata are channels that traverse the cell walls of plant cells, connecting the cytoplasm of adjacent cells and facilitating transport and communication.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26923/](https://www.ncbi.nlm.nih.gov/books/NBK26923/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "f8g9h0i1-j2k3-4l5m-6n7o-8p9q0r1s2t3u",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Which organelle is responsible for the detoxification of drugs and poisons, particularly in liver cells?",
+"options": [
+"Rough Endoplasmic Reticulum",
+"Smooth Endoplasmic Reticulum",
+"Golgi Complex",
+"Mitochondria"
+],
+"correct_answer": "Smooth Endoplasmic Reticulum",
+"explanation": "The Smooth Endoplasmic Reticulum (SER) lacks ribosomes and contains enzymes important for the synthesis of lipids and the detoxification of drugs and harmful substances.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK9889/](https://www.ncbi.nlm.nih.gov/books/NBK9889/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "a9b0c1d2-e3f4-5g6h-7i8j-9k0l1m2n3o4p",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "The process by which a cell engulfs solid particles is termed:",
+"options": [
+"Pinocytosis",
+"Phagocytosis",
+"Exocytosis",
+"Osmosis"
+],
+"correct_answer": "Phagocytosis",
+"explanation": "Phagocytosis, often called 'cell eating', is a form of endocytosis where the cell engulfs large particles or other cells into a vesicle.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26896/](https://www.ncbi.nlm.nih.gov/books/NBK26896/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "b0c1d2e3-f4g5-6h7i-8j9k-0l1m2n3o4p5q",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Which enzyme is abundantly found in peroxisomes and decomposes hydrogen peroxide into water and oxygen?",
+"options": [
+"Peroxidase",
+"Catalase",
+"Hydrolase",
+"Oxidase"
+],
+"correct_answer": "Catalase",
+"explanation": "Catalase is the primary enzyme in peroxisomes that breaks down hydrogen peroxide (H2O2), a toxic byproduct of metabolism, into safe water and oxygen.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26854/](https://www.ncbi.nlm.nih.gov/books/NBK26854/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "c1d2e3f4-g5h6-7i8j-9k0l-1m2n3o4p5q6r",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "What is the primary function of the F0-F1 particles (ATP synthase) located on the inner mitochondrial membrane?",
+"options": [
+"Protein synthesis",
+"ATP synthesis",
+"Lipid synthesis",
+"DNA replication"
+],
+"correct_answer": "ATP synthesis",
+"explanation": "The F0-F1 particles are ATP synthase complexes. They utilize the proton gradient across the inner mitochondrial membrane to synthesize ATP from ADP and inorganic phosphate.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK9896/](https://www.ncbi.nlm.nih.gov/books/NBK9896/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "d2e3f4g5-h6i7-8j9k-0l1m-2n3o4p5q6r7s",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Which of the following cellular structures is non-membranous?",
+"options": [
+"Lysosome",
+"Mitochondria",
+"Ribosome",
+"Golgi apparatus"
+],
+"correct_answer": "Ribosome",
+"explanation": "Ribosomes are granular structures composed of RNA and proteins that are not surrounded by a lipid membrane, unlike lysosomes, mitochondria, and the Golgi apparatus.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK21603/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK21603/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "e3f4g5h6-i7j8-9k0l-1m2n-3o4p5q6r7s8t",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "In a plant cell wall, which layer serves as the cementing material between two adjacent cells?",
+"options": [
+"Primary wall",
+"Secondary wall",
+"Middle lamella",
+"Plasma membrane"
+],
+"correct_answer": "Middle lamella",
+"explanation": "The middle lamella is the first layer formed during cell division. It is rich in pectins (calcium and magnesium pectate) and acts as a glue to hold adjacent plant cells together.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26923/](https://www.ncbi.nlm.nih.gov/books/NBK26923/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "f4g5h6i7-j8k9-0l1m-2n3o-4p5q6r7s8t9u",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "What happens to an animal cell when placed in a hypotonic solution?",
+"options": [
+"It shrinks (Crenation)",
+"It swells and may burst (Lysis)",
+"It becomes plasmolysed",
+"It remains unchanged"
+],
+"correct_answer": "It swells and may burst (Lysis)",
+"explanation": "In a hypotonic solution, water enters the animal cell via osmosis due to the higher solute concentration inside the cell, causing it to swell and potentially burst.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26907/](https://www.ncbi.nlm.nih.gov/books/NBK26907/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "a5b6c7d8-e9f0-1g2h-3i4j-5k6l7m8n9o0p",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Which face of the Golgi apparatus is responsible for receiving vesicles from the Endoplasmic Reticulum?",
+"options": [
+"Trans face (Maturing face)",
+"Cis face (Forming face)",
+"Lateral face",
+"Medial face"
+],
+"correct_answer": "Cis face (Forming face)",
+"explanation": "The Cis face (or forming face) of the Golgi apparatus is convex and oriented towards the nucleus/ER. It receives transport vesicles containing proteins from the ER.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK9838/](https://www.ncbi.nlm.nih.gov/books/NBK9838/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "b6c7d8e9-f0g1-2h3i-4j5k-6l7m8n9o0p1q",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Which of the following organelles is believed to have originated from an endosymbiotic relationship with bacteria?",
+"options": [
+"Endoplasmic Reticulum",
+"Mitochondria",
+"Golgi Apparatus",
+"Lysosome"
+],
+"correct_answer": "Mitochondria",
+"explanation": "The Endosymbiotic Theory posits that mitochondria originated from free-living aerobic bacteria that were engulfed by ancestral eukaryotic cells, evidenced by their own circular DNA and ribosomes.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26922/](https://www.ncbi.nlm.nih.gov/books/NBK26922/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "c7d8e9f0-g1h2-3i4j-5k6l-7m8n9o0p1q2r",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "The cytoskeletal protein 'Tubulin' is the building block of which structure?",
+"options": [
+"Microfilaments",
+"Microtubules",
+"Intermediate filaments",
+"Collagen fibers"
+],
+"correct_answer": "Microtubules",
+"explanation": "Microtubules are hollow tubes made of alpha and beta-tubulin heterodimers. They are crucial for intracellular transport and cell division (spindle fibers).",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK9932/](https://www.ncbi.nlm.nih.gov/books/NBK9932/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "d8e9f0g1-h2i3-4j5k-6l7m-8n9o0p1q2r3s",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Facilitated diffusion differs from active transport in that facilitated diffusion:",
+"options": [
+"Requires ATP energy",
+"Moves substances against the concentration gradient",
+"Does not require energy and moves down the gradient",
+"Does not use carrier proteins"
+],
+"correct_answer": "Does not require energy and moves down the gradient",
+"explanation": "Facilitated diffusion uses carrier proteins to move substances across the membrane, but unlike active transport, it is a passive process driven by the concentration gradient and requires no ATP.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26815/](https://www.ncbi.nlm.nih.gov/books/NBK26815/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "e9f0g1h2-i3j4-5k6l-7m8n-9o0p1q2r3s4t",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Which cellular structure acts as the 'factory' for ribosome synthesis?",
+"options": [
+"Nucleus",
+"Nucleolus",
+"Endoplasmic Reticulum",
+"Golgi Apparatus"
+],
+"correct_answer": "Nucleolus",
+"explanation": "The nucleolus is a dense non-membrane bound structure within the nucleus where rRNA is transcribed and assembled with ribosomal proteins to form ribosomal subunits.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK9851/](https://www.ncbi.nlm.nih.gov/books/NBK9851/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "f0g1h2i3-j4k5-6l7m-8n9o-0p1q2r3s4t5u",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "The distinct stacks of thylakoids found inside the chloroplast are called:",
+"options": [
+"Stroma",
+"Grana",
+"Cristae",
+"Matrix"
+],
+"correct_answer": "Grana",
+"explanation": "Thylakoids are arranged in stacks like coins. Each stack is called a granum (plural: grana), which is the site of the light-dependent reactions of photosynthesis.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26819/](https://www.ncbi.nlm.nih.gov/books/NBK26819/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "a1h2i3j4-k5l6-7m8n-9o0p-1q2r3s4t5u6v",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "A cluster of ribosomes held together by a single strand of mRNA during protein synthesis is called a:",
+"options": [
+"Lysosome",
+"Polysome",
+"Microsome",
+"Peroxisome"
+],
+"correct_answer": "Polysome",
+"explanation": "A polysome (or polyribosome) consists of multiple ribosomes attached to a single mRNA molecule, translating it simultaneously to produce multiple copies of the protein.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/polysome](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/polysome)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "b2i3j4k5-l6m7-8n9o-0p1q-2r3s4t5u6v7w",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Which cell organelle helps in the formation of the acrosome in sperm cells?",
+"options": [
+"Endoplasmic Reticulum",
+"Mitochondria",
+"Golgi Complex",
+"Centriole"
+],
+"correct_answer": "Golgi Complex",
+"explanation": "The acrosome, which contains enzymes to penetrate the egg, is derived from the Golgi complex during the maturation of the sperm cell (spermiogenesis).",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK10005/](https://www.ncbi.nlm.nih.gov/books/NBK10005/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "c3j4k5l6-m7n8-9o0p-1q2r-3s4t5u6v7w8x",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "The movement of cytoplasm within a cell, assisting in the distribution of materials, is known as:",
+"options": [
+"Osmosis",
+"Cyclosis (Cytoplasmic streaming)",
+"Diffusion",
+"Pinocytosis"
+],
+"correct_answer": "Cyclosis (Cytoplasmic streaming)",
+"explanation": "Cyclosis, or cytoplasmic streaming, is the directed flow of cytosol and organelles around the cell, often driven by actin microfilaments.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/cytoplasmic-streaming](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/cytoplasmic-streaming)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "d4k5l6m7-n8o9-0p1q-2r3s-4t5u6v7w8x9y",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Chromatin is composed of DNA wrapped around basic proteins called:",
+"options": [
+"Albumin",
+"Histones",
+"Globulins",
+"Keratin"
+],
+"correct_answer": "Histones",
+"explanation": "In eukaryotic cells, DNA acts as a negative ion and wraps around positively charged histone octamers to form nucleosomes, the fundamental unit of chromatin.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK21500/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK21500/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "e5l6m7n8-o9p0-1q2r-3s4t-5u6v7w8x9y0z",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "In prokaryotic cells, the region where the genetic material is located without a nuclear membrane is called the:",
+"options": [
+"Nucleolus",
+"Nucleoid",
+"Capsule",
+"Plasmid"
+],
+"correct_answer": "Nucleoid",
+"explanation": "Prokaryotes lack a true nucleus. Their single circular chromosome is condensed in a region of the cytoplasm called the nucleoid.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26857/](https://www.ncbi.nlm.nih.gov/books/NBK26857/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "f6m7n8o9-p0q1-2r3s-4t5u-6v7w8x9y0z1a",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Which of the following processes requires a carrier protein but NO energy expenditure?",
+"options": [
+"Active Transport",
+"Facilitated Diffusion",
+"Simple Diffusion",
+"Endocytosis"
+],
+"correct_answer": "Facilitated Diffusion",
+"explanation": "Facilitated diffusion uses membrane proteins to help molecules cross the membrane down their concentration gradient. Since it goes down the gradient, no energy (ATP) is required.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26815/](https://www.ncbi.nlm.nih.gov/books/NBK26815/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "a7n8o9p0-q1r2-3s4t-5u6v-7w8x9y0z1a2b",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "During cell fractionation, which organelle is typically sedimented first at the lowest speed due to being the largest and densest?",
+"options": [
+"Ribosomes",
+"Mitochondria",
+"Nucleus",
+"Lysosomes"
+],
+"correct_answer": "Nucleus",
+"explanation": "In differential centrifugation, the largest and densest organelles pellet first. The nucleus is the largest organelle and sediments at low speeds (approx 600g).",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK21510/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK21510/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "b8o9p0q1-r2s3-4t5u-6v7w-8x9y0z1a2b3c",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Which statement correctly describes the arrangement of cilia and flagella in eukaryotes?",
+"options": [
+"9+0 microtubule arrangement",
+"9+2 microtubule arrangement",
+"Single solid protein filament",
+"Random arrangement of tubulin"
+],
+"correct_answer": "9+2 microtubule arrangement",
+"explanation": "Eukaryotic cilia and flagella have a characteristic axoneme structure consisting of 9 outer doublet microtubules surrounding a central pair of single microtubules (9+2).",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK21580/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK21580/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "c9p0q1r2-s3t4-5u6v-7w8x-9y0z1a2b3c4d",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "In secondary active transport (co-transport), the movement of glucose into a cell is often driven by the concentration gradient of which ion?",
+"options": [
+"Potassium (K+)",
+"Sodium (Na+)",
+"Calcium (Ca2+)",
+"Chloride (Cl-)"
+],
+"correct_answer": "Sodium (Na+)",
+"explanation": "The Na+/glucose symporter uses the energy stored in the Sodium gradient (established by the Na+/K+ pump) to drag glucose into the cell against its gradient.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26907/](https://www.ncbi.nlm.nih.gov/books/NBK26907/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "d0q1r2s3-t4u5-6v7w-8x9y-0z1a2b3c4d5e",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Autophagy is a process regulated by which organelle to digest the cell's own worn-out components?",
+"options": [
+"Golgi Apparatus",
+"Lysosome",
+"Endoplasmic Reticulum",
+"Mitochondria"
+],
+"correct_answer": "Lysosome",
+"explanation": "Autophagy is the process where lysosomes fuse with vesicles containing damaged organelles or cytosolic components to recycle them.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26850/](https://www.ncbi.nlm.nih.gov/books/NBK26850/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "e1r2s3t4-u5v6-7w8x-9y0z-1a2b3c4d5e6f",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "What is the primary difference between the Rough Endoplasmic Reticulum (RER) and the Smooth Endoplasmic Reticulum (SER)?",
+"options": [
+"SER has ribosomes; RER does not",
+"RER has ribosomes attached; SER does not",
+"RER synthesizes lipids; SER synthesizes proteins",
+"RER is not continuous with the nuclear envelope"
+],
+"correct_answer": "RER has ribosomes attached; SER does not",
+"explanation": "The 'Rough' appearance of the RER is due to ribosomes attached to its cytoplasmic surface, which are absent in the 'Smooth' ER.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK9889/](https://www.ncbi.nlm.nih.gov/books/NBK9889/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "f2s3t4u5-v6w7-8x9y-0z1a-2b3c4d5e6f7g",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "The secondary cell wall in plants is primarily formed:",
+"options": [
+"Between the primary wall and the middle lamella",
+"Between the primary wall and the plasma membrane",
+"Outside the middle lamella",
+"Within the cytoplasm"
+],
+"correct_answer": "Between the primary wall and the plasma membrane",
+"explanation": "The secondary cell wall is deposited after the cell has stopped growing and is located between the plasma membrane and the primary cell wall.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26923/](https://www.ncbi.nlm.nih.gov/books/NBK26923/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "a3t4u5v6-w7x8-9y0z-1a2b-3c4d5e6f7g8h",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "In the Gram staining technique, Gram-positive bacteria retain the purple dye because:",
+"options": [
+"They have a thin peptidoglycan layer",
+"They have a thick peptidoglycan layer",
+"They possess an outer lipopolysaccharide membrane",
+"They lack a cell wall"
+],
+"correct_answer": "They have a thick peptidoglycan layer",
+"explanation": "Gram-positive bacteria have a thick peptidoglycan layer that traps the crystal violet-iodine complex, retaining the purple color despite washing with alcohol.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK44154/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK44154/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "b4u5v6w7-x8y9-0z1a-2b3c-4d5e6f7g8h9i",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Which component of the cytoskeleton is responsible for forming the cleavage furrow during animal cell cytokinesis?",
+"options": [
+"Microtubules",
+"Microfilaments",
+"Intermediate filaments",
+"Centrioles"
+],
+"correct_answer": "Microfilaments",
+"explanation": "A contractile ring made of actin microfilaments and myosin forms just inside the plasma membrane, constricting to create the cleavage furrow that pinches the cell in two.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK9956/](https://www.ncbi.nlm.nih.gov/books/NBK9956/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "c5v6w7x8-y9z0-1a2b-3c4d-5e6f7g8h9i0j",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "The folded invaginations of the plasma membrane in some bacteria that are analogous to mitochondria are called:",
+"options": [
+"Plasmids",
+"Mesosomes",
+"Ribosomes",
+"Pili"
+],
+"correct_answer": "Mesosomes",
+"explanation": "Mesosomes are invaginations of the bacterial plasma membrane formerly thought to be sites of respiration and cell division, though now often considered artifacts, they are still referenced in this context in many curricula.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/mesosome](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/mesosome)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "d6w7x8y9-z0a1-2b3c-4d5e-6f7g8h9i0j1k",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Which of the following is NOT a function of the smooth endoplasmic reticulum?",
+"options": [
+"Lipid synthesis",
+"Calcium storage",
+"Detoxification",
+"Protein synthesis"
+],
+"correct_answer": "Protein synthesis",
+"explanation": "Protein synthesis is the function of ribosomes and the Rough Endoplasmic Reticulum. The Smooth ER is involved in lipid synthesis, calcium storage, and detoxification.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK9889/](https://www.ncbi.nlm.nih.gov/books/NBK9889/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "e7x8y9z0-a1b2-3c4d-5e6f-7g8h9i0j1k2l",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Heterochromatin differs from euchromatin in that heterochromatin is:",
+"options": [
+"Loosely packed and genetically active",
+"Tightly packed and genetically inactive",
+"Found only in prokaryotes",
+"Composed of RNA only"
+],
+"correct_answer": "Tightly packed and genetically inactive",
+"explanation": "Heterochromatin is the condensed, dark-staining form of chromatin that is generally transcriptionally inactive, whereas euchromatin is loose and active.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK21500/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK21500/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "f8y9z0a1-b2c3-4d5e-6f7g-8h9i0j1k2l3m",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "What is the approximate percentage of lipids in the plasma membrane?",
+"options": [
+"10-20%",
+"20-40%",
+"60-80%",
+"90-95%"
+],
+"correct_answer": "20-40%",
+"explanation": "While it varies by cell type, standard textbooks often cite the plasma membrane composition as roughly 60-80% protein and 20-40% lipid by mass.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26871/](https://www.ncbi.nlm.nih.gov/books/NBK26871/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "a9z0a1b2-c3d4-5e6f-7g8h-9i0j1k2l3m4n",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "The stroma of the chloroplast contains enzymes primarily required for:",
+"options": [
+"Light-dependent reactions",
+"Dark reactions (Calvin Cycle)",
+"Electron transport chain",
+"Glycolysis"
+],
+"correct_answer": "Dark reactions (Calvin Cycle)",
+"explanation": "The stroma is the fluid-filled space surrounding the grana where the enzymes for the Calvin cycle (dark reactions) fix CO2 into sugars.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26819/](https://www.ncbi.nlm.nih.gov/books/NBK26819/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+},
+{
+"mcq_id": "b0a1b2c3-d4e5-6f7g-8h9i-0j1k2l3m4n5o",
+"topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+"question": "Which of the following transport mechanisms allows a cell to secrete hormones or neurotransmitters?",
+"options": [
+"Endocytosis",
+"Exocytosis",
+"Pinocytosis",
+"Phagocytosis"
+],
+"correct_answer": "Exocytosis",
+"explanation": "Exocytosis is the process where secretory vesicles fuse with the plasma membrane to release their contents (like hormones or neurotransmitters) to the cell exterior.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK9838/](https://www.ncbi.nlm.nih.gov/books/NBK9838/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T11:30:00Z"
+}
+]
