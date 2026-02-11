@@ -1,0 +1,944 @@
+[
+  {
+    "subtopic_id": "st_bioenergetics_001",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "subtopic_name": "Process of Photosynthesis",
+    "learning_outcome": "Explain the process of photosynthesis"
+  },
+  {
+    "subtopic_id": "st_bioenergetics_002",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "subtopic_name": "Factors Affecting Photosynthesis",
+    "learning_outcome": "Explain the role of factors (light, water, CO2) affecting photosynthesis"
+  },
+  {
+    "subtopic_id": "st_bioenergetics_003",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "subtopic_name": "Light Dependent Reactions",
+    "learning_outcome": "Explain light dependent phases/reactions"
+  },
+  {
+    "subtopic_id": "st_bioenergetics_004",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "subtopic_name": "Light Independent Reactions (Calvin Cycle)",
+    "learning_outcome": "Explain light independent phases/reactions"
+  },
+  {
+    "subtopic_id": "st_cellbio_001",
+    "topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+    "subtopic_name": "Animal Cell vs Plant Cell Structure",
+    "learning_outcome": "Compare the structure of typical animal and plant cell"
+  },
+  {
+    "subtopic_id": "st_cellbio_002",
+    "topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+    "subtopic_name": "Prokaryotic vs Eukaryotic Cells",
+    "learning_outcome": "Compare and contrast the structure of prokaryotic cells with eukaryotic cells"
+  },
+  {
+    "subtopic_id": "st_cellbio_003",
+    "topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+    "subtopic_name": "Nucleus - Structure and Function",
+    "learning_outcome": "Outline the structure and function of nucleus"
+  },
+  {
+    "subtopic_id": "st_cellbio_004",
+    "topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+    "subtopic_name": "Endoplasmic Reticulum - Structure and Function",
+    "learning_outcome": "Outline the structure and function of endoplasmic reticulum"
+  },
+  {
+    "subtopic_id": "st_cellbio_005",
+    "topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+    "subtopic_name": "Golgi Apparatus - Structure and Function",
+    "learning_outcome": "Outline the structure and function of golgi apparatus"
+  },
+  {
+    "subtopic_id": "st_cellbio_006",
+    "topic_id": "8d72a07b-bc49-42be-8b4c-078044b6c6b6",
+    "subtopic_name": "Mitochondria - Structure and Function",
+    "learning_outcome": "Outline the structure and function of mitochondria"
+  },
+  {
+    "subtopic_id": "st_cellcycle_001",
+    "topic_id": "a1111c1e-aaaa-4b4b-9c9c-000000000001",
+    "subtopic_name": "Cell Cycle Overview",
+    "learning_outcome": "Understand the phases of cell cycle (Interphase and M phase)"
+  },
+  {
+    "subtopic_id": "st_cellcycle_002",
+    "topic_id": "a1111c1e-aaaa-4b4b-9c9c-000000000001",
+    "subtopic_name": "Mitosis - Prophase",
+    "learning_outcome": "Describe prophase of mitosis"
+  },
+  {
+    "subtopic_id": "st_cellcycle_003",
+    "topic_id": "a1111c1e-aaaa-4b4b-9c9c-000000000001",
+    "subtopic_name": "Mitosis - Metaphase",
+    "learning_outcome": "Describe metaphase of mitosis"
+  },
+  {
+    "subtopic_id": "st_cellcycle_004",
+    "topic_id": "a1111c1e-aaaa-4b4b-9c9c-000000000001",
+    "subtopic_name": "Mitosis - Anaphase",
+    "learning_outcome": "Describe anaphase of mitosis"
+  },
+  {
+    "subtopic_id": "st_cellcycle_005",
+    "topic_id": "a1111c1e-aaaa-4b4b-9c9c-000000000001",
+    "subtopic_name": "Mitosis - Telophase and Cytokinesis",
+    "learning_outcome": "Describe telophase and cytokinesis in mitosis"
+  },
+  {
+    "subtopic_id": "st_cellcycle_006",
+    "topic_id": "a1111c1e-aaaa-4b4b-9c9c-000000000001",
+    "subtopic_name": "Meiosis I - Prophase I",
+    "learning_outcome": "Describe prophase I of meiosis including crossing over"
+  },
+  {
+    "subtopic_id": "st_cellcycle_007",
+    "topic_id": "a1111c1e-aaaa-4b4b-9c9c-000000000001",
+    "subtopic_name": "Meiosis I - Metaphase I and Anaphase I",
+    "learning_outcome": "Describe metaphase I and anaphase I of meiosis"
+  },
+  {
+    "subtopic_id": "st_cellcycle_008",
+    "topic_id": "a1111c1e-aaaa-4b4b-9c9c-000000000001",
+    "subtopic_name": "Meiosis I - Telophase I",
+    "learning_outcome": "Describe telophase I and completion of first meiotic division"
+  },
+  {
+    "subtopic_id": "st_cellcycle_009",
+    "topic_id": "a1111c1e-aaaa-4b4b-9c9c-000000000001",
+    "subtopic_name": "Meiosis II - All Phases",
+    "learning_outcome": "Describe all phases of meiosis II"
+  },
+  {
+    "subtopic_id": "st_cellcycle_010",
+    "topic_id": "a1111c1e-aaaa-4b4b-9c9c-000000000001",
+    "subtopic_name": "Comparison - Mitosis vs Meiosis",
+    "learning_outcome": "Compare and contrast mitosis and meiosis"
+  },
+  {
+    "subtopic_id": "st_coord_001",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "subtopic_name": "Receptors as Transducers",
+    "learning_outcome": "Recognize receptors as transducers sensitive to various stimuli"
+  },
+  {
+    "subtopic_id": "st_coord_002",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "subtopic_name": "Neurons - Definition and Types",
+    "learning_outcome": "Define neurons and classify different types"
+  },
+  {
+    "subtopic_id": "st_coord_003",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "subtopic_name": "Structure of a Neuron",
+    "learning_outcome": "Explain the structure of a typical neuron (cell body, dendrites, axon, myelin sheath, Schwann cells)"
+  },
+  {
+    "subtopic_id": "st_coord_004",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "subtopic_name": "Nerve Impulse",
+    "learning_outcome": "Define nerve impulse and explain its transmission"
+  },
+  {
+    "subtopic_id": "st_coord_005",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "subtopic_name": "Reflex Actions and Reflex Arc",
+    "learning_outcome": "Explain reflexes and briefly explain the functions of components of a reflex arc"
+  },
+  {
+    "subtopic_id": "st_coord_006",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "subtopic_name": "Brain Structure - Main Parts",
+    "learning_outcome": "List the main parts of the brain (brain stem components, midbrain, cerebellum, cerebrum)"
+  },
+  {
+    "subtopic_id": "st_coord_007",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "subtopic_name": "Brain Functions",
+    "learning_outcome": "Describe the functions of each part of the brain"
+  },
+  {
+    "subtopic_id": "st_coord_008",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "subtopic_name": "Plant Hormones and Functions",
+    "learning_outcome": "Explain the functions of hormones naturally produced by plants"
+  },
+  {
+    "subtopic_id": "st_biomol_001",
+    "topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+    "subtopic_name": "Definition and Classification of Biological Molecules",
+    "learning_outcome": "Define and classify biological molecules"
+  },
+  {
+    "subtopic_id": "st_biomol_002",
+    "topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+    "subtopic_name": "Importance of Biological Molecules",
+    "learning_outcome": "Discuss the importance of biological molecules"
+  },
+  {
+    "subtopic_id": "st_biomol_003",
+    "topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+    "subtopic_name": "Properties of Water",
+    "learning_outcome": "Describe biologically important properties of water (polarity, hydrolysis, specific heat, water as solvent and reagent, density, cohesion/ionization)"
+  },
+  {
+    "subtopic_id": "st_biomol_004",
+    "topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+    "subtopic_name": "Carbohydrates - Monosaccharides",
+    "learning_outcome": "Discuss monosaccharides with focus on glucose"
+  },
+  {
+    "subtopic_id": "st_biomol_005",
+    "topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+    "subtopic_name": "Carbohydrates - Oligosaccharides",
+    "learning_outcome": "Discuss oligosaccharides (cane sugar, sucrose, lactose)"
+  },
+  {
+    "subtopic_id": "st_biomol_006",
+    "topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+    "subtopic_name": "Carbohydrates - Polysaccharides",
+    "learning_outcome": "Discuss polysaccharides (starches, cellulose, glycogen)"
+  },
+  {
+    "subtopic_id": "st_biomol_007",
+    "topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+    "subtopic_name": "Proteins - Amino Acids",
+    "learning_outcome": "Describe proteins: amino acids and their structure"
+  },
+  {
+    "subtopic_id": "st_biomol_008",
+    "topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+    "subtopic_name": "Proteins - Structure Levels",
+    "learning_outcome": "Describe structure of proteins (primary, secondary, tertiary, quaternary)"
+  },
+  {
+    "subtopic_id": "st_biomol_009",
+    "topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+    "subtopic_name": "Lipids - Phospholipids",
+    "learning_outcome": "Describe phospholipids"
+  },
+  {
+    "subtopic_id": "st_biomol_010",
+    "topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+    "subtopic_name": "Lipids - Triglycerides",
+    "learning_outcome": "Describe triglycerides and acylglycerol"
+  },
+  {
+    "subtopic_id": "st_biomol_011",
+    "topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+    "subtopic_name": "RNA - Structure and Types",
+    "learning_outcome": "Give an account of RNA"
+  },
+  {
+    "subtopic_id": "st_biomol_012",
+    "topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+    "subtopic_name": "Conjugated Molecules",
+    "learning_outcome": "Discuss conjugated molecules (glycolipids, glycoproteins)"
+  },
+  {
+    "subtopic_id": "st_genetics_001",
+    "topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+    "subtopic_name": "Mendel's Laws of Inheritance",
+    "learning_outcome": "Associate inheritance with the laws of Mendel"
+  },
+  {
+    "subtopic_id": "st_genetics_002",
+    "topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+    "subtopic_name": "Law of Independent Assortment",
+    "learning_outcome": "Explain the law of independent assortment using suitable examples"
+  },
+  {
+    "subtopic_id": "st_genetics_003",
+    "topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+    "subtopic_name": "Gene Linkage",
+    "learning_outcome": "Describe the terms gene linkage"
+  },
+  {
+    "subtopic_id": "st_genetics_004",
+    "topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+    "subtopic_name": "Crossing Over",
+    "learning_outcome": "Describe crossing over and its significance"
+  },
+  {
+    "subtopic_id": "st_genetics_005",
+    "topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+    "subtopic_name": "Gene Linkage vs Independent Assortment",
+    "learning_outcome": "Explain how gene linkage counters independent assortment and crossing-over modifies the progeny"
+  },
+  {
+    "subtopic_id": "st_genetics_006",
+    "topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+    "subtopic_name": "Sex-Linkage Concept",
+    "learning_outcome": "Describe the concept of sex-linkage"
+  },
+  {
+    "subtopic_id": "st_genetics_007",
+    "topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+    "subtopic_name": "Inheritance of Sex-Linked Traits",
+    "learning_outcome": "Briefly describe inheritance of sex-linked traits"
+  },
+  {
+    "subtopic_id": "st_genetics_008",
+    "topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+    "subtopic_name": "Hemophilia Inheritance",
+    "learning_outcome": "Analyze the inheritance of hemophilia"
+  },
+  {
+    "subtopic_id": "st_molgen_001",
+    "topic_id": "a2222c2e-bbbb-4c4c-8d8d-000000000002",
+    "subtopic_name": "DNA Structure",
+    "learning_outcome": "Describe the structure of DNA molecule"
+  },
+  {
+    "subtopic_id": "st_molgen_002",
+    "topic_id": "a2222c2e-bbbb-4c4c-8d8d-000000000002",
+    "subtopic_name": "DNA Replication",
+    "learning_outcome": "Explain the process of DNA replication"
+  },
+  {
+    "subtopic_id": "st_molgen_003",
+    "topic_id": "a2222c2e-bbbb-4c4c-8d8d-000000000002",
+    "subtopic_name": "RNA Structure and Types",
+    "learning_outcome": "Describe RNA structure and different types (mRNA, tRNA, rRNA)"
+  },
+  {
+    "subtopic_id": "st_molgen_004",
+    "topic_id": "a2222c2e-bbbb-4c4c-8d8d-000000000002",
+    "subtopic_name": "Transcription Process",
+    "learning_outcome": "Explain the process of transcription"
+  },
+  {
+    "subtopic_id": "st_molgen_005",
+    "topic_id": "a2222c2e-bbbb-4c4c-8d8d-000000000002",
+    "subtopic_name": "Translation and Protein Synthesis",
+    "learning_outcome": "Explain the process of translation and protein synthesis"
+  },
+  {
+    "subtopic_id": "st_molgen_006",
+    "topic_id": "a2222c2e-bbbb-4c4c-8d8d-000000000002",
+    "subtopic_name": "Genetic Code",
+    "learning_outcome": "Understand the genetic code and codon-anticodon pairing"
+  },
+  {
+    "subtopic_id": "st_animalia_001",
+    "topic_id": "1bca8573-e392-47a9-b732-13496e648483",
+    "subtopic_name": "General Characteristics of Animals",
+    "learning_outcome": "Describe general characteristics of animals"
+  },
+  {
+    "subtopic_id": "st_animalia_002",
+    "topic_id": "1bca8573-e392-47a9-b732-13496e648483",
+    "subtopic_name": "Classification of Kingdom Animalia",
+    "learning_outcome": "Classify animals into major phyla"
+  },
+  {
+    "subtopic_id": "st_animalia_003",
+    "topic_id": "1bca8573-e392-47a9-b732-13496e648483",
+    "subtopic_name": "Invertebrates - Major Phyla",
+    "learning_outcome": "Describe characteristics of major invertebrate phyla"
+  },
+  {
+    "subtopic_id": "st_animalia_004",
+    "topic_id": "1bca8573-e392-47a9-b732-13496e648483",
+    "subtopic_name": "Vertebrates - Classes",
+    "learning_outcome": "Describe characteristics of vertebrate classes"
+  },
+  {
+    "subtopic_id": "st_enzymes_001",
+    "topic_id": "e5646d8a-1fe3-4725-85e1-7525f4d5acb1",
+    "subtopic_name": "Distinguishing Characteristics of Enzymes",
+    "learning_outcome": "Describe the distinguishing characteristics of enzymes"
+  },
+  {
+    "subtopic_id": "st_enzymes_002",
+    "topic_id": "e5646d8a-1fe3-4725-85e1-7525f4d5acb1",
+    "subtopic_name": "Mechanism of Enzyme Action",
+    "learning_outcome": "Explain mechanism of action of enzymes (lock and key, induced fit)"
+  },
+  {
+    "subtopic_id": "st_enzymes_003",
+    "topic_id": "e5646d8a-1fe3-4725-85e1-7525f4d5acb1",
+    "subtopic_name": "Effect of Temperature on Enzyme Activity",
+    "learning_outcome": "Describe effects of temperature on enzyme action"
+  },
+  {
+    "subtopic_id": "st_enzymes_004",
+    "topic_id": "e5646d8a-1fe3-4725-85e1-7525f4d5acb1",
+    "subtopic_name": "Effect of pH on Enzyme Activity",
+    "learning_outcome": "Describe effects of pH on enzyme action"
+  },
+  {
+    "subtopic_id": "st_enzymes_005",
+    "topic_id": "e5646d8a-1fe3-4725-85e1-7525f4d5acb1",
+    "subtopic_name": "Effect of Concentration on Enzyme Activity",
+    "learning_outcome": "Describe effects of concentration on enzyme action"
+  },
+  {
+    "subtopic_id": "st_enzymes_006",
+    "topic_id": "e5646d8a-1fe3-4725-85e1-7525f4d5acb1",
+    "subtopic_name": "Enzyme Inhibitors",
+    "learning_outcome": "Explain enzyme inhibitors (competitive and non-competitive)"
+  },
+  {
+    "subtopic_id": "st_circulation_001",
+    "topic_id": "18d567f8-3f9f-42fa-87b3-875735f17a35",
+    "subtopic_name": "General Structure of Human Heart",
+    "learning_outcome": "List general structure of human heart"
+  },
+  {
+    "subtopic_id": "st_circulation_002",
+    "topic_id": "18d567f8-3f9f-42fa-87b3-875735f17a35",
+    "subtopic_name": "Phases of Heartbeat",
+    "learning_outcome": "Define the phases of heartbeat (systole and diastole)"
+  },
+  {
+    "subtopic_id": "st_circulation_003",
+    "topic_id": "18d567f8-3f9f-42fa-87b3-875735f17a35",
+    "subtopic_name": "Blood Vessels - Arteries",
+    "learning_outcome": "Explain the differences and functions of arteries"
+  },
+  {
+    "subtopic_id": "st_circulation_004",
+    "topic_id": "18d567f8-3f9f-42fa-87b3-875735f17a35",
+    "subtopic_name": "Blood Vessels - Veins",
+    "learning_outcome": "Explain the differences and functions of veins"
+  },
+  {
+    "subtopic_id": "st_circulation_005",
+    "topic_id": "18d567f8-3f9f-42fa-87b3-875735f17a35",
+    "subtopic_name": "Blood Vessels - Capillaries",
+    "learning_outcome": "Explain the differences and functions of capillaries"
+  },
+  {
+    "subtopic_id": "st_circulation_006",
+    "topic_id": "18d567f8-3f9f-42fa-87b3-875735f17a35",
+    "subtopic_name": "Lymphatic System",
+    "learning_outcome": "Describe lymphatic system (nodes, vessels and organs)"
+  },
+  {
+    "subtopic_id": "st_plantrans_001",
+    "topic_id": "a3333c3e-cccc-4d4d-7e7e-000000000003",
+    "subtopic_name": "Osmotic Pressure in Plants",
+    "learning_outcome": "Describe osmotic pressure and its importance in plants"
+  },
+  {
+    "subtopic_id": "st_plantrans_002",
+    "topic_id": "a3333c3e-cccc-4d4d-7e7e-000000000003",
+    "subtopic_name": "Water and Mineral Uptake by Roots",
+    "learning_outcome": "Describe water and minerals uptake by roots"
+  },
+  {
+    "subtopic_id": "st_plantrans_003",
+    "topic_id": "a3333c3e-cccc-4d4d-7e7e-000000000003",
+    "subtopic_name": "Xylem Structure and Function",
+    "learning_outcome": "Describe xylem structure and its role in transport"
+  },
+  {
+    "subtopic_id": "st_plantrans_004",
+    "topic_id": "a3333c3e-cccc-4d4d-7e7e-000000000003",
+    "subtopic_name": "Phloem Structure and Function",
+    "learning_outcome": "Describe phloem structure and its role in transport"
+  },
+  {
+    "subtopic_id": "st_plantrans_005",
+    "topic_id": "a3333c3e-cccc-4d4d-7e7e-000000000003",
+    "subtopic_name": "Transpiration",
+    "learning_outcome": "Explain the process of transpiration and its significance"
+  },
+  {
+    "subtopic_id": "st_plantnutr_001",
+    "topic_id": "a4444c4e-dddd-4e4e-6f6f-000000000004",
+    "subtopic_name": "Carnivorous Plants Examples",
+    "learning_outcome": "Discuss the examples of carnivorous plants (pitcher plant, venus fly trap, sundew)"
+  },
+  {
+    "subtopic_id": "st_plantnutr_002",
+    "topic_id": "a4444c4e-dddd-4e4e-6f6f-000000000004",
+    "subtopic_name": "Mineral Nutrition in Plants",
+    "learning_outcome": "Describe mineral nutrition and essential elements for plants"
+  },
+  {
+    "subtopic_id": "st_plantnutr_003",
+    "topic_id": "a4444c4e-dddd-4e4e-6f6f-000000000004",
+    "subtopic_name": "Nitrogen Fixation",
+    "learning_outcome": "Explain nitrogen fixation in plants"
+  },
+  {
+    "subtopic_id": "st_reprod_001",
+    "topic_id": "55314d81-faf1-4206-93d4-a11fbbf0b082",
+    "subtopic_name": "Male Reproductive System",
+    "learning_outcome": "Describe the functions of various parts of the male reproductive system"
+  },
+  {
+    "subtopic_id": "st_reprod_002",
+    "topic_id": "55314d81-faf1-4206-93d4-a11fbbf0b082",
+    "subtopic_name": "Female Reproductive System",
+    "learning_outcome": "Describe the functions of various parts of the female reproductive system"
+  },
+  {
+    "subtopic_id": "st_reprod_003",
+    "topic_id": "55314d81-faf1-4206-93d4-a11fbbf0b082",
+    "subtopic_name": "Hormones Regulating Reproduction",
+    "learning_outcome": "Describe hormones that regulate reproductive functions"
+  },
+  {
+    "subtopic_id": "st_reprod_004",
+    "topic_id": "55314d81-faf1-4206-93d4-a11fbbf0b082",
+    "subtopic_name": "Menstrual Cycle",
+    "learning_outcome": "Describe the menstrual cycle emphasizing the role of hormones"
+  },
+  {
+    "subtopic_id": "st_reprod_005",
+    "topic_id": "55314d81-faf1-4206-93d4-a11fbbf0b082",
+    "subtopic_name": "Sexually Transmitted Diseases",
+    "learning_outcome": "Name common sexually transmitted diseases along with their causative agents and main symptoms"
+  },
+  {
+    "subtopic_id": "st_support_001",
+    "topic_id": "354967cf-9641-4023-a3b3-9ddafd2442c3",
+    "subtopic_name": "Types of Skeleton",
+    "learning_outcome": "Describe endoskeleton, exoskeleton, and hydrostatic skeleton"
+  },
+  {
+    "subtopic_id": "st_support_002",
+    "topic_id": "354967cf-9641-4023-a3b3-9ddafd2442c3",
+    "subtopic_name": "Cartilage - Characteristics and Functions",
+    "learning_outcome": "Explain the main characteristics of cartilage and its functions"
+  },
+  {
+    "subtopic_id": "st_support_003",
+    "topic_id": "354967cf-9641-4023-a3b3-9ddafd2442c3",
+    "subtopic_name": "Bone - Characteristics and Functions",
+    "learning_outcome": "Explain the main characteristics of bone and its functions"
+  },
+  {
+    "subtopic_id": "st_support_004",
+    "topic_id": "354967cf-9641-4023-a3b3-9ddafd2442c3",
+    "subtopic_name": "Smooth Muscles",
+    "learning_outcome": "Compare characteristics of smooth muscles"
+  },
+  {
+    "subtopic_id": "st_support_005",
+    "topic_id": "354967cf-9641-4023-a3b3-9ddafd2442c3",
+    "subtopic_name": "Cardiac Muscles",
+    "learning_outcome": "Compare characteristics of cardiac muscles"
+  },
+  {
+    "subtopic_id": "st_support_006",
+    "topic_id": "354967cf-9641-4023-a3b3-9ddafd2442c3",
+    "subtopic_name": "Skeletal Muscles",
+    "learning_outcome": "Compare characteristics of skeletal muscles"
+  },
+  {
+    "subtopic_id": "st_support_007",
+    "topic_id": "354967cf-9641-4023-a3b3-9ddafd2442c3",
+    "subtopic_name": "Ultra-structure of Skeletal Muscles",
+    "learning_outcome": "Explain the ultra-structure of skeletal muscles"
+  },
+  {
+    "subtopic_id": "st_support_008",
+    "topic_id": "354967cf-9641-4023-a3b3-9ddafd2442c3",
+    "subtopic_name": "Skeletal Muscle Contraction",
+    "learning_outcome": "Describe in brief the process of skeletal muscle contraction"
+  },
+  {
+    "subtopic_id": "st_support_009",
+    "topic_id": "354967cf-9641-4023-a3b3-9ddafd2442c3",
+    "subtopic_name": "Classification of Joints",
+    "learning_outcome": "Classify joints (movable, immovable, slightly movable)"
+  },
+  {
+    "subtopic_id": "st_support_010",
+    "topic_id": "354967cf-9641-4023-a3b3-9ddafd2442c3",
+    "subtopic_name": "Arthritis",
+    "learning_outcome": "Define arthritis and its types"
+  },
+  {
+    "subtopic_id": "st_respir_001",
+    "topic_id": "3638c40f-a972-4114-af34-5f48271da6ff",
+    "subtopic_name": "Functions of Respiratory System Parts",
+    "learning_outcome": "Explain the functions of main parts of respiratory system"
+  },
+  {
+    "subtopic_id": "st_respir_002",
+    "topic_id": "3638c40f-a972-4114-af34-5f48271da6ff",
+    "subtopic_name": "Gaseous Exchange in Human Lungs",
+    "learning_outcome": "Discuss the process of gaseous exchange in human lungs"
+  },
+  {
+    "subtopic_id": "st_respir_003",
+    "topic_id": "3638c40f-a972-4114-af34-5f48271da6ff",
+    "subtopic_name": "Effect of Smoking on Respiratory System",
+    "learning_outcome": "Explain the effect of smoking on respiratory system"
+  },
+  {
+    "subtopic_id": "st_respir_004",
+    "topic_id": "3638c40f-a972-4114-af34-5f48271da6ff",
+    "subtopic_name": "Mechanism of Breathing",
+    "learning_outcome": "Describe the mechanism of inhalation and exhalation"
+  },
+  {
+    "subtopic_id": "st_digest_001",
+    "topic_id": "4a477e72-3373-4d93-9b70-a565ce217840",
+    "subtopic_name": "Human Digestive System Structure",
+    "learning_outcome": "Describe the structure of human digestive system"
+  },
+  {
+    "subtopic_id": "st_digest_002",
+    "topic_id": "4a477e72-3373-4d93-9b70-a565ce217840",
+    "subtopic_name": "Digestion in Mouth",
+    "learning_outcome": "Explain the process of digestion in the mouth"
+  },
+  {
+    "subtopic_id": "st_digest_003",
+    "topic_id": "4a477e72-3373-4d93-9b70-a565ce217840",
+    "subtopic_name": "Digestion in Stomach",
+    "learning_outcome": "Explain the process of digestion in the stomach"
+  },
+  {
+    "subtopic_id": "st_digest_004",
+    "topic_id": "4a477e72-3373-4d93-9b70-a565ce217840",
+    "subtopic_name": "Digestion in Small Intestine",
+    "learning_outcome": "Explain the process of digestion in the small intestine"
+  },
+  {
+    "subtopic_id": "st_digest_005",
+    "topic_id": "4a477e72-3373-4d93-9b70-a565ce217840",
+    "subtopic_name": "Absorption of Nutrients",
+    "learning_outcome": "Describe the absorption of nutrients in small intestine"
+  },
+  {
+    "subtopic_id": "st_digest_006",
+    "topic_id": "4a477e72-3373-4d93-9b70-a565ce217840",
+    "subtopic_name": "Role of Liver and Pancreas",
+    "learning_outcome": "Explain the role of liver and pancreas in digestion"
+  },
+  {
+    "subtopic_id": "st_excret_001",
+    "topic_id": "3f0ae4ed-dee9-411a-bb22-21df08cdaa4d",
+    "subtopic_name": "Excretory System Structure",
+    "learning_outcome": "Describe the structure of human excretory system"
+  },
+  {
+    "subtopic_id": "st_excret_002",
+    "topic_id": "3f0ae4ed-dee9-411a-bb22-21df08cdaa4d",
+    "subtopic_name": "Kidney Structure and Function",
+    "learning_outcome": "Describe the structure and function of kidney"
+  },
+  {
+    "subtopic_id": "st_excret_003",
+    "topic_id": "3f0ae4ed-dee9-411a-bb22-21df08cdaa4d",
+    "subtopic_name": "Nephron Structure",
+    "learning_outcome": "Explain the structure of nephron"
+  },
+  {
+    "subtopic_id": "st_excret_004",
+    "topic_id": "3f0ae4ed-dee9-411a-bb22-21df08cdaa4d",
+    "subtopic_name": "Urine Formation",
+    "learning_outcome": "Describe the process of urine formation"
+  },
+  {
+    "subtopic_id": "st_excret_005",
+    "topic_id": "3f0ae4ed-dee9-411a-bb22-21df08cdaa4d",
+    "subtopic_name": "Osmoregulation",
+    "learning_outcome": "Explain the concept of osmoregulation"
+  },
+  {
+    "subtopic_id": "st_homeo_001",
+    "topic_id": "a5555c5e-eeee-4f4f-5a5a-000000000005",
+    "subtopic_name": "Concept of Homeostasis",
+    "learning_outcome": "Define homeostasis and explain its importance"
+  },
+  {
+    "subtopic_id": "st_homeo_002",
+    "topic_id": "a5555c5e-eeee-4f4f-5a5a-000000000005",
+    "subtopic_name": "Temperature Regulation",
+    "learning_outcome": "Explain temperature regulation in humans"
+  },
+  {
+    "subtopic_id": "st_homeo_003",
+    "topic_id": "a5555c5e-eeee-4f4f-5a5a-000000000005",
+    "subtopic_name": "Blood Sugar Regulation",
+    "learning_outcome": "Explain blood sugar regulation and role of insulin/glucagon"
+  },
+  {
+    "subtopic_id": "st_homeo_004",
+    "topic_id": "a5555c5e-eeee-4f4f-5a5a-000000000005",
+    "subtopic_name": "Water Balance",
+    "learning_outcome": "Explain water balance and role of ADH"
+  },
+  {
+    "subtopic_id": "st_evol_001",
+    "topic_id": "ed32eb4e-b228-4e8c-8e85-85b1a4e05b81",
+    "subtopic_name": "Origin of Life",
+    "learning_outcome": "Explain origin of life according to concept of evolution"
+  },
+  {
+    "subtopic_id": "st_evol_002",
+    "topic_id": "ed32eb4e-b228-4e8c-8e85-85b1a4e05b81",
+    "subtopic_name": "Lamarck's Theory",
+    "learning_outcome": "Describe the theory of inheritance of acquired characters as proposed by Lamarck"
+  },
+  {
+    "subtopic_id": "st_evol_003",
+    "topic_id": "ed32eb4e-b228-4e8c-8e85-85b1a4e05b81",
+    "subtopic_name": "Darwin's Theory of Natural Selection",
+    "learning_outcome": "Explain the theory of natural selection as proposed by Darwin"
+  },
+  {
+    "subtopic_id": "st_evol_004",
+    "topic_id": "ed32eb4e-b228-4e8c-8e85-85b1a4e05b81",
+    "subtopic_name": "Evidence for Evolution",
+    "learning_outcome": "Describe various evidences supporting evolution"
+  },
+  {
+    "subtopic_id": "st_prokary_001",
+    "topic_id": "cc1035ef-7147-434b-af6f-10b3148b8ae5",
+    "subtopic_name": "Cellular Structure of Bacteria",
+    "learning_outcome": "Describe cellular structures of bacteria"
+  },
+  {
+    "subtopic_id": "st_prokary_002",
+    "topic_id": "cc1035ef-7147-434b-af6f-10b3148b8ae5",
+    "subtopic_name": "Diversity in Bacterial Shape and Size",
+    "learning_outcome": "Explain diversity in shape and size in bacteria"
+  },
+  {
+    "subtopic_id": "st_prokary_003",
+    "topic_id": "cc1035ef-7147-434b-af6f-10b3148b8ae5",
+    "subtopic_name": "Importance of Bacteria",
+    "learning_outcome": "Highlight the importance of bacteria"
+  },
+  {
+    "subtopic_id": "st_prokary_004",
+    "topic_id": "cc1035ef-7147-434b-af6f-10b3148b8ae5",
+    "subtopic_name": "Control of Harmful Bacteria",
+    "learning_outcome": "Explain control of harmful bacteria"
+  },
+  {
+    "subtopic_id": "st_virus_001",
+    "topic_id": "a6666c6e-ffff-4a4a-4b4b-000000000006",
+    "subtopic_name": "Classification of Viruses",
+    "learning_outcome": "Classify viruses on basis of their structure/number of strands/diseases/host etc."
+  },
+  {
+    "subtopic_id": "st_virus_002",
+    "topic_id": "a6666c6e-ffff-4a4a-4b4b-000000000006",
+    "subtopic_name": "Viral Structure",
+    "learning_outcome": "Describe the basic structure of viruses"
+  },
+  {
+    "subtopic_id": "st_virus_003",
+    "topic_id": "a6666c6e-ffff-4a4a-4b4b-000000000006",
+    "subtopic_name": "AIDS - Symptoms and Transmission",
+    "learning_outcome": "Identify symptoms, mode of transmission and cause of AIDS"
+  },
+  {
+    "subtopic_id": "st_virus_004",
+    "topic_id": "a6666c6e-ffff-4a4a-4b4b-000000000006",
+    "subtopic_name": "Viral Replication",
+    "learning_outcome": "Explain viral replication cycle"
+  },
+  {
+    "subtopic_id": "st_biotech_001",
+    "topic_id": "34111b63-7bb2-4665-9cdb-b8d256083256",
+    "subtopic_name": "Introduction to Biotechnology",
+    "learning_outcome": "Define biotechnology and its applications"
+  },
+  {
+    "subtopic_id": "st_biotech_002",
+    "topic_id": "34111b63-7bb2-4665-9cdb-b8d256083256",
+    "subtopic_name": "Recombinant DNA Technology",
+    "learning_outcome": "Explain recombinant DNA technology"
+  },
+  {
+    "subtopic_id": "st_biotech_003",
+    "topic_id": "34111b63-7bb2-4665-9cdb-b8d256083256",
+    "subtopic_name": "Genetic Engineering",
+    "learning_outcome": "Describe genetic engineering techniques"
+  },
+  {
+    "subtopic_id": "st_biotech_004",
+    "topic_id": "34111b63-7bb2-4665-9cdb-b8d256083256",
+    "subtopic_name": "Applications of Biotechnology",
+    "learning_outcome": "Discuss applications in medicine, agriculture, and industry"
+  },
+  {
+    "subtopic_id": "st_plantae_001",
+    "topic_id": "9a9d38ef-2b8c-4edf-a7a8-79ff70a82120",
+    "subtopic_name": "Classification of Kingdom Plantae",
+    "learning_outcome": "Classify plants into major divisions"
+  },
+  {
+    "subtopic_id": "st_plantae_002",
+    "topic_id": "9a9d38ef-2b8c-4edf-a7a8-79ff70a82120",
+    "subtopic_name": "Non-Vascular Plants (Bryophytes)",
+    "learning_outcome": "Describe characteristics of bryophytes"
+  },
+  {
+    "subtopic_id": "st_plantae_003",
+    "topic_id": "9a9d38ef-2b8c-4edf-a7a8-79ff70a82120",
+    "subtopic_name": "Vascular Plants - Pteridophytes",
+    "learning_outcome": "Describe characteristics of pteridophytes"
+  },
+  {
+    "subtopic_id": "st_plantae_004",
+    "topic_id": "9a9d38ef-2b8c-4edf-a7a8-79ff70a82120",
+    "subtopic_name": "Gymnosperms",
+    "learning_outcome": "Describe characteristics of gymnosperms"
+  },
+  {
+    "subtopic_id": "st_plantae_005",
+    "topic_id": "9a9d38ef-2b8c-4edf-a7a8-79ff70a82120",
+    "subtopic_name": "Angiosperms",
+    "learning_outcome": "Describe characteristics of angiosperms"
+  },
+  {
+    "subtopic_id": "st_immunity_001",
+    "topic_id": "f1c02f2f-44af-4b63-807a-7d4e5dff666e",
+    "subtopic_name": "Innate Immunity",
+    "learning_outcome": "Define and discuss innate immunity mechanisms"
+  },
+  {
+    "subtopic_id": "st_immunity_002",
+    "topic_id": "f1c02f2f-44af-4b63-807a-7d4e5dff666e",
+    "subtopic_name": "Adaptive Immunity",
+    "learning_outcome": "Define and discuss functions and importance of specific immunity mechanisms"
+  },
+  {
+    "subtopic_id": "st_immunity_003",
+    "topic_id": "f1c02f2f-44af-4b63-807a-7d4e5dff666e",
+    "subtopic_name": "Antibodies and Antigens",
+    "learning_outcome": "Explain antibodies and antigens"
+  },
+  {
+    "subtopic_id": "st_immunity_004",
+    "topic_id": "f1c02f2f-44af-4b63-807a-7d4e5dff666e",
+    "subtopic_name": "Immune Response",
+    "learning_outcome": "Describe the immune response process"
+  },
+  {
+    "subtopic_id": "st_immunity_005",
+    "topic_id": "f1c02f2f-44af-4b63-807a-7d4e5dff666e",
+    "subtopic_name": "Vaccination",
+    "learning_outcome": "Explain the principle of vaccination"
+  },
+  {
+    "subtopic_id": "st_growth_001",
+    "topic_id": "894b5d10-9998-4f3b-8c4d-86e8771c2841",
+    "subtopic_name": "Plant Growth and Development",
+    "learning_outcome": "Describe growth and development in plants"
+  },
+  {
+    "subtopic_id": "st_growth_002",
+    "topic_id": "894b5d10-9998-4f3b-8c4d-86e8771c2841",
+    "subtopic_name": "Animal Growth and Development",
+    "learning_outcome": "Describe growth and development in animals"
+  },
+  {
+    "subtopic_id": "st_growth_003",
+    "topic_id": "894b5d10-9998-4f3b-8c4d-86e8771c2841",
+    "subtopic_name": "Growth Hormones",
+    "learning_outcome": "Explain role of hormones in growth"
+  },
+  {
+    "subtopic_id": "st_growth_004",
+    "topic_id": "894b5d10-9998-4f3b-8c4d-86e8771c2841",
+    "subtopic_name": "Differentiation and Morphogenesis",
+    "learning_outcome": "Describe cell differentiation and morphogenesis"
+  },
+  {
+    "subtopic_id": "st_eco_001",
+    "topic_id": "8413f130-5c57-4e7f-ac9b-7b91a87fc19b",
+    "subtopic_name": "Ecosystem Components",
+    "learning_outcome": "Describe biotic and abiotic components of ecosystem"
+  },
+  {
+    "subtopic_id": "st_eco_002",
+    "topic_id": "8413f130-5c57-4e7f-ac9b-7b91a87fc19b",
+    "subtopic_name": "Food Chains and Food Webs",
+    "learning_outcome": "Explain food chains and food webs"
+  },
+  {
+    "subtopic_id": "st_eco_003",
+    "topic_id": "8413f130-5c57-4e7f-ac9b-7b91a87fc19b",
+    "subtopic_name": "Energy Flow in Ecosystem",
+    "learning_outcome": "Describe energy flow in ecosystem"
+  },
+  {
+    "subtopic_id": "st_eco_004",
+    "topic_id": "8413f130-5c57-4e7f-ac9b-7b91a87fc19b",
+    "subtopic_name": "Nutrient Cycles",
+    "learning_outcome": "Explain carbon, nitrogen, and water cycles"
+  },
+  {
+    "subtopic_id": "st_eco_005",
+    "topic_id": "8413f130-5c57-4e7f-ac9b-7b91a87fc19b",
+    "subtopic_name": "Environmental Issues",
+    "learning_outcome": "Discuss pollution, deforestation, and conservation"
+  },
+  {
+    "subtopic_id": "st_protfung_001",
+    "topic_id": "565bbb6d-ed92-4803-acad-0b3837acb70a",
+    "subtopic_name": "Kingdom Protista - Classification",
+    "learning_outcome": "Classify protists into major groups"
+  },
+  {
+    "subtopic_id": "st_protfung_002",
+    "topic_id": "565bbb6d-ed92-4803-acad-0b3837acb70a",
+    "subtopic_name": "Characteristics of Protista",
+    "learning_outcome": "Describe general characteristics of protists"
+  },
+  {
+    "subtopic_id": "st_protfung_003",
+    "topic_id": "565bbb6d-ed92-4803-acad-0b3837acb70a",
+    "subtopic_name": "Kingdom Fungi - Classification",
+    "learning_outcome": "Classify fungi into major groups"
+  },
+  {
+    "subtopic_id": "st_protfung_004",
+    "topic_id": "565bbb6d-ed92-4803-acad-0b3837acb70a",
+    "subtopic_name": "Characteristics of Fungi",
+    "learning_outcome": "Describe general characteristics of fungi"
+  },
+  {
+    "subtopic_id": "st_protfung_005",
+    "topic_id": "565bbb6d-ed92-4803-acad-0b3837acb70a",
+    "subtopic_name": "Economic Importance of Fungi",
+    "learning_outcome": "Discuss beneficial and harmful fungi"
+  },
+  {
+    "subtopic_id": "st_methods_001",
+    "topic_id": "a7777c7e-1111-4b4b-3c3c-000000000007",
+    "subtopic_name": "Scientific Method",
+    "learning_outcome": "Describe steps of scientific method"
+  },
+  {
+    "subtopic_id": "st_methods_002",
+    "topic_id": "a7777c7e-1111-4b4b-3c3c-000000000007",
+    "subtopic_name": "Microscopy Techniques",
+    "learning_outcome": "Explain use of light and electron microscopes"
+  },
+  {
+    "subtopic_id": "st_methods_003",
+    "topic_id": "a7777c7e-1111-4b4b-3c3c-000000000007",
+    "subtopic_name": "Biological Drawing and Labeling",
+    "learning_outcome": "Apply proper biological drawing techniques"
+  },
+  {
+    "subtopic_id": "st_methods_004",
+    "topic_id": "a7777c7e-1111-4b4b-3c3c-000000000007",
+    "subtopic_name": "Data Collection and Analysis",
+    "learning_outcome": "Collect, organize and analyze biological data"
+  },
+  {
+    "subtopic_id": "st_methods_005",
+    "topic_id": "a7777c7e-1111-4b4b-3c3c-000000000007",
+    "subtopic_name": "Safety in Laboratory",
+    "learning_outcome": "Follow safety procedures in biological laboratory"
+  }
+]
