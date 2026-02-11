@@ -10,6 +10,11 @@
     "topic_name": "Cell Biology (Structure and Function)"
   },
   {
+    "topic_id": "a1111c1e-aaaa-4b4b-9c9c-000000000001",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Cell Cycle (Mitosis and Meiosis)"
+  },
+  {
     "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
     "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
     "topic_name": "Coordination and Control (Nervous and Chemical)"
@@ -25,6 +30,11 @@
     "topic_name": "Genetics and Inheritance"
   },
   {
+    "topic_id": "a2222c2e-bbbb-4c4c-8d8d-000000000002",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Molecular Genetics (DNA, RNA and Protein Synthesis)"
+  },
+  {
     "topic_id": "1bca8573-e392-47a9-b732-13496e648483",
     "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
     "topic_name": "Kingdom Animalia (Diversity Among Animals)"
@@ -38,6 +48,16 @@
     "topic_id": "18d567f8-3f9f-42fa-87b3-875735f17a35",
     "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
     "topic_name": "Transport in Humans (Circulatory System)"
+  },
+  {
+    "topic_id": "a3333c3e-cccc-4d4d-7e7e-000000000003",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Transport in Plants"
+  },
+  {
+    "topic_id": "a4444c4e-dddd-4e4e-6f6f-000000000004",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Nutrition in Plants"
   },
   {
     "topic_id": "55314d81-faf1-4206-93d4-a11fbbf0b082",
@@ -65,6 +85,11 @@
     "topic_name": "Excretion and Osmoregulation"
   },
   {
+    "topic_id": "a5555c5e-eeee-4f4f-5a5a-000000000005",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Homeostasis"
+  },
+  {
     "topic_id": "ed32eb4e-b228-4e8c-8e85-85b1a4e05b81",
     "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
     "topic_name": "Evolution"
@@ -73,6 +98,11 @@
     "topic_id": "cc1035ef-7147-434b-af6f-10b3148b8ae5",
     "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
     "topic_name": "Prokaryotes (Kingdom Monera)"
+  },
+  {
+    "topic_id": "a6666c6e-ffff-4a4a-4b4b-000000000006",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Viruses"
   },
   {
     "topic_id": "34111b63-7bb2-4665-9cdb-b8d256083256",
@@ -103,5 +133,10 @@
     "topic_id": "565bbb6d-ed92-4803-acad-0b3837acb70a",
     "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
     "topic_name": "Kingdom Protista and Fungi"
+  },
+  {
+    "topic_id": "a7777c7e-1111-4b4b-3c3c-000000000007",
+    "subject_id": "68ee2f0c-3ac6-4070-8bad-b9040c6db0fc",
+    "topic_name": "Biological Methods and Techniques"
   }
 ]
