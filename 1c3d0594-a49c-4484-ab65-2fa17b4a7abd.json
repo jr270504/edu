@@ -1,0 +1,3222 @@
+[
+{
+"mcq_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Who is universally recognized as the 'Father of Genetics' for his pioneering work with pea plants?",
+"options": [
+"Charles Darwin",
+"Gregor Mendel",
+"Thomas Hunt Morgan",
+"James Watson"
+],
+"correct_answer": "Gregor Mendel",
+"explanation": "Gregor Mendel is known as the Father of Genetics because he discovered the fundamental laws of inheritance through his experiments on pea plants (Pisum sativum) in the mid-19th century.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/gregor-mendel-and-the-principles-of-inheritance-593/](https://www.nature.com/scitable/topicpage/gregor-mendel-and-the-principles-of-inheritance-593/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b2c3d4e5-f6a7-4890-1234-567890abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "In a monohybrid cross between two heterozygous tall plants (Tt), what is the expected phenotypic ratio of the offspring?",
+"options": [
+"1:2:1",
+"3:1",
+"1:1",
+"9:3:3:1"
+],
+"correct_answer": "3:1",
+"explanation": "In a cross between two heterozygotes (Tt x Tt), the offspring genotypes are typically TT, Tt, Tt, and tt. Since T is dominant, three offspring appear tall and one appears short, resulting in a 3:1 phenotypic ratio.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-mendelian-genetics/a/the-law-of-segregation](https://www.google.com/search?q=https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-mendelian-genetics/a/the-law-of-segregation)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c3d4e5f6-a7b8-4901-2345-678901abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which genetic term describes an organism that has two identical alleles for a specific trait?",
+"options": [
+"Heterozygous",
+"Homozygous",
+"Hemizygous",
+"Hybrid"
+],
+"correct_answer": "Homozygous",
+"explanation": "An organism is homozygous for a trait if it possesses two identical alleles for that gene (e.g., TT or tt). Heterozygous organisms have two different alleles (e.g., Tt).",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Homozygous](https://www.google.com/search?q=https://www.genome.gov/genetics-glossary/Homozygous)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d4e5f6a7-b8c9-4012-3456-789012abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The ABO blood group system in humans is a classic example of:",
+"options": [
+"Incomplete dominance",
+"Polygenic inheritance",
+"Multiple alleles and Codominance",
+"Epistasis"
+],
+"correct_answer": "Multiple alleles and Codominance",
+"explanation": "The ABO system involves three alleles (IA, IB, i), demonstrating multiple alleles. Additionally, IA and IB are codominant, meaning both are expressed in blood type AB.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK2267/](https://www.ncbi.nlm.nih.gov/books/NBK2267/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e5f6a7b8-c9d0-4123-4567-890123abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "What is the expected phenotypic ratio of a dihybrid cross (RrYy x RrYy) assuming independent assortment?",
+"options": [
+"9:3:3:1",
+"1:1:1:1",
+"9:7",
+"12:3:1"
+],
+"correct_answer": "9:3:3:1",
+"explanation": "Mendel's Law of Independent Assortment predicts that a dihybrid cross between two heterozygotes will result in a phenotypic ratio of 9 (dominant for both) : 3 (dominant/recessive) : 3 (recessive/dominant) : 1 (recessive for both).",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/gregor-mendel-and-the-principles-of-inheritance-593/](https://www.nature.com/scitable/topicpage/gregor-mendel-and-the-principles-of-inheritance-593/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f6a7b8c9-d0e1-4234-5678-901234abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which phenomenon occurs when one gene masks or suppresses the expression of another gene at a different locus?",
+"options": [
+"Pleiotropy",
+"Epistasis",
+"Codominance",
+"Linkage"
+],
+"correct_answer": "Epistasis",
+"explanation": "Epistasis is the interaction between genes where the presence of a particular allele of one gene suppresses or masks the expression of another gene at a different locus.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/epistasis](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/epistasis)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a7b8c9d0-e1f2-4345-6789-012345abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Color blindness is an X-linked recessive trait. If a carrier mother marries a normal father, what is the probability of their son being color blind?",
+"options": [
+"0%",
+"25%",
+"50%",
+"100%"
+],
+"correct_answer": "50%",
+"explanation": "A carrier mother (XCXc) and a normal father (XCY) have sons with genotypes XCY (normal) and XcY (color blind). Therefore, there is a 50% chance for a son to be color blind.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/color-blindness/genetics-color-blindness](https://www.google.com/search?q=https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/color-blindness/genetics-color-blindness)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b8c9d0e1-f2a3-4456-7890-123456abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Down syndrome is a genetic condition caused by the presence of an extra copy of which chromosome?",
+"options": [
+"Chromosome 13",
+"Chromosome 18",
+"Chromosome 21",
+"Chromosome X"
+],
+"correct_answer": "Chromosome 21",
+"explanation": "Down syndrome, also known as Trisomy 21, occurs when an individual has three copies of chromosome 21 instead of the usual two, leading to developmental changes.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.cdc.gov/ncbddd/birthdefects/downsyndrome.html](https://www.cdc.gov/ncbddd/birthdefects/downsyndrome.html)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c9d0e1f2-a3b4-4567-8901-234567abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which scientist verified the chromosomal theory of inheritance using fruit flies (Drosophila melanogaster)?",
+"options": [
+"Gregor Mendel",
+"Thomas Hunt Morgan",
+"Walter Sutton",
+"Theodor Boveri"
+],
+"correct_answer": "Thomas Hunt Morgan",
+"explanation": "Thomas Hunt Morgan provided experimental evidence for the chromosomal theory of inheritance by discovering sex-linked traits (like white eyes) in Drosophila melanogaster.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/thomas-hunt-morgan-and-sex-linkage-452/](https://www.nature.com/scitable/topicpage/thomas-hunt-morgan-and-sex-linkage-452/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d0e1f2a3-b4c5-4678-9012-345678abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "What is the specific ratio obtained in a test cross of a heterozygous individual in a monohybrid cross?",
+"options": [
+"3:1",
+"1:2:1",
+"1:1",
+"9:3:3:1"
+],
+"correct_answer": "1:1",
+"explanation": "A test cross involves crossing a heterozygote (Tt) with a homozygous recessive (tt). The offspring are 50% Tt and 50% tt, yielding a 1:1 phenotypic and genotypic ratio.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/test-cross-169/](https://www.nature.com/scitable/definition/test-cross-169/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e1f2a3b4-c5d6-4789-0123-456789abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The snapdragon flower color (Red x White = Pink) is an example of which inheritance pattern?",
+"options": [
+"Codominance",
+"Complete dominance",
+"Incomplete dominance",
+"Epistasis"
+],
+"correct_answer": "Incomplete dominance",
+"explanation": "In snapdragons (Antirrhinum), crossing a red flower (RR) with a white flower (rr) produces pink offspring (Rr), where neither allele is fully dominant, a case of incomplete dominance.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.khanacademy.org/science/biology/classical-genetics/variations-on-mendelian-genetics/a/incomplete-dominance-codominance-multiple-alleles](https://www.google.com/search?q=https://www.khanacademy.org/science/biology/classical-genetics/variations-on-mendelian-genetics/a/incomplete-dominance-codominance-multiple-alleles)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f2a3b4c5-d6e7-4890-1234-567890abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which syndrome is characterized by the XO genotype (45 chromosomes) in females?",
+"options": [
+"Down syndrome",
+"Klinefelter syndrome",
+"Turner syndrome",
+"Patau syndrome"
+],
+"correct_answer": "Turner syndrome",
+"explanation": "Turner syndrome affects females who have only one X chromosome (XO monosomy). It is characterized by short stature, webbed neck, and infertility.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://medlineplus.gov/genetics/condition/turner-syndrome/](https://medlineplus.gov/genetics/condition/turner-syndrome/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a3b4c5d6-e7f8-4901-2345-678901abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "What is the term for a single gene affecting multiple, seemingly unrelated phenotypic traits?",
+"options": [
+"Epistasis",
+"Pleiotropy",
+"Polygenic inheritance",
+"Codominance"
+],
+"correct_answer": "Pleiotropy",
+"explanation": "Pleiotropy occurs when one gene influences two or more seemingly unrelated phenotypic traits. An example is the gene for sickle cell anemia, which affects hemoglobin, organ function, and malaria resistance.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/pleiotropy-one-gene-can-affect-multiple-traits-565/](https://www.google.com/search?q=https://www.nature.com/scitable/topicpage/pleiotropy-one-gene-can-affect-multiple-traits-565/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b4c5d6e7-f8a9-4012-3456-789012abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "In DNA, Adenine (A) always pairs with Thymine (T) via how many hydrogen bonds?",
+"options": [
+"One",
+"Two",
+"Three",
+"Four"
+],
+"correct_answer": "Two",
+"explanation": "In the DNA double helix, Adenine pairs with Thymine through two hydrogen bonds, whereas Guanine pairs with Cytosine through three hydrogen bonds.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/](https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c5d6e7f8-a9b0-4123-4567-890123abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following conditions is an example of an autosomal recessive disorder?",
+"options": [
+"Huntington's disease",
+"Cystic Fibrosis",
+"Achondroplasia",
+"Marfan syndrome"
+],
+"correct_answer": "Cystic Fibrosis",
+"explanation": "Cystic Fibrosis is an autosomal recessive disorder caused by mutations in the CFTR gene. An individual must inherit two defective alleles to express the disease.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://medlineplus.gov/genetics/condition/cystic-fibrosis/](https://medlineplus.gov/genetics/condition/cystic-fibrosis/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d6e7f8a9-b0c1-4234-5678-901234abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The physical location of a gene on a chromosome is called its:",
+"options": [
+"Allele",
+"Locus",
+"Genotype",
+"Centromere"
+],
+"correct_answer": "Locus",
+"explanation": "A locus (plural: loci) is the specific physical location of a gene or other significant sequence on a chromosome.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Locus](https://www.genome.gov/genetics-glossary/Locus)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e7f8a9b0-c1d2-4345-6789-012345abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which law states that the alleles for a trait separate when gametes are formed?",
+"options": [
+"Law of Independent Assortment",
+"Law of Segregation",
+"Law of Dominance",
+"Law of Linkage"
+],
+"correct_answer": "Law of Segregation",
+"explanation": "Mendel's Law of Segregation states that the two alleles for a trait segregate (separate) during gamete formation, so each gamete carries only one allele for each gene.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/gregor-mendel-and-the-principles-of-inheritance-593/](https://www.nature.com/scitable/topicpage/gregor-mendel-and-the-principles-of-inheritance-593/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f8a9b0c1-d2e3-4456-7890-123456abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Skin color in humans, which is controlled by multiple genes, is an example of:",
+"options": [
+"Monogenic inheritance",
+"Polygenic inheritance",
+"Codominance",
+"Multiple alleles"
+],
+"correct_answer": "Polygenic inheritance",
+"explanation": "Human skin color is determined by the additive effects of at least three separately inherited genes, a pattern known as polygenic inheritance.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/08%3A_Patterns_of_Inheritance/8.03%3A_Extensions_of_the_Laws_of_Inheritance](https://www.google.com/search?q=https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%253A_General_Biology_(OpenStax)/08%253A_Patterns_of_Inheritance/8.03%253A_Extensions_of_the_Laws_of_Inheritance)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a9b0c1d2-e3f4-4567-8901-234567abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Hemophilia A is caused by a deficiency in which blood clotting factor?",
+"options": [
+"Factor VII",
+"Factor VIII",
+"Factor IX",
+"Factor X"
+],
+"correct_answer": "Factor VIII",
+"explanation": "Hemophilia A, the most common form of hemophilia, is an X-linked recessive disorder caused by a deficiency or dysfunction of clotting Factor VIII.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.cdc.gov/ncbddd/hemophilia/facts.html](https://www.google.com/search?q=https://www.cdc.gov/ncbddd/hemophilia/facts.html)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b0c1d2e3-f4a5-4678-9012-345678abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "What is the result of non-disjunction during meiosis?",
+"options": [
+"Point mutation",
+"Polyploidy",
+"Aneuploidy",
+"Inversion"
+],
+"correct_answer": "Aneuploidy",
+"explanation": "Non-disjunction is the failure of homologous chromosomes or sister chromatids to separate properly during meiosis, resulting in gametes with an abnormal number of chromosomes (aneuploidy).",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/nondisjunction-198/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/nondisjunction-198/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c1d2e3f4-a5b6-4789-0123-456789abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which enzyme is responsible for unwinding the DNA helix during replication?",
+"options": [
+"DNA Polymerase",
+"Helicase",
+"Ligase",
+"Primase"
+],
+"correct_answer": "Helicase",
+"explanation": "DNA Helicase is the enzyme responsible for breaking the hydrogen bonds between base pairs and unwinding the double helix structure during DNA replication.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/helicase-307/](https://www.nature.com/scitable/definition/helicase-307/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d2e3f4a5-b6c7-4890-1234-567890abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Genes that are located on the same chromosome and tend to be inherited together are known as:",
+"options": [
+"Linked genes",
+"Allelic genes",
+"Codominant genes",
+"Independent genes"
+],
+"correct_answer": "Linked genes",
+"explanation": "Linked genes are located close to each other on the same chromosome and do not assort independently, often being inherited together as a unit.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/linkage-51/](https://www.nature.com/scitable/definition/linkage-51/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e3f4a5b6-c7d8-4901-2345-678901abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "What is the genotype of a person with Klinefelter syndrome?",
+"options": [
+"XO",
+"XYY",
+"XXY",
+"XXX"
+],
+"correct_answer": "XXY",
+"explanation": "Klinefelter syndrome is a chromosomal condition in males who have at least one extra X chromosome, resulting in an XXY genotype (47 chromosomes).",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://medlineplus.gov/genetics/condition/klinefelter-syndrome/](https://medlineplus.gov/genetics/condition/klinefelter-syndrome/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f4a5b6c7-d8e9-4012-3456-789012abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The percentage of crossing over between two genes is directly proportional to:",
+"options": [
+"The size of the chromosomes",
+"The distance between them on the chromosome",
+"The number of centromeres",
+"The dominant alleles present"
+],
+"correct_answer": "The distance between them on the chromosome",
+"explanation": "The frequency of crossing over between two gene loci is proportional to the physical distance separating them on the chromosome. Genes further apart are more likely to experience a crossover event.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/genetic-recombination-514/](https://www.nature.com/scitable/topicpage/genetic-recombination-514/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a5b6c7d8-e9f0-4123-4567-890123abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "In the Rh blood group system, erythroblastosis fetalis can occur when:",
+"options": [
+"The mother is Rh+ and the fetus is Rh-",
+"The mother is Rh- and the fetus is Rh+",
+"Both mother and fetus are Rh-",
+"Both mother and fetus are Rh+"
+],
+"correct_answer": "The mother is Rh- and the fetus is Rh+",
+"explanation": "Erythroblastosis fetalis occurs when an Rh-negative mother carries an Rh-positive fetus. Maternal antibodies can cross the placenta and attack fetal red blood cells.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK2266/](https://www.ncbi.nlm.nih.gov/books/NBK2266/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b6c7d8e9-f0a1-4234-5678-901234abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following describes the phenotype ratio of a dominant epistasis interaction?",
+"options": [
+"9:3:4",
+"12:3:1",
+"9:7",
+"15:1"
+],
+"correct_answer": "12:3:1",
+"explanation": "In dominant epistasis, a dominant allele at one locus masks the expression of alleles at a second locus, modifying the classic 9:3:3:1 ratio to 12:3:1.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://bio.libretexts.org/Bookshelves/Genetics/Online_Open_Genetics_(Nickle_and_Barrette-Ng)/04%3A_Genes_Interact_and_Modify_Ratios/4.02%3A_Epistasis_and_Other_Gene_Interactions](https://www.google.com/search?q=https://bio.libretexts.org/Bookshelves/Genetics/Online_Open_Genetics_(Nickle_and_Barrette-Ng)/04%253A_Genes_Interact_and_Modify_Ratios/4.02%253A_Epistasis_and_Other_Gene_Interactions)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c7d8e9f0-a1b2-4345-6789-012345abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "A mutation that involves the exchange of chromosome segments between non-homologous chromosomes is called:",
+"options": [
+"Inversion",
+"Translocation",
+"Duplication",
+"Deletion"
+],
+"correct_answer": "Translocation",
+"explanation": "Translocation is a chromosomal abnormality where a segment of one chromosome breaks off and attaches to a non-homologous chromosome.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Translocation](https://www.genome.gov/genetics-glossary/Translocation)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d8e9f0a1-b2c3-4456-7890-123456abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which term refers to the alternative forms of a gene occupying the same locus on homologous chromosomes?",
+"options": [
+"Chromatids",
+"Alleles",
+"Centromeres",
+"Genomes"
+],
+"correct_answer": "Alleles",
+"explanation": "Alleles are variant forms of a gene that are located at the same position, or genetic locus, on a chromosome.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Allele](https://www.genome.gov/genetics-glossary/Allele)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e9f0a1b2-c3d4-4567-8901-234567abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "If a man with blood type A (heterozygous) marries a woman with blood type B (heterozygous), what are the possible blood types of their children?",
+"options": [
+"A and B only",
+"AB only",
+"A, B, and AB only",
+"A, B, AB, and O"
+],
+"correct_answer": "A, B, AB, and O",
+"explanation": "A heterozygous type A (IAi) father and heterozygous type B (IBi) mother can produce children with genotypes IAIB (AB), IAi (A), IBi (B), and ii (O). Each has a 25% chance.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/08%3A_Patterns_of_Inheritance/8.03%3A_Extensions_of_the_Laws_of_Inheritance](https://www.google.com/search?q=https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%253A_General_Biology_(OpenStax)/08%253A_Patterns_of_Inheritance/8.03%253A_Extensions_of_the_Laws_of_Inheritance)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f0a1b2c3-d4e5-4678-9012-345678abcdef",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following bases is a purine?",
+"options": [
+"Cytosine",
+"Thymine",
+"Uracil",
+"Guanine"
+],
+"correct_answer": "Guanine",
+"explanation": "Nitrogenous bases are classified into purines (double-ring structure) and pyrimidines (single-ring). Adenine and Guanine are purines; Cytosine, Thymine, and Uracil are pyrimidines.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Purine](https://www.google.com/search?q=https://www.genome.gov/genetics-glossary/Purine)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a1b2c3d4-e5f6-4789-0123-456789abcdeg",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which sex chromosome system is found in birds?",
+"options": [
+"XX-XY",
+"XX-XO",
+"ZZ-ZW",
+"Haplodiploidy"
+],
+"correct_answer": "ZZ-ZW",
+"explanation": "In birds, the sex determination system is ZZ-ZW. Males are homogametic (ZZ) and females are heterogametic (ZW), opposite to the human XY system.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/sex-determination-in-honeybees-2591764/](https://www.nature.com/scitable/topicpage/sex-determination-in-honeybees-2591764/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b2c3d4e5-f6a7-4890-1234-567890abcdeg",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Sickle cell anemia is an example of which type of mutation?",
+"options": [
+"Frameshift mutation",
+"Point mutation",
+"Chromosomal deletion",
+"Nonsense mutation"
+],
+"correct_answer": "Point mutation",
+"explanation": "Sickle cell anemia is caused by a single point mutation (missense mutation) in the beta-globin gene, where glutamic acid is replaced by valine.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/Genetic-Disorders/Sickle-Cell-Disease](https://www.genome.gov/Genetic-Disorders/Sickle-Cell-Disease)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c3d4e5f6-a7b8-4901-2345-678901abcdeg",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The Bombay phenotype is an example of:",
+"options": [
+"Codominance",
+"Incomplete dominance",
+"Recessive Epistasis",
+"Pleiotropy"
+],
+"correct_answer": "Recessive Epistasis",
+"explanation": "The Bombay phenotype occurs due to recessive epistasis where a homozygous recessive condition (hh) prevents the formation of the H antigen, masking the ABO blood type alleles.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK2269/](https://www.ncbi.nlm.nih.gov/books/NBK2269/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d4e5f6a7-b8c9-4012-3456-789012abcdeg",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "In a pedigree analysis, a shaded square typically represents:",
+"options": [
+"An affected female",
+"An unaffected male",
+"An affected male",
+"A carrier female"
+],
+"correct_answer": "An affected male",
+"explanation": "In standard pedigree charts, squares represent males and circles represent females. Shading indicates that the individual expresses the trait of interest.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-pedigrees/a/hs-pedigrees-review](https://www.google.com/search?q=https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-pedigrees/a/hs-pedigrees-review)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e5f6a7b8-c9d0-4123-4567-890123abcdeg",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which term describes a cell having a chromosome number that is an exact multiple of the haploid number (n), such as 3n or 4n?",
+"options": [
+"Aneuploidy",
+"Euploidy",
+"Monosomy",
+"Trisomy"
+],
+"correct_answer": "Euploidy",
+"explanation": "Euploidy refers to a state where the chromosome number is an exact multiple of the basic haploid set (e.g., diploid 2n, triploid 3n). Aneuploidy involves non-exact numbers.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/euploidy](https://www.google.com/search?q=https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/euploidy)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f6a7b8c9-d0e1-4234-5678-901234abcdeg",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The 3' end of a DNA strand always terminates with which chemical group?",
+"options": [
+"Phosphate group",
+"Hydroxyl group (-OH)",
+"Nitrogenous base",
+"Carboxyl group"
+],
+"correct_answer": "Hydroxyl group (-OH)",
+"explanation": "A DNA strand has directionality. The 5' end has a phosphate group, and the 3' end has a free hydroxyl group (-OH) on the sugar molecule.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/3-end-298/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/3-end-298/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a7b8c9d0-e1f2-4345-6789-012345abcdeg",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "What is the probability of a homozygous dominant offspring in a cross between two heterozygotes (Aa x Aa)?",
+"options": [
+"1/4",
+"1/2",
+"3/4",
+"1/3"
+],
+"correct_answer": "1/4",
+"explanation": "In a cross Aa x Aa, the genotypes are AA (1/4), Aa (1/2), and aa (1/4). Thus, the probability of homozygous dominant (AA) is 1/4 or 25%.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-mendelian-genetics/a/the-law-of-segregation](https://www.google.com/search?q=https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-mendelian-genetics/a/the-law-of-segregation)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b8c9d0e1-f2a3-4456-7890-123456abcdeg",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which experimental technique did Hershey and Chase use to prove that DNA is the genetic material?",
+"options": [
+"X-ray crystallography",
+"Radioactive labeling with bacteriophages",
+"Transformation in bacteria",
+"Nitrogen density gradient centrifugation"
+],
+"correct_answer": "Radioactive labeling with bacteriophages",
+"explanation": "Hershey and Chase labeled bacteriophage DNA with radioactive Phosphorus-32 and protein with Sulfur-35, showing that only DNA entered bacteria to direct replication.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/isolating-hereditary-material-frederick-griffith-oswald-avery-336/](https://www.nature.com/scitable/topicpage/isolating-hereditary-material-frederick-griffith-oswald-avery-336/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c9d0e1f2-a3b4-4567-8901-234567abcdeg",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "A gene that suppresses the effect of another non-allelic gene is called a(n):",
+"options": [
+"Hypostatic gene",
+"Epistatic gene",
+"Codominant gene",
+"Recessive gene"
+],
+"correct_answer": "Epistatic gene",
+"explanation": "The gene that masks the expression of another is called the epistatic gene, while the gene whose expression is masked is called the hypostatic gene.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/epistasis](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/epistasis)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d0e1f2a3-b4c5-4678-9012-345678abcdeg",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The sex of a grasshopper is determined by which system?",
+"options": [
+"XX-XY",
+"ZZ-ZW",
+"XX-XO",
+"Haplodiploidy"
+],
+"correct_answer": "XX-XO",
+"explanation": "Grasshoppers and some other insects use the XX-XO sex determination system. Females have two X chromosomes (XX), while males have only one X chromosome (XO).",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/sex-chromosomes-and-sex-determination-26563/](https://www.google.com/search?q=https://www.nature.com/scitable/topicpage/sex-chromosomes-and-sex-determination-26563/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e1f2a3b4-c5d6-4789-0123-456789abcdeg",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following describes the 'Central Dogma' of molecular biology?",
+"options": [
+"DNA -> RNA -> Protein",
+"Protein -> RNA -> DNA",
+"RNA -> DNA -> Protein",
+"DNA -> Protein -> RNA"
+],
+"correct_answer": "DNA -> RNA -> Protein",
+"explanation": "The Central Dogma explains the flow of genetic information: DNA is transcribed into RNA, which is then translated into Protein.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/central-dogma-of-molecular-biology-26781/](https://www.google.com/search?q=https://www.nature.com/scitable/topicpage/central-dogma-of-molecular-biology-26781/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f2a3b4c5-d6e7-4890-1234-567890abcdeg",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which enzyme joins Okazaki fragments on the lagging strand during DNA replication?",
+"options": [
+"DNA Ligase",
+"DNA Polymerase III",
+"Primase",
+"Helicase"
+],
+"correct_answer": "DNA Ligase",
+"explanation": "On the lagging strand, DNA is synthesized in short segments called Okazaki fragments. DNA Ligase catalyzes the formation of phosphodiester bonds to join these fragments.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/okazaki-fragment-163/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/okazaki-fragment-163/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a3b4c5d6-e7f8-4901-2345-678901abcdeg",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Phenylketonuria (PKU) is an inherited metabolic disorder caused by the inability to metabolize which amino acid?",
+"options": [
+"Tyrosine",
+"Phenylalanine",
+"Alanine",
+"Glutamine"
+],
+"correct_answer": "Phenylalanine",
+"explanation": "PKU is caused by a mutation in the PAH gene, leading to a deficiency of the enzyme phenylalanine hydroxylase, which breaks down phenylalanine.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://medlineplus.gov/genetics/condition/phenylketonuria/](https://medlineplus.gov/genetics/condition/phenylketonuria/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b4c5d6e7-f8a9-4012-3456-789012abcdeg",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "A Barr body represents an inactivated:",
+"options": [
+"Y chromosome in males",
+"X chromosome in females",
+"Autosome in females",
+"Mitochondrial DNA"
+],
+"correct_answer": "X chromosome in females",
+"explanation": "To compensate for gene dosage, one X chromosome in each somatic cell of a female mammal is randomly inactivated and condenses into a Barr body (Lyonization).",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/barr-body-186/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/barr-body-186/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c5d6e7f8-a9b0-4123-4567-890123abcdeg",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which type of RNA carries amino acids to the ribosome during protein synthesis?",
+"options": [
+"mRNA",
+"rRNA",
+"tRNA",
+"snRNA"
+],
+"correct_answer": "tRNA",
+"explanation": "Transfer RNA (tRNA) molecules carry specific amino acids to the ribosome, matching their anticodons with mRNA codons during translation.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Transfer-RNA](https://www.genome.gov/genetics-glossary/Transfer-RNA)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d6e7f8a9-b0c1-4234-5678-901234abcdeg",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "In a Chi-square test used in genetics, the degrees of freedom (df) is calculated as:",
+"options": [
+"n",
+"n + 1",
+"n - 1",
+"2n"
+],
+"correct_answer": "n - 1",
+"explanation": "The degrees of freedom for a Chi-square test is calculated as the number of phenotypic classes (n) minus one (n - 1).",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ndsu.edu/pubweb/~mcclean/plsc431/mendel/mendel4.htm](https://www.google.com/search?q=https://www.ndsu.edu/pubweb/~mcclean/plsc431/mendel/mendel4.htm)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e7f8a9b0-c1d2-4345-6789-012345abcdeg",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "What is the start codon that initiates translation?",
+"options": [
+"UAA",
+"UAG",
+"AUG",
+"UGA"
+],
+"correct_answer": "AUG",
+"explanation": "AUG is the start codon in mRNA which codes for the amino acid methionine and signals the start of protein synthesis.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/start-codon-164/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/start-codon-164/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f8a9b0c1-d2e3-4456-7890-123456abcdeg",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which genetic disorder is characterized by a deletion of a part of the short arm of chromosome 5?",
+"options": [
+"Cri-du-chat syndrome",
+"Down syndrome",
+"Edwards syndrome",
+"Patau syndrome"
+],
+"correct_answer": "Cri-du-chat syndrome",
+"explanation": "Cri-du-chat (cat's cry) syndrome is a rare genetic disorder caused by a deletion on the short arm (p arm) of chromosome 5.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://medlineplus.gov/genetics/condition/cri-du-chat-syndrome/](https://medlineplus.gov/genetics/condition/cri-du-chat-syndrome/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a9b0c1d2-e3f4-4567-8901-234567abcdeg",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The tendency of an organism to maintain a constant internal environment is homeostasis, but the tendency of offspring to resemble their parents is called:",
+"options": [
+"Variation",
+"Heredity",
+"Evolution",
+"Adaptation"
+],
+"correct_answer": "Heredity",
+"explanation": "Heredity (or inheritance) is the passing on of traits from parents to their offspring.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Heredity](https://www.google.com/search?q=https://www.genome.gov/genetics-glossary/Heredity)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b0c1d2e3-f4a5-4678-9012-345678abcdeg",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following describes a 'test cross'?",
+"options": [
+"Crossing F1 hybrid with a dominant homozygous parent",
+"Crossing F1 hybrid with a recessive homozygous parent",
+"Crossing two F1 hybrids",
+"Crossing F1 hybrid with any parent"
+],
+"correct_answer": "Crossing F1 hybrid with a recessive homozygous parent",
+"explanation": "A test cross involves breeding an individual with a dominant phenotype but unknown genotype with a homozygous recessive individual to determine the unknown genotype.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/test-cross-169/](https://www.nature.com/scitable/definition/test-cross-169/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c1d2e3f4-a5b6-4789-0123-456789abcdeh",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "In a population, the total sum of all genes and alleles is referred to as the:",
+"options": [
+"Gene flow",
+"Gene pool",
+"Genotype",
+"Genome"
+],
+"correct_answer": "Gene pool",
+"explanation": "A gene pool consists of all the genes and their different alleles present in an interbreeding population.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Gene-Pool](https://www.genome.gov/genetics-glossary/Gene-Pool)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d2e3f4a5-b6c7-4890-1234-567890abcdeh",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which rule states that in DNA, the amount of Adenine equals Thymine and Guanine equals Cytosine?",
+"options": [
+"Mendel's Rule",
+"Chargaff's Rule",
+"Morgan's Rule",
+"Griffith's Rule"
+],
+"correct_answer": "Chargaff's Rule",
+"explanation": "Chargaff's rules state that DNA from any cell should have a 1:1 ratio of pyrimidine and purine bases; specifically, the amount of guanine is equal to cytosine and adenine is equal to thymine.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/chargaff-s-rule-5/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/chargaff-s-rule-5/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e3f4a5b6-c7d8-4901-2345-678901abcdeh",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "What is the genetic basis of the ABO blood group 'O' phenotype?",
+"options": [
+"Presence of A and B antigens",
+"Presence of only A antigen",
+"Absence of both A and B antigens",
+"Presence of only B antigen"
+],
+"correct_answer": "Absence of both A and B antigens",
+"explanation": "Individuals with blood type O have the genotype 'ii' and lack both A and B antigens on their red blood cells.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK2267/](https://www.ncbi.nlm.nih.gov/books/NBK2267/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f4a5b6c7-d8e9-4012-3456-789012abcdeh",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following is a pyrimidine base found only in RNA?",
+"options": [
+"Thymine",
+"Uracil",
+"Cytosine",
+"Adenine"
+],
+"correct_answer": "Uracil",
+"explanation": "Uracil is a pyrimidine base found in RNA, replacing Thymine which is found in DNA. It pairs with Adenine.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Uracil](https://www.genome.gov/genetics-glossary/Uracil)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a5b6c7d8-e9f0-4123-4567-890123abcdeh",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "What term describes an individual who possesses two different alleles for a particular gene?",
+"options": [
+"Homozygous",
+"Heterozygous",
+"Hemizygous",
+"Homologous"
+],
+"correct_answer": "Heterozygous",
+"explanation": "A heterozygous individual carries two different alleles for a specific gene locus (e.g., Aa).",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Heterozygous](https://www.google.com/search?q=https://www.genome.gov/genetics-glossary/Heterozygous)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b6c7d8e9-f0a1-4234-5678-901234abcdeh",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "In genetics, a 'carrier' usually refers to:",
+"options": [
+"A homozygous dominant individual",
+"A homozygous recessive individual",
+"A heterozygous individual for a recessive disorder",
+"An individual with a dominant disorder"
+],
+"correct_answer": "A heterozygous individual for a recessive disorder",
+"explanation": "A carrier is an individual who has inherited a recessive allele for a genetic trait or mutation but does not display that trait or show symptoms of the disease.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Carrier](https://www.genome.gov/genetics-glossary/Carrier)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c7d8e9f0-a1b2-4345-6789-012345abcdeh",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which technique is used to amplify small segments of DNA?",
+"options": [
+"Gel Electrophoresis",
+"Polymerase Chain Reaction (PCR)",
+"DNA Sequencing",
+"Karyotyping"
+],
+"correct_answer": "Polymerase Chain Reaction (PCR)",
+"explanation": "PCR is a technique used to make many copies of a specific DNA segment, amplifying it for analysis.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Polymerase-Chain-Reaction](https://www.genome.gov/genetics-glossary/Polymerase-Chain-Reaction)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d8e9f0a1-b2c3-4456-7890-123456abcdeh",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "A mutation that changes a codon for an amino acid into a stop codon is called a:",
+"options": [
+"Missense mutation",
+"Silent mutation",
+"Nonsense mutation",
+"Frameshift mutation"
+],
+"correct_answer": "Nonsense mutation",
+"explanation": "A nonsense mutation is a point mutation that results in a premature stop codon in the transcribed mRNA, leading to a truncated and often nonfunctional protein.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/nonsense-mutation-196/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/nonsense-mutation-196/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e9f0a1b2-c3d4-4567-8901-234567abcdeh",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following is NOT a feature of the genetic code?",
+"options": [
+"Universal",
+"Degenerate",
+"Overlapping",
+"Triplet nature"
+],
+"correct_answer": "Overlapping",
+"explanation": "The genetic code is non-overlapping, meaning each nucleotide is part of only one codon. It is also universal, degenerate (redundant), and triplet-based.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/genetic-code-106/](https://www.google.com/search?q=https://www.nature.com/scitable/topicpage/genetic-code-106/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f0a1b2c3-d4e5-4678-9012-345678abcdeh",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The inheritance of mitochondria is:",
+"options": [
+"Paternal",
+"Maternal",
+"Biparental",
+"Random"
+],
+"correct_answer": "Maternal",
+"explanation": "Mitochondrial DNA is inherited strictly from the mother because the mitochondria in sperm are destroyed after fertilization or do not enter the egg.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://medlineplus.gov/genetics/understanding/inheritance/mitochondrialinheritance/](https://www.google.com/search?q=https://medlineplus.gov/genetics/understanding/inheritance/mitochondrialinheritance/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a1b2c3d4-e5f6-4789-0123-456789abcdei",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which law explains the 9:3:3:1 ratio in a dihybrid cross?",
+"options": [
+"Law of Dominance",
+"Law of Segregation",
+"Law of Independent Assortment",
+"Law of Linkage"
+],
+"correct_answer": "Law of Independent Assortment",
+"explanation": "The Law of Independent Assortment states that alleles for different traits segregate independently of one another during gamete formation, leading to the 9:3:3:1 phenotypic ratio in dihybrid crosses.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-mendelian-genetics/a/the-law-of-independent-assortment](https://www.google.com/search?q=https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-mendelian-genetics/a/the-law-of-independent-assortment)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b2c3d4e5-f6a7-4890-1234-567890abcdei",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "A gene that has more than two alleles in a population is an example of:",
+"options": [
+"Pleiotropy",
+"Multiple Alleles",
+"Polygenic Inheritance",
+"Epistasis"
+],
+"correct_answer": "Multiple Alleles",
+"explanation": "Multiple alleles refer to the existence of more than two allelic forms of a gene within a population, although a diploid individual still only holds two (e.g., ABO blood group).",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/08%3A_Patterns_of_Inheritance/8.03%3A_Extensions_of_the_Laws_of_Inheritance](https://www.google.com/search?q=https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%253A_General_Biology_(OpenStax)/08%253A_Patterns_of_Inheritance/8.03%253A_Extensions_of_the_Laws_of_Inheritance)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c3d4e5f6-a7b8-4901-2345-678901abcdei",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "What is the haploid chromosome number (n) in humans?",
+"options": [
+"23",
+"46",
+"22",
+"44"
+],
+"correct_answer": "23",
+"explanation": "In humans, the haploid number (n) found in gametes is 23 chromosomes. The diploid number (2n) in somatic cells is 46.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Haploid](https://www.google.com/search?q=https://www.genome.gov/genetics-glossary/Haploid)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d4e5f6a7-b8c9-4012-3456-789012abcdei",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The phenotypic ratio of 9:3:4 in the F2 generation indicates:",
+"options": [
+"Dominant Epistasis",
+"Recessive Epistasis",
+"Duplicate Genes",
+"Complementary Genes"
+],
+"correct_answer": "Recessive Epistasis",
+"explanation": "A 9:3:4 ratio is characteristic of recessive epistasis, where the recessive homozygote at one locus masks the expression of the gene at the second locus (e.g., coat color in labs).",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://bio.libretexts.org/Bookshelves/Genetics/Online_Open_Genetics_(Nickle_and_Barrette-Ng)/04%3A_Genes_Interact_and_Modify_Ratios/4.02%3A_Epistasis_and_Other_Gene_Interactions](https://www.google.com/search?q=https://bio.libretexts.org/Bookshelves/Genetics/Online_Open_Genetics_(Nickle_and_Barrette-Ng)/04%253A_Genes_Interact_and_Modify_Ratios/4.02%253A_Epistasis_and_Other_Gene_Interactions)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e5f6a7b8-c9d0-4123-4567-890123abcdei",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which mode of inheritance affects men more frequently than women?",
+"options": [
+"Autosomal dominant",
+"Autosomal recessive",
+"X-linked recessive",
+"Mitochondrial"
+],
+"correct_answer": "X-linked recessive",
+"explanation": "X-linked recessive traits affect men more often because they have only one X chromosome. A single recessive allele on the X chromosome will be expressed, whereas women need two.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://medlineplus.gov/genetics/understanding/inheritance/inheritancepatterns/](https://medlineplus.gov/genetics/understanding/inheritance/inheritancepatterns/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f6a7b8c9-d0e1-4234-5678-901234abcdei",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Okazaki fragments are formed on the:",
+"options": [
+"Leading strand",
+"Lagging strand",
+"Template strand only",
+"Sense strand"
+],
+"correct_answer": "Lagging strand",
+"explanation": "Okazaki fragments are short sequences of DNA synthesized discontinuously on the lagging strand during DNA replication.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/okazaki-fragment-163/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/okazaki-fragment-163/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a7b8c9d0-e1f2-4345-6789-012345abcdei",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which scientist(s) proposed the double helix model of DNA?",
+"options": [
+"Hershey and Chase",
+"Watson and Crick",
+"Meselson and Stahl",
+"Beadle and Tatum"
+],
+"correct_answer": "Watson and Crick",
+"explanation": "James Watson and Francis Crick, using data from Rosalind Franklin, proposed the double helix structure of DNA in 1953.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/](https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b8c9d0e1-f2a3-4456-7890-123456abcdei",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "A cross between a red flower and a white flower producing only red flowers indicates:",
+"options": [
+"Incomplete dominance",
+"Codominance",
+"Complete dominance",
+"Epistasis"
+],
+"correct_answer": "Complete dominance",
+"explanation": "If the F1 generation reflects only one parent's phenotype (red), that allele is completely dominant over the white allele.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-mendelian-genetics/a/mendel-and-his-peas](https://www.google.com/search?q=https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-mendelian-genetics/a/mendel-and-his-peas)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c9d0e1f2-a3b4-4567-8901-234567abcdei",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which syndrome is caused by trisomy of chromosome 18?",
+"options": [
+"Patau syndrome",
+"Edwards syndrome",
+"Down syndrome",
+"Klinefelter syndrome"
+],
+"correct_answer": "Edwards syndrome",
+"explanation": "Edwards syndrome is a genetic disorder caused by the presence of a third copy of all or part of chromosome 18 (Trisomy 18).",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://medlineplus.gov/genetics/condition/trisomy-18/](https://medlineplus.gov/genetics/condition/trisomy-18/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d0e1f2a3-b4c5-4678-9012-345678abcdei",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The sequence of nucleotides in mRNA is read in groups of three called:",
+"options": [
+"Anticodons",
+"Codons",
+"Introns",
+"Exons"
+],
+"correct_answer": "Codons",
+"explanation": "A codon is a sequence of three DNA or RNA nucleotides that corresponds with a specific amino acid or stop signal during protein synthesis.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Codon](https://www.genome.gov/genetics-glossary/Codon)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e1f2a3b4-c5d6-4789-0123-456789abcdei",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following molecules acts as an 'adapter' during translation?",
+"options": [
+"mRNA",
+"DNA",
+"tRNA",
+"rRNA"
+],
+"correct_answer": "tRNA",
+"explanation": "tRNA acts as an adapter molecule because it has an anticodon that recognizes the mRNA codon and an attachment site for the specific amino acid.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/trna-transfer-rna-165/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/trna-transfer-rna-165/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f2a3b4c5-d6e7-4890-1234-567890abcdei",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Sex-linked genes are located on:",
+"options": [
+"Autosomes",
+"Sex chromosomes",
+"Mitochondria",
+"Ribosomes"
+],
+"correct_answer": "Sex chromosomes",
+"explanation": "Sex-linked genes are located on the sex chromosomes (X or Y), predominantly on the X chromosome.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Sex-Linked](https://www.genome.gov/genetics-glossary/Sex-Linked)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a3b4c5d6-e7f8-4901-2345-678901abcdei",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "What is the expected genotypic ratio in the F2 generation of a monohybrid cross (Tt x Tt)?",
+"options": [
+"3:1",
+"1:2:1",
+"1:1",
+"9:3:3:1"
+],
+"correct_answer": "1:2:1",
+"explanation": "The genotypic ratio of a monohybrid cross between two heterozygotes is 1 homozygous dominant (TT) : 2 heterozygous (Tt) : 1 homozygous recessive (tt).",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-mendelian-genetics/a/the-law-of-segregation](https://www.google.com/search?q=https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-mendelian-genetics/a/the-law-of-segregation)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b4c5d6e7-f8a9-4012-3456-789012abcdei",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The exchange of genetic material between non-sister chromatids of homologous chromosomes is called:",
+"options": [
+"Linkage",
+"Crossing over",
+"Translocation",
+"Synapsis"
+],
+"correct_answer": "Crossing over",
+"explanation": "Crossing over occurs during Prophase I of meiosis where genetic material is exchanged between non-sister chromatids, increasing genetic variation.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Crossing-Over](https://www.genome.gov/genetics-glossary/Crossing-Over)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c5d6e7f8-a9b0-4123-4567-890123abcdei",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following is NOT a mutagen?",
+"options": [
+"UV radiation",
+"X-rays",
+"Pure water",
+"Mustard gas"
+],
+"correct_answer": "Pure water",
+"explanation": "Mutagens are agents that cause genetic mutation. UV radiation, X-rays, and chemical agents like mustard gas are mutagens. Pure water is not.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Mutagen](https://www.genome.gov/genetics-glossary/Mutagen)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d6e7f8a9-b0c1-4234-5678-901234abcdei",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Semi-conservative replication of DNA means that:",
+"options": [
+"Both new strands are synthesized from scratch",
+"One daughter molecule has two new strands",
+"Each daughter molecule contains one old strand and one new strand",
+"The old DNA is destroyed"
+],
+"correct_answer": "Each daughter molecule contains one old strand and one new strand",
+"explanation": "Semi-conservative replication means that in each new DNA double helix, one strand is from the original molecule (conserved) and one strand is newly synthesized.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/semi-conservative-dna-replication-meselson-and-stahl-421/](https://www.nature.com/scitable/topicpage/semi-conservative-dna-replication-meselson-and-stahl-421/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e7f8a9b0-c1d2-4345-6789-012345abcdei",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which genetic disorder is caused by a dominant allele?",
+"options": [
+"Cystic Fibrosis",
+"Huntington's disease",
+"Sickle Cell Anemia",
+"Phenylketonuria"
+],
+"correct_answer": "Huntington's disease",
+"explanation": "Huntington's disease is an autosomal dominant disorder, meaning only one copy of the defective gene is required to cause the disorder.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://medlineplus.gov/genetics/condition/huntington-disease/](https://www.google.com/search?q=https://medlineplus.gov/genetics/condition/huntington-disease/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f8a9b0c1-d2e3-4456-7890-123456abcdei",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The specific position of a gene on a chromosome is known as its:",
+"options": [
+"Allele",
+"Locus",
+"Karyotype",
+"Codon"
+],
+"correct_answer": "Locus",
+"explanation": "A locus is the specific physical location of a gene or other DNA sequence on a chromosome.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Locus](https://www.genome.gov/genetics-glossary/Locus)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a9b0c1d2-e3f4-4567-8901-234567abcdei",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "What is the function of DNA polymerase III?",
+"options": [
+"Unwinding the DNA helix",
+"Adding nucleotides to the growing DNA strand",
+"Joining DNA fragments",
+"Synthesizing RNA primers"
+],
+"correct_answer": "Adding nucleotides to the growing DNA strand",
+"explanation": "DNA Polymerase III is the primary enzyme involved in DNA replication in prokaryotes, responsible for adding nucleotides to the 3' end of the growing strand.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/dna-polymerase-107/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/dna-polymerase-107/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b0c1d2e3-f4a5-4678-9012-345678abcdei",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The set of observable characteristics of an individual resulting from the interaction of its genotype with the environment is called:",
+"options": [
+"Genotype",
+"Phenotype",
+"Haplotype",
+"Karyotype"
+],
+"correct_answer": "Phenotype",
+"explanation": "Phenotype refers to the observable physical properties of an organism, including its appearance, development, and behavior.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Phenotype](https://www.genome.gov/genetics-glossary/Phenotype)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c1d2e3f4-a5b6-4789-0123-456789abcdej",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following is true about heterochromatin?",
+"options": [
+"It is loosely packed and transcriptionally active",
+"It is densely packed and transcriptionally inactive",
+"It contains only RNA",
+"It is found only in prokaryotes"
+],
+"correct_answer": "It is densely packed and transcriptionally inactive",
+"explanation": "Heterochromatin is tightly packed DNA that is generally transcriptionally inactive, as opposed to euchromatin which is loosely packed and active.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/heterochromatin-181/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/heterochromatin-181/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d2e3f4a5-b6c7-4890-1234-567890abcdej",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The failure of chromosomes to separate during meiosis is called:",
+"options": [
+"Disjunction",
+"Non-disjunction",
+"Translocation",
+"Recombination"
+],
+"correct_answer": "Non-disjunction",
+"explanation": "Non-disjunction is the failure of homologous chromosomes or sister chromatids to separate properly during cell division.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/nondisjunction-198/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/nondisjunction-198/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e3f4a5b6-c7d8-4901-2345-678901abcdej",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "What phenotypic ratio is expected from a dihybrid test cross (RrYy x rryy)?",
+"options": [
+"9:3:3:1",
+"1:1:1:1",
+"1:2:1",
+"3:1"
+],
+"correct_answer": "1:1:1:1",
+"explanation": "A dihybrid test cross involves a double heterozygote and a double homozygous recessive. If genes assort independently, the offspring ratio is 1:1:1:1.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/test-cross-169/](https://www.nature.com/scitable/definition/test-cross-169/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f4a5b6c7-d8e9-4012-3456-789012abcdej",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following blood types is the universal donor?",
+"options": [
+"Type A",
+"Type B",
+"Type AB",
+"Type O negative"
+],
+"correct_answer": "Type O negative",
+"explanation": "O negative blood lacks A, B, and Rh antigens, making it safe for transfusion to individuals of any other blood type.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.redcrossblood.org/donate-blood/blood-types.html](https://www.redcrossblood.org/donate-blood/blood-types.html)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a5b6c7d8-e9f0-4123-4567-890123abcdej",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The condition where an organism has more than two complete sets of chromosomes is called:",
+"options": [
+"Aneuploidy",
+"Polyploidy",
+"Haploidy",
+"Trisomy"
+],
+"correct_answer": "Polyploidy",
+"explanation": "Polyploidy is the condition of possessing more than two complete sets of chromosomes (e.g., 3n, 4n). It is common in plants.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/polyploidy-124/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/polyploidy-124/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b6c7d8e9-f0a1-4234-5678-901234abcdej",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "What happens during RNA processing in eukaryotes?",
+"options": [
+"Exons are removed and introns are joined",
+"Introns are removed and exons are joined",
+"Both introns and exons are removed",
+"Both introns and exons are kept"
+],
+"correct_answer": "Introns are removed and exons are joined",
+"explanation": "During RNA splicing, non-coding regions (introns) are removed, and coding regions (exons) are joined together to form the mature mRNA.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/rna-splicing-introns-exons-and-spliceosome-12375/](https://www.nature.com/scitable/topicpage/rna-splicing-introns-exons-and-spliceosome-12375/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c7d8e9f0-a1b2-4345-6789-012345abcdej",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The 'beads on a string' structure of chromatin refers to DNA wrapped around:",
+"options": [
+"Ribosomes",
+"Histones",
+"Centrioles",
+"Nucleoli"
+],
+"correct_answer": "Histones",
+"explanation": "DNA wraps around octamers of histone proteins to form nucleosomes, which resemble beads on a string.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/nucleosome-180/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/nucleosome-180/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d8e9f0a1-b2c3-4456-7890-123456abcdej",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which mutation type causes a shift in the reading frame of codons?",
+"options": [
+"Silent mutation",
+"Frameshift mutation",
+"Missense mutation",
+"Transition"
+],
+"correct_answer": "Frameshift mutation",
+"explanation": "A frameshift mutation occurs when nucleotides are inserted or deleted (not in multiples of three), shifting the reading frame and altering the downstream amino acid sequence.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Frameshift-Mutation](https://www.genome.gov/genetics-glossary/Frameshift-Mutation)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e9f0a1b2-c3d4-4567-8901-234567abcdej",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The Human Genome Project was completed in which year?",
+"options": [
+"1990",
+"2003",
+"2010",
+"1980"
+],
+"correct_answer": "2003",
+"explanation": "The Human Genome Project, an international research effort to determine the DNA sequence of the entire human genome, was declared complete in April 2003.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/human-genome-project](https://www.genome.gov/human-genome-project)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f0a1b2c3-d4e5-4678-9012-345678abcdej",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which trait is determined by mitochondrial DNA?",
+"options": [
+"Eye color",
+"Leber's Hereditary Optic Neuropathy (LHON)",
+"Blood type",
+"Height"
+],
+"correct_answer": "Leber's Hereditary Optic Neuropathy (LHON)",
+"explanation": "LHON is a classic example of a mitochondrial disease, inherited maternally and affecting the optic nerve.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://medlineplus.gov/genetics/condition/leber-hereditary-optic-neuropathy/](https://medlineplus.gov/genetics/condition/leber-hereditary-optic-neuropathy/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a1b2c3d4-e5f6-4789-0123-456789abcdek",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The Hershey-Chase experiment used which radioactive isotope to label the viral DNA?",
+"options": [
+"Sulfur-35",
+"Phosphorus-32",
+"Carbon-14",
+"Nitrogen-15"
+],
+"correct_answer": "Phosphorus-32",
+"explanation": "Phosphorus is found in DNA but not in protein. Hershey and Chase used Phosphorus-32 to label DNA and Sulfur-35 to label proteins.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/isolating-hereditary-material-frederick-griffith-oswald-avery-336/](https://www.nature.com/scitable/topicpage/isolating-hereditary-material-frederick-griffith-oswald-avery-336/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b2c3d4e5-f6a7-4890-1234-567890abcdek",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following describes 'codominance'?",
+"options": [
+"One allele completely masks the other",
+"Heterozygote phenotype is intermediate",
+"Both alleles are fully expressed in the heterozygote",
+"Multiple genes affect one trait"
+],
+"correct_answer": "Both alleles are fully expressed in the heterozygote",
+"explanation": "In codominance, both alleles contribute to the phenotype (e.g., Blood type AB), and both are fully expressed.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.khanacademy.org/science/biology/classical-genetics/variations-on-mendelian-genetics/a/incomplete-dominance-codominance-multiple-alleles](https://www.google.com/search?q=https://www.khanacademy.org/science/biology/classical-genetics/variations-on-mendelian-genetics/a/incomplete-dominance-codominance-multiple-alleles)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c3d4e5f6-a7b8-4901-2345-678901abcdek",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which genetic map unit is defined as 1% recombination frequency?",
+"options": [
+"Centimorgan (cM)",
+"Base pair (bp)",
+"Kilobase (kb)",
+"Codon"
+],
+"correct_answer": "Centimorgan (cM)",
+"explanation": "A centimorgan (cM) is a unit for measuring genetic linkage. It is defined as the distance between chromosome positions for which the expected average number of intervening chromosomal crossovers in a single generation is 0.01 (1%).",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Centimorgan](https://www.genome.gov/genetics-glossary/Centimorgan)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d4e5f6a7-b8c9-4012-3456-789012abcdek",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Meselson and Stahl's experiment proved that DNA replication is:",
+"options": [
+"Conservative",
+"Semi-conservative",
+"Dispersive",
+"Random"
+],
+"correct_answer": "Semi-conservative",
+"explanation": "Meselson and Stahl used Nitrogen-15 isotopes to demonstrate that DNA replication is semi-conservative, meaning each new DNA molecule consists of one old strand and one new strand.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/semi-conservative-dna-replication-meselson-and-stahl-421/](https://www.nature.com/scitable/topicpage/semi-conservative-dna-replication-meselson-and-stahl-421/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e5f6a7b8-c9d0-4123-4567-890123abcdek",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "What is the function of the promoter region in a gene?",
+"options": [
+"To stop transcription",
+"To initiate transcription",
+"To code for amino acids",
+"To terminate translation"
+],
+"correct_answer": "To initiate transcription",
+"explanation": "The promoter is a DNA sequence located upstream of a gene where RNA polymerase binds to initiate transcription.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/promoter-146/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/promoter-146/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f6a7b8c9-d0e1-4234-5678-901234abcdek",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following is a start codon?",
+"options": [
+"UAA",
+"UAG",
+"AUG",
+"UGA"
+],
+"correct_answer": "AUG",
+"explanation": "AUG is the universal start codon in mRNA, coding for Methionine.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/start-codon-164/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/start-codon-164/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a7b8c9d0-e1f2-4345-6789-012345abcdek",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "A graphical representation of the arrangement of a complete set of chromosomes is called a:",
+"options": [
+"Genogram",
+"Karyotype",
+"Pedigree",
+"Phenogram"
+],
+"correct_answer": "Karyotype",
+"explanation": "A karyotype is an organized profile of a person's chromosomes, arranged by size and shape, used to detect chromosomal abnormalities.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Karyotype](https://www.genome.gov/genetics-glossary/Karyotype)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b8c9d0e1-f2a3-4456-7890-123456abcdek",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Genes located on the Y chromosome are known as:",
+"options": [
+"Holandric genes",
+"Autosomal genes",
+"X-linked genes",
+"Codominant genes"
+],
+"correct_answer": "Holandric genes",
+"explanation": "Holandric genes are located on the Y chromosome and are passed only from father to son.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://www.biologyonline.com/dictionary/holandric-gene](https://www.google.com/search?q=https://www.biologyonline.com/dictionary/holandric-gene)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c9d0e1f2-a3b4-4567-8901-234567abcdek",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "What is the complementary DNA strand for the sequence 5'-ATCG-3'?",
+"options": [
+"5'-TAGC-3'",
+"3'-TAGC-5'",
+"5'-ATCG-3'",
+"3'-AUCG-5'"
+],
+"correct_answer": "3'-TAGC-5'",
+"explanation": "DNA strands are antiparallel and complementary. A pairs with T and C pairs with G. So, 5'-ATCG-3' pairs with 3'-TAGC-5'.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/base-pair-11/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/base-pair-11/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d0e1f2a3-b4c5-4678-9012-345678abcdek",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The presence of a single chromosome instead of a homologous pair (2n-1) is called:",
+"options": [
+"Monosomy",
+"Trisomy",
+"Nullisomy",
+"Euploidy"
+],
+"correct_answer": "Monosomy",
+"explanation": "Monosomy is a form of aneuploidy where one chromosome from a pair is missing (2n-1), such as in Turner syndrome (XO).",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/monosomy-200/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/monosomy-200/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e1f2a3b4-c5d6-4789-0123-456789abcdel",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following blood groups is an example of a universal recipient?",
+"options": [
+"O negative",
+"A positive",
+"AB positive",
+"B negative"
+],
+"correct_answer": "AB positive",
+"explanation": "Individuals with AB positive blood have both A and B antigens and the Rh antigen, so they do not produce antibodies against any of them, allowing them to receive red blood cells from any type.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.redcrossblood.org/donate-blood/blood-types.html](https://www.redcrossblood.org/donate-blood/blood-types.html)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f2a3b4c5-d6e7-4890-1234-567890abcdel",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "A gene located on the X chromosome is said to be:",
+"options": [
+"Sex-limited",
+"Sex-linked",
+"Sex-influenced",
+"Autosomal"
+],
+"correct_answer": "Sex-linked",
+"explanation": "Genes found on the sex chromosomes (X or Y) are called sex-linked genes.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Sex-Linked](https://www.genome.gov/genetics-glossary/Sex-Linked)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a3b4c5d6-e7f8-4901-2345-678901abcdel",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which enzyme adds the repetitive sequence to the ends of chromosomes to prevent loss of genetic information?",
+"options": [
+"Polymerase",
+"Telomerase",
+"Ligase",
+"Helicase"
+],
+"correct_answer": "Telomerase",
+"explanation": "Telomerase adds telomere sequences to the ends of chromosomes, preventing the loss of important genetic information during replication.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/telomeres-of-human-chromosomes-21041/](https://www.nature.com/scitable/topicpage/telomeres-of-human-chromosomes-21041/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b4c5d6e7-f8a9-4012-3456-789012abcdel",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The phenotypic ratio 15:1 in the F2 generation is characteristic of:",
+"options": [
+"Duplicate Gene Action",
+"Dominant Epistasis",
+"Recessive Epistasis",
+"Complementary Genes"
+],
+"correct_answer": "Duplicate Gene Action",
+"explanation": "A 15:1 ratio occurs when two dominant genes have a similar effect on the phenotype (duplicate dominant epistasis). The phenotype is only recessive if both genes are homozygous recessive.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://bio.libretexts.org/Bookshelves/Genetics/Online_Open_Genetics_(Nickle_and_Barrette-Ng)/04%3A_Genes_Interact_and_Modify_Ratios/4.02%3A_Epistasis_and_Other_Gene_Interactions](https://www.google.com/search?q=https://bio.libretexts.org/Bookshelves/Genetics/Online_Open_Genetics_(Nickle_and_Barrette-Ng)/04%253A_Genes_Interact_and_Modify_Ratios/4.02%253A_Epistasis_and_Other_Gene_Interactions)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c5d6e7f8-a9b0-4123-4567-890123abcdel",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following is a result of a deletion mutation?",
+"options": [
+"Cri-du-chat syndrome",
+"Down syndrome",
+"Klinefelter syndrome",
+"Turner syndrome"
+],
+"correct_answer": "Cri-du-chat syndrome",
+"explanation": "Cri-du-chat syndrome results from a deletion of the short arm of chromosome 5.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://medlineplus.gov/genetics/condition/cri-du-chat-syndrome/](https://medlineplus.gov/genetics/condition/cri-du-chat-syndrome/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d6e7f8a9-b0c1-4234-5678-901234abcdel",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The basic unit of heredity is the:",
+"options": [
+"Chromosome",
+"Gene",
+"Nucleus",
+"Protein"
+],
+"correct_answer": "Gene",
+"explanation": "The gene is the fundamental physical and functional unit of heredity, composed of DNA.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Gene](https://www.genome.gov/genetics-glossary/Gene)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e7f8a9b0-c1d2-4345-6789-012345abcdel",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "How many autosomes does a normal human somatic cell contain?",
+"options": [
+"22 pairs",
+"23 pairs",
+"46 pairs",
+"2 pairs"
+],
+"correct_answer": "22 pairs",
+"explanation": "A normal human somatic cell contains 23 pairs of chromosomes: 22 pairs of autosomes and 1 pair of sex chromosomes.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Autosome](https://www.genome.gov/genetics-glossary/Autosome)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f8a9b0c1-d2e3-4456-7890-123456abcdel",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which type of RNA contains the anticodon?",
+"options": [
+"mRNA",
+"tRNA",
+"rRNA",
+"snRNA"
+],
+"correct_answer": "tRNA",
+"explanation": "Transfer RNA (tRNA) contains a three-base sequence called the anticodon that pairs with the complementary codon on mRNA.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/anticodon-161/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/anticodon-161/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a9b0c1d2-e3f4-4567-8901-234567abcdel",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following is not a stop codon?",
+"options": [
+"UAA",
+"UGA",
+"UAG",
+"UGG"
+],
+"correct_answer": "UGG",
+"explanation": "The three stop codons are UAA, UAG, and UGA. UGG codes for Tryptophan.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/stop-codon-166/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/stop-codon-166/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b0c1d2e3-f4a5-4678-9012-345678abcdel",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "If the DNA sequence is 5'-TACG-3', what is the transcribed mRNA sequence?",
+"options": [
+"5'-ATGC-3'",
+"3'-AUGC-5'",
+"5'-AUGC-3'",
+"3'-TACG-5'"
+],
+"correct_answer": "3'-AUGC-5'",
+"explanation": "mRNA is synthesized antiparallel to the DNA template. T pairs with A, A with U, C with G, G with C. So 5'-TACG-3' template yields 3'-AUGC-5' (or 5'-CGUA-3'). Correct pairing here is antiparallel.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/transcription-dna-transcription-146/](https://www.google.com/search?q=https://www.nature.com/scitable/topicpage/transcription-dna-transcription-146/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c1d2e3f4-a5b6-4789-0123-456789abcdem",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which term describes a single gene having multiple effects on an individual's phenotype?",
+"options": [
+"Polygenic inheritance",
+"Pleiotropy",
+"Epistasis",
+"Multiple alleles"
+],
+"correct_answer": "Pleiotropy",
+"explanation": "Pleiotropy occurs when one gene influences two or more seemingly unrelated phenotypic traits.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/pleiotropy-one-gene-can-affect-multiple-traits-565/](https://www.google.com/search?q=https://www.nature.com/scitable/topicpage/pleiotropy-one-gene-can-affect-multiple-traits-565/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d2e3f4a5-b6c7-4890-1234-567890abcdem",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which disorder is caused by a dominant allele on the X chromosome?",
+"options": [
+"Hemophilia",
+"Color blindness",
+"Vitamin D resistant rickets",
+"Duchenne Muscular Dystrophy"
+],
+"correct_answer": "Vitamin D resistant rickets",
+"explanation": "Vitamin D resistant rickets (X-linked hypophosphatemia) is an X-linked dominant disorder. Hemophilia and Color blindness are X-linked recessive.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://medlineplus.gov/genetics/condition/hereditary-hypophosphatemic-rickets/](https://medlineplus.gov/genetics/condition/hereditary-hypophosphatemic-rickets/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e3f4a5b6-c7d8-4901-2345-678901abcdem",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "An organism with the genotype AaBb is crossed with aabb. This is an example of:",
+"options": [
+"Monohybrid test cross",
+"Dihybrid test cross",
+"Incomplete dominance",
+"Back cross"
+],
+"correct_answer": "Dihybrid test cross",
+"explanation": "Crossing a dihybrid (AaBb) with a double homozygous recessive (aabb) is a dihybrid test cross, used to determine linkage or independent assortment.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/test-cross-169/](https://www.nature.com/scitable/definition/test-cross-169/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f4a5b6c7-d8e9-4012-3456-789012abcdem",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following processes increases genetic variation during meiosis?",
+"options": [
+"DNA replication",
+"Crossing over",
+"Mitosis",
+"Cytokinesis"
+],
+"correct_answer": "Crossing over",
+"explanation": "Crossing over (recombination) in Prophase I of meiosis creates new combinations of alleles, increasing genetic diversity.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Crossing-Over](https://www.genome.gov/genetics-glossary/Crossing-Over)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a5b6c7d8-e9f0-4123-4567-890123abcdem",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "In a DNA molecule, the two strands are held together by:",
+"options": [
+"Peptide bonds",
+"Phosphodiester bonds",
+"Hydrogen bonds",
+"Ionic bonds"
+],
+"correct_answer": "Hydrogen bonds",
+"explanation": "The nitrogenous bases of the two DNA strands are connected by hydrogen bonds (A-T has 2, G-C has 3).",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/](https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b6c7d8e9-f0a1-4234-5678-901234abcdem",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which model of DNA replication suggests that the original DNA molecule remains intact and a new daughter molecule is generated?",
+"options": [
+"Semi-conservative",
+"Conservative",
+"Dispersive",
+"Distributive"
+],
+"correct_answer": "Conservative",
+"explanation": "The conservative model suggests the original DNA strands stay together and the new molecule consists of two entirely new strands. (Disproven by Meselson-Stahl).",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/semi-conservative-dna-replication-meselson-and-stahl-421/](https://www.nature.com/scitable/topicpage/semi-conservative-dna-replication-meselson-and-stahl-421/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c7d8e9f0-a1b2-4345-6789-012345abcdem",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following disorders is caused by a point mutation in the beta-globin chain?",
+"options": [
+"Thalassemia",
+"Sickle Cell Anemia",
+"Hemophilia",
+"Cystic Fibrosis"
+],
+"correct_answer": "Sickle Cell Anemia",
+"explanation": "Sickle Cell Anemia is caused by a specific point mutation (Glu to Val) at position 6 of the beta-globin chain.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/Genetic-Disorders/Sickle-Cell-Disease](https://www.genome.gov/Genetic-Disorders/Sickle-Cell-Disease)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d8e9f0a1-b2c3-4456-7890-123456abcdem",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "In a cross between a heterozygous individual and a homozygous recessive individual, the probability of obtaining a recessive phenotype is:",
+"options": [
+"0%",
+"25%",
+"50%",
+"75%"
+],
+"correct_answer": "50%",
+"explanation": "Crossing Aa x aa yields 50% Aa and 50% aa. Thus, there is a 50% chance of the recessive phenotype.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/test-cross-169/](https://www.nature.com/scitable/definition/test-cross-169/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e9f0a1b2-c3d4-4567-8901-234567abcdem",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which enzyme synthesizes RNA primers during DNA replication?",
+"options": [
+"Primase",
+"Ligase",
+"Helicase",
+"Topoisomerase"
+],
+"correct_answer": "Primase",
+"explanation": "DNA Primase synthesizes a short RNA primer to provide a 3'-OH group for DNA polymerase to start synthesizing DNA.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/primase-158/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/primase-158/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f0a1b2c3-d4e5-4678-9012-345678abcdem",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which scientist(s) conducted the experiment using 15N and 14N isotopes to prove semi-conservative replication?",
+"options": [
+"Watson and Crick",
+"Meselson and Stahl",
+"Hershey and Chase",
+"Griffith"
+],
+"correct_answer": "Meselson and Stahl",
+"explanation": "Matthew Meselson and Franklin Stahl demonstrated that DNA replication is semi-conservative using density gradient centrifugation with nitrogen isotopes.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/semi-conservative-dna-replication-meselson-and-stahl-421/](https://www.nature.com/scitable/topicpage/semi-conservative-dna-replication-meselson-and-stahl-421/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a1b2c3d4-e5f6-4789-0123-456789abcden",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "A person with blood type AB can receive blood from:",
+"options": [
+"Only type AB",
+"Type A and B",
+"Type O only",
+"Type A, B, AB, and O"
+],
+"correct_answer": "Type A, B, AB, and O",
+"explanation": "Type AB individuals are universal recipients because they lack antibodies against A or B antigens in their plasma.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.redcrossblood.org/donate-blood/blood-types.html](https://www.redcrossblood.org/donate-blood/blood-types.html)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b2c3d4e5-f6a7-4890-1234-567890abcden",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "What is the chromosomal constitution of a human male?",
+"options": [
+"44 Autosomes + XX",
+"44 Autosomes + XY",
+"22 Autosomes + XY",
+"46 Autosomes + XY"
+],
+"correct_answer": "44 Autosomes + XY",
+"explanation": "A normal human male somatic cell has 46 chromosomes: 44 autosomes and 2 sex chromosomes (XY).",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Sex-Chromosome](https://www.genome.gov/genetics-glossary/Sex-Chromosome)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c3d4e5f6-a7b8-4901-2345-678901abcden",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which enzyme prevents supercoiling of DNA ahead of the replication fork?",
+"options": [
+"Topoisomerase (DNA Gyrase)",
+"Helicase",
+"Ligase",
+"Polymerase"
+],
+"correct_answer": "Topoisomerase (DNA Gyrase)",
+"explanation": "Topoisomerase (or DNA Gyrase in prokaryotes) relieves the strain caused by supercoiling ahead of the replication fork.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/topoisomerase-147/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/topoisomerase-147/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d4e5f6a7-b8c9-4012-3456-789012abcden",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The inheritance pattern where the heterozygote phenotype is intermediate between the two homozygotes is called:",
+"options": [
+"Complete dominance",
+"Incomplete dominance",
+"Codominance",
+"Epistasis"
+],
+"correct_answer": "Incomplete dominance",
+"explanation": "In incomplete dominance, the heterozygous phenotype is a blend of the two homozygous phenotypes (e.g., Red x White = Pink flowers).",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.khanacademy.org/science/biology/classical-genetics/variations-on-mendelian-genetics/a/incomplete-dominance-codominance-multiple-alleles](https://www.google.com/search?q=https://www.khanacademy.org/science/biology/classical-genetics/variations-on-mendelian-genetics/a/incomplete-dominance-codominance-multiple-alleles)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e5f6a7b8-c9d0-4123-4567-890123abcden",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which codon signals the termination of translation?",
+"options": [
+"AUG",
+"UAA",
+"GGG",
+"CCC"
+],
+"correct_answer": "UAA",
+"explanation": "UAA (along with UAG and UGA) is a stop codon that signals the end of protein translation.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/stop-codon-166/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/stop-codon-166/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f6a7b8c9-d0e1-4234-5678-901234abcden",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The specific sequence of DNA that RNA polymerase binds to is the:",
+"options": [
+"Promoter",
+"Intron",
+"Exon",
+"Terminator"
+],
+"correct_answer": "Promoter",
+"explanation": "RNA polymerase binds to the promoter region of the DNA to initiate transcription.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/promoter-146/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/promoter-146/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a7b8c9d0-e1f2-4345-6789-012345abcden",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following describes the genotype of a pure-breeding strain?",
+"options": [
+"Heterozygous",
+"Homozygous",
+"Hybrid",
+"Mutant"
+],
+"correct_answer": "Homozygous",
+"explanation": "Pure-breeding (or true-breeding) strains are homozygous for the trait of interest (e.g., TT or tt), producing offspring identical to themselves when self-crossed.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/true-breeding-312/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/true-breeding-312/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b8c9d0e1-f2a3-4456-7890-123456abcden",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The loss of a terminal segment of a chromosome is known as:",
+"options": [
+"Terminal deletion",
+"Intercalary deletion",
+"Inversion",
+"Duplication"
+],
+"correct_answer": "Terminal deletion",
+"explanation": "A terminal deletion involves the loss of a segment from the end (terminus) of a chromosome.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/chromosome-deletion](https://www.google.com/search?q=https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/chromosome-deletion)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c9d0e1f2-a3b4-4567-8901-234567abcden",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "In humans, the SRY gene is located on which chromosome?",
+"options": [
+"X chromosome",
+"Y chromosome",
+"Chromosome 21",
+"Chromosome 1"
+],
+"correct_answer": "Y chromosome",
+"explanation": "The SRY gene (Sex-determining Region Y) is found on the Y chromosome and is responsible for initiating male sex determination.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://medlineplus.gov/genetics/gene/sry/](https://medlineplus.gov/genetics/gene/sry/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d0e1f2a3-b4c5-4678-9012-345678abcden",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "A diagram used to predict the outcome of a particular cross or breeding experiment is called a:",
+"options": [
+"Pedigree chart",
+"Punnett square",
+"Karyotype",
+"Gene map"
+],
+"correct_answer": "Punnett square",
+"explanation": "A Punnett square is a square diagram that is used to predict the genotypes of a particular cross or breeding experiment.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/punnett-square-305/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/punnett-square-305/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e1f2a3b4-c5d6-4789-0123-456789abcdeo",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following is an example of continuous variation?",
+"options": [
+"ABO blood group",
+"Human height",
+"Pea plant flower color",
+"Sickle cell trait"
+],
+"correct_answer": "Human height",
+"explanation": "Human height is a polygenic trait that shows continuous variation, meaning there is a range of phenotypes rather than distinct categories.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/polygenic-inheritance-and-environmental-effects-878/](https://www.google.com/search?q=https://www.nature.com/scitable/topicpage/polygenic-inheritance-and-environmental-effects-878/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f2a3b4c5-d6e7-4890-1234-567890abcdeo",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "What is the function of ligase in DNA replication?",
+"options": [
+"To add nucleotides",
+"To unwind DNA",
+"To seal nicks in the sugar-phosphate backbone",
+"To remove primers"
+],
+"correct_answer": "To seal nicks in the sugar-phosphate backbone",
+"explanation": "DNA Ligase joins DNA fragments together by forming phosphodiester bonds, sealing 'nicks' in the backbone, particularly between Okazaki fragments.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/ligase-144/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/ligase-144/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a3b4c5d6-e7f8-4901-2345-678901abcdeo",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of these represents a transition mutation?",
+"options": [
+"A replacing G",
+"A replacing C",
+"G replacing T",
+"C replacing A"
+],
+"correct_answer": "A replacing G",
+"explanation": "A transition mutation is a point mutation where a purine is replaced by another purine (A <-> G) or a pyrimidine by another pyrimidine (C <-> T).",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/transition-mutation](https://www.google.com/search?q=https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/transition-mutation)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b4c5d6e7-f8a9-4012-3456-789012abcdeo",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "What happens during the G1 phase of the cell cycle?",
+"options": [
+"DNA replication",
+"Cell growth and preparation for replication",
+"Chromosome alignment",
+"Cell division"
+],
+"correct_answer": "Cell growth and preparation for replication",
+"explanation": "The G1 phase is a period of cell growth and metabolic activity where the cell prepares for DNA replication which occurs in the subsequent S phase.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.khanacademy.org/science/biology/cellular-molecular-biology/mitosis/a/cell-cycle-phases](https://www.khanacademy.org/science/biology/cellular-molecular-biology/mitosis/a/cell-cycle-phases)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "c5d6e7f8-a9b0-4123-4567-890123abcdeo",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The triplet codon is found in:",
+"options": [
+"mRNA",
+"tRNA",
+"rRNA",
+"DNA only"
+],
+"correct_answer": "mRNA",
+"explanation": "The triplet codon is a sequence of three nucleotides on the mRNA strand that codes for an amino acid.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Codon](https://www.genome.gov/genetics-glossary/Codon)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "d6e7f8a9-b0c1-4234-5678-901234abcdeo",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "If a child has blood type O and the mother has blood type A, what could be the genotype of the father?",
+"options": [
+"IAIA only",
+"IBIB only",
+"ii, IAi, or IBi",
+"IAIB only"
+],
+"correct_answer": "ii, IAi, or IBi",
+"explanation": "The child is 'ii'. The mother must be 'IAi' to pass an 'i'. The father must also pass an 'i' allele, so he could be 'ii' (O), 'IAi' (A), or 'IBi' (B). He cannot be homozygous dominant or AB.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/08%3A_Patterns_of_Inheritance/8.03%3A_Extensions_of_the_Laws_of_Inheritance](https://www.google.com/search?q=https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%253A_General_Biology_(OpenStax)/08%253A_Patterns_of_Inheritance/8.03%253A_Extensions_of_the_Laws_of_Inheritance)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "e7f8a9b0-c1d2-4345-6789-012345abcdeo",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "A gene that results in the death of an individual in the homozygous state is called:",
+"options": [
+"Lethal allele",
+"Multiple allele",
+"Epistatic gene",
+"Codominant gene"
+],
+"correct_answer": "Lethal allele",
+"explanation": "Lethal alleles are alleles that cause the death of the organism that carries them, typically in the homozygous condition.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/mendelian-ratios-and-lethal-genes-557/](https://www.nature.com/scitable/topicpage/mendelian-ratios-and-lethal-genes-557/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "f8a9b0c1-d2e3-4456-7890-123456abcdeo",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "The region where sister chromatids are joined is called the:",
+"options": [
+"Telomere",
+"Centromere",
+"Centrosome",
+"Chromomere"
+],
+"correct_answer": "Centromere",
+"explanation": "The centromere is the specialized DNA sequence of a chromosome that links a pair of sister chromatids.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Centromere](https://www.genome.gov/genetics-glossary/Centromere)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "a9b0c1d2-e3f4-4567-8901-234567abcdeo",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "Which of the following is NOT true about DNA replication?",
+"options": [
+"It occurs in the 5' to 3' direction",
+"It is semi-conservative",
+"It requires RNA primers",
+"It occurs continuously on both strands"
+],
+"correct_answer": "It occurs continuously on both strands",
+"explanation": "DNA replication is continuous on the leading strand but discontinuous on the lagging strand (producing Okazaki fragments).",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/major-molecular-events-of-dna-replication-413/](https://www.nature.com/scitable/topicpage/major-molecular-events-of-dna-replication-413/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+},
+{
+"mcq_id": "b0c1d2e3-f4a5-4678-9012-345678abcdeo",
+"topic_id": "1c3d0594-a49c-4484-ab65-2fa17b4a7abd",
+"question": "In humans, hemophilia is more common in males because:",
+"options": [
+"It is an autosomal dominant trait",
+"It is an X-linked recessive trait",
+"It is a Y-linked trait",
+"It is an autosomal recessive trait"
+],
+"correct_answer": "It is an X-linked recessive trait",
+"explanation": "Hemophilia is X-linked recessive. Males have only one X chromosome, so a single recessive allele causes the disease. Females have two X chromosomes, so they need two copies to be affected.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.cdc.gov/ncbddd/hemophilia/facts.html](https://www.google.com/search?q=https://www.cdc.gov/ncbddd/hemophilia/facts.html)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:45:00Z"
+}
+]
