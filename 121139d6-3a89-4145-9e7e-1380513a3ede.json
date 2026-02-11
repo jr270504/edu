@@ -1,0 +1,2992 @@
+[
+{
+"mcq_id": "c1a2b3d4-e5f6-4789-a0b1-c2d3e4f5a6b7",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following is the most abundant organic compound found in nature, specifically forming the cell walls of plants?",
+"options": [
+"Starch",
+"Cellulose",
+"Glycogen",
+"Chitin"
+],
+"correct_answer": "Cellulose",
+"explanation": "Cellulose is the most abundant organic compound on Earth. It is a polysaccharide consisting of a linear chain of beta-glucose molecules and acts as the primary structural component of plant cell walls.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26882/](https://www.ncbi.nlm.nih.gov/books/NBK26882/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d2e3f4g5-h6i7-4890-b1c2-d3e4f5g6h7i8",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Water has a high specific heat capacity. What is the biological significance of this property?",
+"options": [
+"It allows water to dissolve non-polar substances.",
+"It minimizes sudden temperature changes in organisms.",
+"It increases the density of ice compared to liquid water.",
+"It facilitates the rapid hydrolysis of fats."
+],
+"correct_answer": "It minimizes sudden temperature changes in organisms.",
+"explanation": "The high specific heat capacity of water means it requires a large amount of energy to change its temperature. This thermal stability helps organisms maintain a constant internal body temperature despite environmental fluctuations.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.usgs.gov/special-topics/water-science-school/science/specific-heat-capacity-and-water](https://www.usgs.gov/special-topics/water-science-school/science/specific-heat-capacity-and-water)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e3f4g5h6-i7j8-4901-c2d3-e4f5g6h7i8j9",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which bond is formed when the carboxyl group of one amino acid reacts with the amino group of another?",
+"options": [
+"Glycosidic bond",
+"Peptide bond",
+"Ester bond",
+"Phosphodiester bond"
+],
+"correct_answer": "Peptide bond",
+"explanation": "A peptide bond is a covalent chemical bond formed between the carboxyl group (-COOH) of one amino acid and the amino group (-NH2) of another, releasing a molecule of water (dehydration synthesis).",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/peptide-bond](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/peptide-bond)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f4g5h6i7-j8k9-4012-d3e4-f5g6h7i8j9k0",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "What is the primary structural difference between a saturated and an unsaturated fatty acid?",
+"options": [
+"Saturated fatty acids contain double bonds between carbon atoms.",
+"Unsaturated fatty acids contain one or more double bonds between carbon atoms.",
+"Saturated fatty acids have a ring structure.",
+"Unsaturated fatty acids lack a carboxyl group."
+],
+"correct_answer": "Unsaturated fatty acids contain one or more double bonds between carbon atoms.",
+"explanation": "Saturated fatty acids have hydrocarbon chains connected by single bonds only, making them saturated with hydrogen. Unsaturated fatty acids contain one or more carbon-carbon double bonds, creating kinks in the chain.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK21154/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK21154/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a5b6c7d8-e9f0-4123-e4f5-g6h7i8j9k0l1",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The secondary structure of a protein, such as an alpha-helix or beta-pleated sheet, is primarily stabilized by:",
+"options": [
+"Disulfide bridges",
+"Hydrogen bonds",
+"Ionic bonds",
+"Hydrophobic interactions"
+],
+"correct_answer": "Hydrogen bonds",
+"explanation": "Secondary structures in proteins are maintained by hydrogen bonds formed between the carbonyl oxygen of one peptide bond and the amide hydrogen of another nearby peptide bond.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26830/](https://www.ncbi.nlm.nih.gov/books/NBK26830/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b6c7d8e9-f0a1-4234-f5g6-h7i8j9k0l1m2",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which monosaccharide is the primary respiratory fuel for human cells?",
+"options": [
+"Fructose",
+"Galactose",
+"Glucose",
+"Ribose"
+],
+"correct_answer": "Glucose",
+"explanation": "Glucose is the most important carbohydrate fuel in human cells. It is broken down during cellular respiration to produce ATP, the energy currency of the cell.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK21177/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK21177/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c7d8e9f0-a1b2-4345-g6h7-i8j9k0l1m2n3",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Identify the nitrogenous base that is found in RNA but not in DNA.",
+"options": [
+"Adenine",
+"Thymine",
+"Uracil",
+"Cytosine"
+],
+"correct_answer": "Uracil",
+"explanation": "RNA contains the pyrimidine base Uracil (U) instead of Thymine (T), which is found in DNA. Uracil pairs with Adenine in RNA.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Uracil](https://www.genome.gov/genetics-glossary/Uracil)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d8e9f0a1-b2c3-4456-h7i8-j9k0l1m2n3o4",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Phospholipids are amphipathic molecules. What does this mean?",
+"options": [
+"They are completely soluble in water.",
+"They have both hydrophilic (polar) and hydrophobic (non-polar) regions.",
+"They act as enzymes in cellular reactions.",
+"They are composed entirely of fatty acids."
+],
+"correct_answer": "They have both hydrophilic (polar) and hydrophobic (non-polar) regions.",
+"explanation": "Phospholipids have a hydrophilic 'head' (phosphate group) and two hydrophobic 'tails' (fatty acids). This amphipathic nature allows them to form bilayers, essential for cell membranes.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK9898/](https://www.ncbi.nlm.nih.gov/books/NBK9898/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e9f0a1b2-c3d4-4567-i8j9-k0l1m2n3o4p5",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following molecules acts as the 'genetic blueprint' carrying hereditary information in most organisms?",
+"options": [
+"Protein",
+"Carbohydrate",
+"Deoxyribonucleic Acid (DNA)",
+"Ribonucleic Acid (RNA)"
+],
+"correct_answer": "Deoxyribonucleic Acid (DNA)",
+"explanation": "DNA carries the genetic instructions used in the growth, development, functioning, and reproduction of all known living organisms and many viruses.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid](https://www.google.com/search?q=https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f0a1b2c3-d4e5-4678-j9k0-l1m2n3o4p5q6",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "When two glucose molecules combine to form maltose, which linkage is formed?",
+"options": [
+"Beta-1,4-glycosidic linkage",
+"Alpha-1,4-glycosidic linkage",
+"Alpha-1,2-glycosidic linkage",
+"Beta-1,2-glycosidic linkage"
+],
+"correct_answer": "Alpha-1,4-glycosidic linkage",
+"explanation": "Maltose is a disaccharide formed by two glucose units linked by an alpha-1,4-glycosidic bond, resulting from a condensation reaction.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/maltose](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/maltose)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a1b2c3d4-e5f6-4789-k0l1-m2n3o4p5q6r7",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "What happens to a protein when it undergoes denaturation?",
+"options": [
+"Its peptide bonds break, releasing amino acids.",
+"It loses its three-dimensional shape and function.",
+"It becomes more soluble in water.",
+"It forms new covalent bonds."
+],
+"correct_answer": "It loses its three-dimensional shape and function.",
+"explanation": "Denaturation involves the disruption of the secondary, tertiary, or quaternary structure of proteins due to pH, temperature, or chemicals, causing loss of biological function without breaking peptide bonds.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/denaturation](https://www.google.com/search?q=https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/denaturation)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b2c3d4e5-f6g7-4890-l1m2-n3o4p5q6r7s8",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which percentage of the total weight of a bacterial cell is approximately constituted by water?",
+"options": [
+"30%",
+"50%",
+"70%",
+"90%"
+],
+"correct_answer": "70%",
+"explanation": "Water is the major component of all cells. In bacterial cells, water constitutes approximately 70% of the total cell weight.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK21473/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK21473/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c3d4e5f6-g7h8-4901-m2n3-o4p5q6r7s8t9",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Triglycerides (neutral lipids) are composed of:",
+"options": [
+"One glycerol and two fatty acids",
+"One glycerol and three fatty acids",
+"Three glycerols and one fatty acid",
+"One glycerol, two fatty acids, and a phosphate group"
+],
+"correct_answer": "One glycerol and three fatty acids",
+"explanation": "A triglyceride (or triacylglycerol) is an ester derived from glycerol and three fatty acids. It is the main constituent of body fat in humans and other animals.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/neuroscience/triglyceride](https://www.google.com/search?q=https://www.sciencedirect.com/topics/neuroscience/triglyceride)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d4e5f6g7-h8i9-4012-n3o4-p5q6r7s8t9u0",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following is a pyrimidine base found in DNA?",
+"options": [
+"Adenine",
+"Guanine",
+"Cytosine",
+"Uracil"
+],
+"correct_answer": "Cytosine",
+"explanation": "The nitrogenous bases are categorized into purines (Adenine, Guanine) and pyrimidines (Cytosine, Thymine, Uracil). In DNA, the pyrimidines are Cytosine and Thymine.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Pyrimidine](https://www.google.com/search?q=https://www.genome.gov/genetics-glossary/Pyrimidine)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e5f6g7h8-i9j0-4123-o4p5-q6r7s8t9u0v1",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The specific heat of vaporization of water is 574 kcal/kg. This high value allows animals to:",
+"options": [
+"Maintain buoyancy in water.",
+"Cool themselves by sweating or panting.",
+"Digest food more efficiently.",
+"Transport nutrients quickly."
+],
+"correct_answer": "Cool themselves by sweating or panting.",
+"explanation": "The high heat of vaporization means a significant amount of heat energy is required to convert water from liquid to gas. When sweat evaporates, it takes this heat from the body, providing a cooling effect.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://openstax.org/books/biology-2e/pages/2-2-water](https://openstax.org/books/biology-2e/pages/2-2-water)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f6g7h8i9-j0k1-4234-p5q6-r7s8t9u0v1w2",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which conjugated molecule is a combination of a carbohydrate and a protein?",
+"options": [
+"Lipoprotein",
+"Glycolipid",
+"Glycoprotein",
+"Nucleoprotein"
+],
+"correct_answer": "Glycoprotein",
+"explanation": "Glycoproteins are molecules comprising protein and carbohydrate chains (oligosaccharides) involved in many physiological functions including immunity.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/glycoprotein](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/glycoprotein)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a7b8c9d0-e1f2-4345-q6r7-s8t9u0v1w2x3",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "In the double helix structure of DNA, Adenine pairs with Thymine via how many hydrogen bonds?",
+"options": [
+"1",
+"2",
+"3",
+"4"
+],
+"correct_answer": "2",
+"explanation": "According to Watson-Crick base pairing rules, Adenine (A) forms two hydrogen bonds with Thymine (T), while Guanine (G) forms three hydrogen bonds with Cytosine (C).",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/](https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b8c9d0e1-f2g3-4456-r7s8-t9u0v1w2x3y4",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following is a characteristic function of waxes in living organisms?",
+"options": [
+"Immediate energy source",
+"Genetic information storage",
+"Water-repellent protective coating",
+"Enzymatic catalysis"
+],
+"correct_answer": "Water-repellent protective coating",
+"explanation": "Waxes are lipids that form waterproof coatings on leaves (cuticle) and fruits, and on animal skin, fur, and feathers to prevent water loss and provide protection.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/1%3A_The_Chemistry_of_Life/3%3A_Biological_Macromolecules/3.3%3A_Lipids](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/1%3A_The_Chemistry_of_Life/3%3A_Biological_Macromolecules/3.3%3A_Lipids)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c9d0e1f2-g3h4-4567-s8t9-u0v1w2x3y4z5",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Sucrose (table sugar) is a disaccharide formed by the condensation of:",
+"options": [
+"Glucose and Glucose",
+"Glucose and Galactose",
+"Glucose and Fructose",
+"Fructose and Galactose"
+],
+"correct_answer": "Glucose and Fructose",
+"explanation": "Sucrose is formed by the glycosidic linkage between an alpha-glucose molecule and a beta-fructose molecule.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://pubchem.ncbi.nlm.nih.gov/compound/Sucrose](https://pubchem.ncbi.nlm.nih.gov/compound/Sucrose)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d0e1f2g3-h4i5-4678-t9u0-v1w2x3y4z5a6",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which level of protein structure describes the overall three-dimensional shape of a single polypeptide chain?",
+"options": [
+"Primary",
+"Secondary",
+"Tertiary",
+"Quaternary"
+],
+"correct_answer": "Tertiary",
+"explanation": "Tertiary structure refers to the unique three-dimensional folding of a single polypeptide chain, stabilized by interactions between R-groups (side chains) such as disulfide bonds, ionic bonds, and hydrophobic interactions.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK21177/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK21177/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e1f2g3h4-i5j6-4789-u0v1-w2x3y4z5a6b7",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Identify the non-reducing sugar among the following:",
+"options": [
+"Glucose",
+"Maltose",
+"Lactose",
+"Sucrose"
+],
+"correct_answer": "Sucrose",
+"explanation": "Sucrose is a non-reducing sugar because the glycosidic bond is formed between the reducing ends of both glucose and fructose, leaving no free anomeric carbon to reduce other compounds.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://chem.libretexts.org/Bookshelves/Biological_Chemistry/Supplemental_Modules_(Biological_Chemistry)/Carbohydrates/Carbohydrates/Reducing_and_Non-Reducing_Sugars](https://www.google.com/search?q=https://chem.libretexts.org/Bookshelves/Biological_Chemistry/Supplemental_Modules_(Biological_Chemistry)/Carbohydrates/Carbohydrates/Reducing_and_Non-Reducing_Sugars)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f2g3h4i5-j6k7-4890-v1w2-x3y4z5a6b7c8",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Hemoglobin is an example of which protein structure?",
+"options": [
+"Primary",
+"Secondary",
+"Tertiary",
+"Quaternary"
+],
+"correct_answer": "Quaternary",
+"explanation": "Hemoglobin exhibits quaternary structure because it is composed of four polypeptide subunits (two alpha and two beta chains) working together.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.rcsb.org/structure/1A3N](https://www.rcsb.org/structure/1A3N)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a3b4c5d6-e7f8-4901-w2x3-y4z5a6b7c8d9",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "What is the approximate percentage of water in human bone cells?",
+"options": [
+"20%",
+"50%",
+"70%",
+"85%"
+],
+"correct_answer": "20%",
+"explanation": "While brain cells contain about 85% water, bone cells are much denser and contain only about 20% water.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://www.usgs.gov/special-topics/water-science-school/science/water-you-water-and-human-body](https://www.usgs.gov/special-topics/water-science-school/science/water-you-water-and-human-body)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b4c5d6e7-f8g9-4012-x3y4-z5a6b7c8d9e0",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following is an example of a structural protein found in hair and nails?",
+"options": [
+"Albumin",
+"Hemoglobin",
+"Keratin",
+"Insulin"
+],
+"correct_answer": "Keratin",
+"explanation": "Keratin is a fibrous structural protein that protects epithelial cells and is the key structural material making up hair, nails, and the outer layer of skin.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK537063/](https://www.ncbi.nlm.nih.gov/books/NBK537063/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c5d6e7f8-g9h0-4123-y4z5-a6b7c8d9e0f1",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "ATP (Adenosine Triphosphate) is a nucleotide. Which three components make up its structure?",
+"options": [
+"Adenine, ribose, and one phosphate group",
+"Adenine, deoxyribose, and three phosphate groups",
+"Adenine, ribose, and three phosphate groups",
+"Guanine, ribose, and three phosphate groups"
+],
+"correct_answer": "Adenine, ribose, and three phosphate groups",
+"explanation": "ATP consists of the nitrogenous base adenine, the sugar ribose, and a chain of three phosphate groups bound to the ribose.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://pubchem.ncbi.nlm.nih.gov/compound/Adenosine-triphosphate](https://pubchem.ncbi.nlm.nih.gov/compound/Adenosine-triphosphate)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d6e7f8g9-h0i1-4234-z5a6-b7c8d9e0f1g2",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Amylose and Amylopectin are the two components of which polysaccharide?",
+"options": [
+"Glycogen",
+"Cellulose",
+"Starch",
+"Chitin"
+],
+"correct_answer": "Starch",
+"explanation": "Starch, the storage form of glucose in plants, is a mixture of two polymers: amylose (linear) and amylopectin (branched).",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/food-science/starch](https://www.sciencedirect.com/topics/food-science/starch)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e7f8g9h0-i1j2-4345-a6b7-c8d9e0f1g2h3",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The bond between a glycerol molecule and a fatty acid in a lipid is known as an:",
+"options": [
+"Ether bond",
+"Ester bond",
+"Peptide bond",
+"Hydrogen bond"
+],
+"correct_answer": "Ester bond",
+"explanation": "An ester bond (linkage) is formed between the hydroxyl group (-OH) of glycerol and the carboxyl group (-COOH) of a fatty acid during lipid synthesis.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/chemistry/ester-bond](https://www.google.com/search?q=https://www.sciencedirect.com/topics/chemistry/ester-bond)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f8g9h0i1-j2k3-4456-b7c8-d9e0f1g2h3i4",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which form of RNA is responsible for carrying the genetic code from DNA to the ribosome?",
+"options": [
+"mRNA (messenger RNA)",
+"tRNA (transfer RNA)",
+"rRNA (ribosomal RNA)",
+"snRNA (small nuclear RNA)"
+],
+"correct_answer": "mRNA (messenger RNA)",
+"explanation": "Messenger RNA (mRNA) carries the genetic information copied from DNA in the form of a series of three-base code 'words,' each of which specifies a particular amino acid.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Messenger-RNA](https://www.google.com/search?q=https://www.genome.gov/genetics-glossary/Messenger-RNA)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a9b0c1d2-e3f4-4567-c8d9-e0f1g2h3i4j5",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Chitin is a polysaccharide found in the exoskeleton of insects and the cell walls of fungi. It is a polymer of:",
+"options": [
+"Glucose",
+"Fructose",
+"N-acetylglucosamine",
+"Galactose"
+],
+"correct_answer": "N-acetylglucosamine",
+"explanation": "Chitin is a structural polysaccharide composed of modified glucose monomers called N-acetylglucosamine.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/materials-science/chitin](https://www.sciencedirect.com/topics/materials-science/chitin)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b0c1d2e3-f4g5-4678-d9e0-f1g2h3i4j5k6",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The specific sequence of amino acids in a protein chain determines its:",
+"options": [
+"Primary structure",
+"Secondary structure",
+"Tertiary structure",
+"All of the above"
+],
+"correct_answer": "All of the above",
+"explanation": "The primary structure (sequence of amino acids) ultimately dictates how the protein folds into its secondary and tertiary structures, thereby determining its final shape and function.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK21177/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK21177/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c1d2e3f4-g5h6-4789-e0f1-g2h3i4j5k6l7",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which property of water makes it an excellent solvent for polar substances?",
+"options": [
+"Its high specific heat",
+"Its polarity",
+"Its low viscosity",
+"Its transparency"
+],
+"correct_answer": "Its polarity",
+"explanation": "Water is a polar molecule, meaning it has a partial positive charge near hydrogen and a partial negative charge near oxygen. This allows it to surround and dissolve other polar or charged molecules (ions).",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/2%3A_The_Cell/02%3A_The_Chemical_Foundation_of_Life/2.2%3A_Water](https://www.google.com/search?q=https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%253A_General_Biology_(OpenStax)/2%253A_The_Cell/02%253A_The_Chemical_Foundation_of_Life/2.2%253A_Water)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d2e3f4g5-h6i7-4890-f1g2-h3i4j5k6l7m8",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Lipids store more than double the amount of energy per gram compared to carbohydrates because:",
+"options": [
+"They contain more oxygen atoms.",
+"They have a higher proportion of C-H bonds.",
+"They are soluble in water.",
+"They are easily hydrolyzed."
+],
+"correct_answer": "They have a higher proportion of C-H bonds.",
+"explanation": "Lipids have a higher ratio of carbon-hydrogen (C-H) bonds than carbohydrates. C-H bonds are energy-rich, allowing lipids to store more energy in a compact form.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://courses.lumenlearning.com/suny-biology1/chapter/lipids/](https://www.google.com/search?q=https://courses.lumenlearning.com/suny-biology1/chapter/lipids/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e3f4g5h6-i7j8-4901-g2h3-i4j5k6l7m8n9",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following amino acids contains a sulfur atom?",
+"options": [
+"Glycine",
+"Alanine",
+"Cysteine",
+"Serine"
+],
+"correct_answer": "Cysteine",
+"explanation": "Cysteine (and Methionine) are amino acids that contain sulfur. Cysteine is notable for forming disulfide bridges that stabilize protein structures.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://pubchem.ncbi.nlm.nih.gov/compound/Cysteine](https://pubchem.ncbi.nlm.nih.gov/compound/Cysteine)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f4g5h6i7-j8k9-4012-h3i4-j5k6l7m8n9o0",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "What is the general formula for a monosaccharide?",
+"options": [
+"Cn(H2O)n",
+"CnH2nOn-1",
+"CnH2n+2",
+"CnH2n"
+],
+"correct_answer": "Cn(H2O)n",
+"explanation": "Monosaccharides typically follow the empirical formula (CH2O)n, or Cn(H2O)n, where 'n' is typically 3 to 7.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/monosaccharide](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/monosaccharide)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a5b6c7d8-e9f0-4123-i4j5-k6l7m8n9o0p1",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which type of chemical bond connects the nucleotides in a single strand of DNA or RNA?",
+"options": [
+"Hydrogen bond",
+"Phosphodiester bond",
+"Peptide bond",
+"Ionic bond"
+],
+"correct_answer": "Phosphodiester bond",
+"explanation": "A phosphodiester bond is the linkage between the 3' carbon atom of one sugar molecule and the 5' carbon atom of another, forming the strong sugar-phosphate backbone of nucleic acids.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/phosphodiester-bond](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/phosphodiester-bond)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b6c7d8e9-f0g1-4234-j5k6-l7m8n9o0p1q2",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Cholesterol is a precursor for which of the following biological molecules?",
+"options": [
+"Steroid hormones",
+"Phospholipids",
+"Triglycerides",
+"Proteins"
+],
+"correct_answer": "Steroid hormones",
+"explanation": "Cholesterol is the starting molecule for the synthesis of steroid hormones (like testosterone, estrogen, cortisol) and bile acids.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK470561/](https://www.ncbi.nlm.nih.gov/books/NBK470561/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c7d8e9f0-g1h2-4345-k6l7-m8n9o0p1q2r3",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Plants store excess glucose in the form of starch. In what form do animals mainly store excess glucose?",
+"options": [
+"Cellulose",
+"Chitin",
+"Glycogen",
+"Maltose"
+],
+"correct_answer": "Glycogen",
+"explanation": "Animals store excess glucose as glycogen, a highly branched polysaccharide, primarily in the liver and muscle tissues.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK21190/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK21190/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d8e9f0g1-h2i3-4456-l7m8-n9o0p1q2r3s4",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Erwin Chargaff's rule states that in a double-stranded DNA molecule:",
+"options": [
+"The amount of Adenine equals the amount of Guanine.",
+"The amount of Purines equals the amount of Pyrimidines.",
+"The amount of Cytosine equals the amount of Thymine.",
+"The sequence is random."
+],
+"correct_answer": "The amount of Purines equals the amount of Pyrimidines.",
+"explanation": "Chargaff's rules state that DNA from any cell should have a 1:1 ratio of pyrimidine and purine bases; specifically, the amount of guanine is equal to cytosine and the amount of adenine is equal to thymine.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/chargaff-s-rule-5/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/chargaff-s-rule-5/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e9f0g1h2-i3j4-4567-m8n9-o0p1q2r3s4t5",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which reagent is commonly used to test for the presence of proteins, producing a violet color?",
+"options": [
+"Benedict's solution",
+"Iodine solution",
+"Biuret reagent",
+"Sudan III"
+],
+"correct_answer": "Biuret reagent",
+"explanation": "The Biuret test detects peptide bonds. In the presence of proteins (peptides), copper ions in the reagent form a complex with nitrogen atoms in the peptide bonds, turning the solution violet.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://microbenotes.com/biuret-test-for-protein/](https://microbenotes.com/biuret-test-for-protein/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f0g1h2i3-j4k5-4678-n9o0-p1q2r3s4t5u6",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Oils are liquid at room temperature while fats are solid because:",
+"options": [
+"Oils contain more saturated fatty acids.",
+"Oils contain more unsaturated fatty acids.",
+"Oils have longer fatty acid chains.",
+"Oils lack glycerol."
+],
+"correct_answer": "Oils contain more unsaturated fatty acids.",
+"explanation": "Unsaturated fatty acids in oils have double bonds (kinks) that prevent the molecules from packing tightly together, keeping them liquid at room temperature.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/1%3A_The_Chemistry_of_Life/3%3A_Biological_Macromolecules/3.3%3A_Lipids](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/1%3A_The_Chemistry_of_Life/3%3A_Biological_Macromolecules/3.3%3A_Lipids)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a1h2i3j4-k5l6-4789-o0p1-q2r3s4t5u6v7",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "What is the primary function of transfer RNA (tRNA)?",
+"options": [
+"To store genetic information",
+"To form the ribosome structure",
+"To transport amino acids to the ribosome",
+"To destroy foreign DNA"
+],
+"correct_answer": "To transport amino acids to the ribosome",
+"explanation": "tRNA brings specific amino acids to the ribosome during protein synthesis, matching its anticodon with the mRNA codon.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Transfer-RNA](https://www.genome.gov/genetics-glossary/Transfer-RNA)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b2i3j4k5-l6m7-4890-p1q2-r3s4t5u6v7w8",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following elements is found in proteins but not in carbohydrates or lipids?",
+"options": [
+"Carbon",
+"Hydrogen",
+"Oxygen",
+"Nitrogen"
+],
+"correct_answer": "Nitrogen",
+"explanation": "Proteins are made of amino acids, which all contain an amino group (-NH2). Therefore, nitrogen is a key element in proteins, absent in simple carbohydrates and lipids.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/protein-structure-14122136/](https://www.nature.com/scitable/topicpage/protein-structure-14122136/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c3j4k5l6-m7n8-4901-q2r3-s4t5u6v7w8x9",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The hydrolysis of a triglyceride yields:",
+"options": [
+"3 Glycerols + 1 Fatty acid",
+"1 Glycerol + 3 Fatty acids",
+"3 Amino acids",
+"1 Glucose + 1 Fructose"
+],
+"correct_answer": "1 Glycerol + 3 Fatty acids",
+"explanation": "Hydrolysis breaks the ester bonds in a triglyceride, releasing the original components: one glycerol molecule and three fatty acid molecules.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/neuroscience/triglyceride](https://www.google.com/search?q=https://www.sciencedirect.com/topics/neuroscience/triglyceride)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d4k5l6m7-n8o9-4012-r3s4-t5u6v7w8x9y0",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "An alpha-helix is an example of which level of protein organization?",
+"options": [
+"Primary",
+"Secondary",
+"Tertiary",
+"Quaternary"
+],
+"correct_answer": "Secondary",
+"explanation": "The alpha-helix is a common motif in the secondary structure of proteins, characterized by a right-handed coiled or spiral conformation.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26830/](https://www.ncbi.nlm.nih.gov/books/NBK26830/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e5l6m7n8-o9p0-4123-s4t5-u6v7w8x9y0z1",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Ribose and Deoxyribose differ in structure at which carbon position?",
+"options": [
+"Carbon 1",
+"Carbon 2",
+"Carbon 3",
+"Carbon 5"
+],
+"correct_answer": "Carbon 2",
+"explanation": "Ribose has a hydroxyl group (-OH) at carbon 2, whereas deoxyribose has just a hydrogen atom (H) at carbon 2 (hence 'deoxy').",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://bioprinciples.biosci.gatech.edu/module-1-molecules-cells-and-energy/01-04-nucleic-acids/](https://www.google.com/search?q=https://bioprinciples.biosci.gatech.edu/module-1-molecules-cells-and-energy/01-04-nucleic-acids/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f6m7n8o9-p0q1-4234-t5u6-v7w8x9y0z1a2",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The evaporation of water from leaves (transpiration) is aided by which property of water molecules sticking to each other?",
+"options": [
+"Adhesion",
+"Cohesion",
+"High density",
+"Ionization"
+],
+"correct_answer": "Cohesion",
+"explanation": "Cohesion is the attraction between water molecules due to hydrogen bonding. This allows water to be pulled up through plants in a continuous column.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.usgs.gov/special-topics/water-science-school/science/adhesion-and-cohesion-water](https://www.usgs.gov/special-topics/water-science-school/science/adhesion-and-cohesion-water)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a7n8o9p0-q1r2-4345-u6v7-w8x9y0z1a2b3",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Lactose, the sugar found in milk, is composed of:",
+"options": [
+"Glucose + Glucose",
+"Glucose + Fructose",
+"Glucose + Galactose",
+"Galactose + Fructose"
+],
+"correct_answer": "Glucose + Galactose",
+"explanation": "Lactose is a disaccharide consisting of one glucose molecule and one galactose molecule linked by a beta-1,4-glycosidic bond.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://pubchem.ncbi.nlm.nih.gov/compound/Lactose](https://www.google.com/search?q=https://pubchem.ncbi.nlm.nih.gov/compound/Lactose)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b8o9p0q1-r2s3-4456-v7w8-x9y0z1a2b3c4",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which component of an amino acid gives it unique chemical properties?",
+"options": [
+"Amino group",
+"Carboxyl group",
+"R group (side chain)",
+"Alpha carbon"
+],
+"correct_answer": "R group (side chain)",
+"explanation": "While the amino and carboxyl groups are constant in all amino acids, the R group (side chain) varies and determines the specific chemical properties (polar, non-polar, acidic, basic) of each amino acid.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/protein-structure-14122136/](https://www.nature.com/scitable/topicpage/protein-structure-14122136/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c9p0q1r2-s3t4-4567-w8x9-y0z1a2b3c4d5",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The backbone of a DNA molecule consists of alternating:",
+"options": [
+"Sugar and Base",
+"Phosphate and Base",
+"Sugar and Phosphate",
+"Base and Hydrogen bond"
+],
+"correct_answer": "Sugar and Phosphate",
+"explanation": "The DNA backbone acts as the structural framework, consisting of alternating sugar (deoxyribose) and phosphate groups.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/DNA-Backbone](https://www.google.com/search?q=https://www.genome.gov/genetics-glossary/DNA-Backbone)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d0q1r2s3-t4u5-4678-x9y0-z1a2b3c4d5e6",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "What is the primary biological function of phospholipids?",
+"options": [
+"Long-term energy storage",
+"Genetic coding",
+"Formation of cell membranes",
+"Enzyme activity"
+],
+"correct_answer": "Formation of cell membranes",
+"explanation": "Phospholipids form the lipid bilayer of cell membranes, providing a barrier that separates the interior of the cell from the external environment.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK9898/](https://www.ncbi.nlm.nih.gov/books/NBK9898/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e1r2s3t4-u5v6-4789-y0z1-a2b3c4d5e6f7",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "How many water molecules are released during the formation of a triglyceride?",
+"options": [
+"1",
+"2",
+"3",
+"4"
+],
+"correct_answer": "3",
+"explanation": "A triglyceride is formed by the condensation of one glycerol and three fatty acids. Each fatty acid linkage releases one water molecule, totaling three.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/1%3A_The_Chemistry_of_Life/3%3A_Biological_Macromolecules/3.3%3A_Lipids](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/1%3A_The_Chemistry_of_Life/3%3A_Biological_Macromolecules/3.3%3A_Lipids)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f2s3t4u5-v6w7-4890-z1a2-b3c4d5e6f7g8",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Proteins that facilitate chemical reactions in the body by lowering activation energy are called:",
+"options": [
+"Hormones",
+"Antibodies",
+"Enzymes",
+"Receptors"
+],
+"correct_answer": "Enzymes",
+"explanation": "Enzymes are biological catalysts (mostly proteins) that speed up chemical reactions in living organisms by lowering the activation energy required.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK9921/](https://www.ncbi.nlm.nih.gov/books/NBK9921/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a3t4u5v6-w7x8-4901-a2b3-c4d5e6f7g8h9",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which carbon atom in the pentose sugar determines the 3' end of a DNA strand?",
+"options": [
+"Carbon 1",
+"Carbon 2",
+"Carbon 3",
+"Carbon 5"
+],
+"correct_answer": "Carbon 3",
+"explanation": "The 3' end of a DNA strand terminates with a hydroxyl (-OH) group attached to the 3rd carbon of the sugar ring.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/3-end-298/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/3-end-298/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b4u5v6w7-x8y9-4012-b3c4-d5e6f7g8h9i0",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following carbohydrates is the most branched?",
+"options": [
+"Amylose",
+"Amylopectin",
+"Glycogen",
+"Cellulose"
+],
+"correct_answer": "Glycogen",
+"explanation": "Glycogen is structurally similar to amylopectin but is much more extensively branched, allowing for rapid release of glucose when energy is needed.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK21190/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK21190/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c5v6w7x8-y9z0-4123-c4d5-e6f7g8h9i0j1",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The bond between two monosaccharides is specifically called a:",
+"options": [
+"Peptide bond",
+"Glycosidic bond",
+"Phosphodiester bond",
+"Ionic bond"
+],
+"correct_answer": "Glycosidic bond",
+"explanation": "A glycosidic bond is a covalent bond formed between two monosaccharides by a dehydration reaction.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/chemistry/glycosidic-bond](https://www.sciencedirect.com/topics/chemistry/glycosidic-bond)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d6w7x8y9-z0a1-4234-d5e6-f7g8h9i0j1k2",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of these is NOT a function of lipids?",
+"options": [
+"Thermal insulation",
+"Catalyzing metabolic reactions",
+"Protection of internal organs",
+"Structure of cell membranes"
+],
+"correct_answer": "Catalyzing metabolic reactions",
+"explanation": "Catalyzing metabolic reactions is primarily the function of enzymes (proteins). Lipids function in energy storage, insulation, protection, and membrane structure.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/1%3A_The_Chemistry_of_Life/3%3A_Biological_Macromolecules/3.3%3A_Lipids](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/1%3A_The_Chemistry_of_Life/3%3A_Biological_Macromolecules/3.3%3A_Lipids)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e7x8y9z0-a1b2-4345-e6f7-g8h9i0j1k2l3",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "In a water molecule, the bond between oxygen and hydrogen atoms is:",
+"options": [
+"Non-polar covalent",
+"Ionic",
+"Polar covalent",
+"Hydrogen bond"
+],
+"correct_answer": "Polar covalent",
+"explanation": "Inside a single water molecule, oxygen and hydrogen are held together by polar covalent bonds because oxygen is more electronegative than hydrogen.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.usgs.gov/special-topics/water-science-school/science/water-molecules-and-life](https://www.google.com/search?q=https://www.usgs.gov/special-topics/water-science-school/science/water-molecules-and-life)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f8y9z0a1-b2c3-4456-f7g8-h9i0j1k2l3m4",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "A polynucleotide chain has directionality. It runs from:",
+"options": [
+"3' to 5'",
+"5' to 3'",
+"N-terminus to C-terminus",
+"C-terminus to N-terminus"
+],
+"correct_answer": "5' to 3'",
+"explanation": "Nucleic acid strands are synthesized and conventionally read in the 5' to 3' direction, where 5' refers to the phosphate group and 3' to the hydroxyl group.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/dna-replication-and-causes-of-mutation-409/](https://www.nature.com/scitable/topicpage/dna-replication-and-causes-of-mutation-409/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a9z0a1b2-c3d4-4567-g8h9-i0j1k2l3m4n5",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following is a fibrous protein?",
+"options": [
+"Myoglobin",
+"Insulin",
+"Collagen",
+"Antibodies"
+],
+"correct_answer": "Collagen",
+"explanation": "Collagen is a fibrous protein that provides structural strength to connective tissues. Myoglobin, insulin, and antibodies are globular proteins.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK21589/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK21589/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b0a1b2c3-d4e5-4678-h9i0-j1k2l3m4n5o6",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The specific sequence of nucleotides in DNA coding for a protein is known as a:",
+"options": [
+"Codon",
+"Gene",
+"Genome",
+"Chromosome"
+],
+"correct_answer": "Gene",
+"explanation": "A gene is a distinct sequence of nucleotides forming part of a chromosome, the order of which determines the order of monomers in a polypeptide or nucleic acid molecule.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Gene](https://www.genome.gov/genetics-glossary/Gene)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c1b2c3d4-e5f6-4789-i0j1-k2l3m4n5o6p7",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Fats that are solid at room temperature usually contain a high proportion of:",
+"options": [
+"Saturated fatty acids",
+"Unsaturated fatty acids",
+"Polyunsaturated fatty acids",
+"Phospholipids"
+],
+"correct_answer": "Saturated fatty acids",
+"explanation": "Saturated fatty acids have straight chains that pack closely together, resulting in higher melting points and a solid state at room temperature.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/1%3A_The_Chemistry_of_Life/3%3A_Biological_Macromolecules/3.3%3A_Lipids](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/1%3A_The_Chemistry_of_Life/3%3A_Biological_Macromolecules/3.3%3A_Lipids)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d2c3d4e5-f6g7-4890-j1k2-l3m4n5o6p7q8",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following is an example of a purine base?",
+"options": [
+"Thymine",
+"Cytosine",
+"Uracil",
+"Guanine"
+],
+"correct_answer": "Guanine",
+"explanation": "Adenine and Guanine are purines, characterized by a double-ring structure. Cytosine, Thymine, and Uracil are pyrimidines with a single-ring structure.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Purine](https://www.google.com/search?q=https://www.genome.gov/genetics-glossary/Purine)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e3d4e5f6-g7h8-4901-k2l3-m4n5o6p7q8r9",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The tertiary structure of a protein is maintained by interactions between:",
+"options": [
+"Peptide bonds",
+"Hydrogen bonds only",
+"R groups (side chains)",
+"Alpha carbons"
+],
+"correct_answer": "R groups (side chains)",
+"explanation": "Tertiary structure is determined by interactions between the variable R groups, including hydrophobic interactions, ionic bonds, hydrogen bonds, and disulfide bridges.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK21177/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK21177/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f4e5f6g7-h8i9-4012-l3m4-n5o6p7q8r9s0",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which property of water contributes most to the cooling effect of sweating?",
+"options": [
+"High heat of vaporization",
+"High surface tension",
+"High density",
+"Cohesion"
+],
+"correct_answer": "High heat of vaporization",
+"explanation": "Water absorbs a large amount of heat energy to change from liquid to gas (evaporate). This removal of heat cools the surface from which it evaporates.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/2%3A_The_Cell/02%3A_The_Chemical_Foundation_of_Life/2.2%3A_Water](https://www.google.com/search?q=https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%253A_General_Biology_(OpenStax)/2%253A_The_Cell/02%253A_The_Chemical_Foundation_of_Life/2.2%253A_Water)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a5f6g7h8-i9j0-4123-m4n5-o6p7q8r9s0t1",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The general formula for an amino acid consists of an alpha carbon bonded to a hydrogen atom, an R group, and which two functional groups?",
+"options": [
+"Hydroxyl and Carboxyl",
+"Amino and Carboxyl",
+"Amino and Phosphate",
+"Methyl and Hydroxyl"
+],
+"correct_answer": "Amino and Carboxyl",
+"explanation": "Every amino acid has a central alpha carbon attached to an amino group (-NH2), a carboxyl group (-COOH), a hydrogen atom, and a variable R group.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/neuroscience/amino-acid](https://www.sciencedirect.com/topics/neuroscience/amino-acid)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b6g7h8i9-j0k1-4234-n5o6-p7q8r9s0t1u2",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Starch is easily digested by animals, whereas cellulose is not. This is because:",
+"options": [
+"Cellulose is branched, while starch is linear.",
+"Starch has beta-glycosidic linkages, while cellulose has alpha linkages.",
+"Cellulose has beta-glycosidic linkages which animals lack the enzyme to break.",
+"Starch is made of fructose, not glucose."
+],
+"correct_answer": "Cellulose has beta-glycosidic linkages which animals lack the enzyme to break.",
+"explanation": "Animals possess amylase to break alpha-glycosidic bonds in starch but generally lack cellulase to break the beta-glycosidic bonds in cellulose.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/1%3A_The_Chemistry_of_Life/3%3A_Biological_Macromolecules/3.2%3A_Carbohydrates](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/1%3A_The_Chemistry_of_Life/3%3A_Biological_Macromolecules/3.2%3A_Carbohydrates)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c7h8i9j0-k1l2-4345-o6p7-q8r9s0t1u2v3",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The density of ice is lower than that of liquid water because:",
+"options": [
+"Water molecules move faster in ice.",
+"Hydrogen bonds in ice form a lattice structure that keeps molecules further apart.",
+"Ice contains air bubbles.",
+"Covalent bonds shorten in ice."
+],
+"correct_answer": "Hydrogen bonds in ice form a lattice structure that keeps molecules further apart.",
+"explanation": "In ice, hydrogen bonds stabilize water molecules in a rigid, open hexagonal lattice structure, making ice less dense than liquid water where molecules pack closer together.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.usgs.gov/special-topics/water-science-school/science/water-density](https://www.usgs.gov/special-topics/water-science-school/science/water-density)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d8i9j0k1-l2m3-4456-p7q8-r9s0t1u2v3w4",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of these molecules functions primarily as a long-term energy storage in plants?",
+"options": [
+"Glycogen",
+"Starch",
+"Cellulose",
+"Chitin"
+],
+"correct_answer": "Starch",
+"explanation": "Plants store surplus energy as starch (amylose and amylopectin), whereas animals store it as glycogen.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/food-science/starch](https://www.sciencedirect.com/topics/food-science/starch)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e9j0k1l2-m3n4-4567-q8r9-s0t1u2v3w4x5",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following is an example of a conjugated protein?",
+"options": [
+"Albumin",
+"Hemoglobin",
+"Insulin",
+"Keratin"
+],
+"correct_answer": "Hemoglobin",
+"explanation": "Hemoglobin is a conjugated protein (specifically a metalloprotein) because it consists of a protein part (globin) attached to a non-protein prosthetic group (heme containing iron).",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/conjugated-protein](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/conjugated-protein)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f0k1l2m3-n4o5-4678-r9s0-t1u2v3w4x5y6",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The two strands of the DNA double helix are described as being:",
+"options": [
+"Identical",
+"Parallel",
+"Antiparallel",
+"Dispersive"
+],
+"correct_answer": "Antiparallel",
+"explanation": "The two strands of DNA run in opposite directions (one 5'->3', the other 3'->5'), which is termed 'antiparallel'.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/antiparallel-23/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/antiparallel-23/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a1l2m3n4-o5p6-4789-s0t1-u2v3w4x5y6z7",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "A fatty acid with no double bonds in its hydrocarbon chain is classified as:",
+"options": [
+"Saturated",
+"Monounsaturated",
+"Polyunsaturated",
+"Trans fat"
+],
+"correct_answer": "Saturated",
+"explanation": "Saturated fatty acids contain only single bonds between carbon atoms, meaning they are saturated with the maximum number of hydrogen atoms.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK21154/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK21154/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b2m3n4o5-p6q7-4890-t1u2-v3w4x5y6z7a8",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following is NOT a polymer?",
+"options": [
+"Starch",
+"DNA",
+"Protein",
+"Glucose"
+],
+"correct_answer": "Glucose",
+"explanation": "Glucose is a monomer (a monosaccharide). Starch, DNA, and Protein are polymers made of glucose, nucleotides, and amino acids, respectively.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/1%3A_The_Chemistry_of_Life/3%3A_Biological_Macromolecules/3.1%3A_Synthesis_of_Biological_Macromolecules](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/1%3A_The_Chemistry_of_Life/3%3A_Biological_Macromolecules/3.1%3A_Synthesis_of_Biological_Macromolecules)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c3n4o5p6-q7r8-4901-u2v3-w4x5y6z7a8b9",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which level of protein structure involves the assembly of multiple polypeptide subunits?",
+"options": [
+"Primary",
+"Secondary",
+"Tertiary",
+"Quaternary"
+],
+"correct_answer": "Quaternary",
+"explanation": "Quaternary structure refers to the arrangement of multiple folded protein subunits in a multi-subunit complex.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK21177/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK21177/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d4o5p6q7-r8s9-4012-v3w4-x5y6z7a8b9c0",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The major energy carrier molecule in cells, often called the 'energy currency', is:",
+"options": [
+"DNA",
+"Glucose",
+"ATP",
+"Insulin"
+],
+"correct_answer": "ATP",
+"explanation": "ATP (Adenosine Triphosphate) provides the energy for most cellular processes, acting as the universal energy currency.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/atp-318/](https://www.nature.com/scitable/definition/atp-318/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e5p6q7r8-s9t0-4123-w4x5-y6z7a8b9c0d1",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which test is used to detect the presence of starch?",
+"options": [
+"Benedict's test",
+"Biuret test",
+"Iodine test",
+"Emulsion test"
+],
+"correct_answer": "Iodine test",
+"explanation": "Iodine (in potassium iodide solution) turns from orange-brown to blue-black in the presence of starch.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://microbenotes.com/iodine-test-for-starch/](https://www.google.com/search?q=https://microbenotes.com/iodine-test-for-starch/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f6q7r8s9-t0u1-4234-x5y6-z7a8b9c0d1e2",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "What is the result of the hydrolysis of a dipeptide?",
+"options": [
+"Two amino acids",
+"One glycerol and one fatty acid",
+"Two monosaccharides",
+"One nucleotide"
+],
+"correct_answer": "Two amino acids",
+"explanation": "A dipeptide consists of two amino acids linked by a peptide bond. Hydrolysis breaks this bond to yield the two individual amino acids.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/dipeptide](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/dipeptide)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a7r8s9t0-u1v2-4345-y6z7-a8b9c0d1e2f3",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following is a function of cholesterol in animal cell membranes?",
+"options": [
+"Energy production",
+"Protein synthesis",
+"Modulating membrane fluidity",
+"Storing genetic information"
+],
+"correct_answer": "Modulating membrane fluidity",
+"explanation": "Cholesterol fits between phospholipids in the cell membrane, preventing it from becoming too fluid at high temperatures or too rigid at low temperatures.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK470561/](https://www.ncbi.nlm.nih.gov/books/NBK470561/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b8s9t0u1-v2w3-4456-z7a8-b9c0d1e2f3g4",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "In RNA, Adenine pairs with:",
+"options": [
+"Thymine",
+"Guanine",
+"Uracil",
+"Cytosine"
+],
+"correct_answer": "Uracil",
+"explanation": "In RNA, Thymine is replaced by Uracil. Therefore, Adenine pairs with Uracil via two hydrogen bonds.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Uracil](https://www.genome.gov/genetics-glossary/Uracil)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c9t0u1v2-w3x4-4567-a8b9-c0d1e2f3g4h5",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "What type of reaction links monomers together to form polymers, releasing a water molecule?",
+"options": [
+"Hydrolysis",
+"Dehydration synthesis (Condensation)",
+"Oxidation",
+"Ionic bonding"
+],
+"correct_answer": "Dehydration synthesis (Condensation)",
+"explanation": "Dehydration synthesis (or condensation) joins monomers by removing a water molecule to form a covalent bond.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/1%3A_The_Chemistry_of_Life/3%3A_Biological_Macromolecules/3.1%3A_Synthesis_of_Biological_Macromolecules](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/1%3A_The_Chemistry_of_Life/3%3A_Biological_Macromolecules/3.1%3A_Synthesis_of_Biological_Macromolecules)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d0u1v2w3-x4y5-4678-b9c0-d1e2f3g4h5i6",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Acylglycerols are more commonly known as:",
+"options": [
+"Fats and oils",
+"Waxes",
+"Steroids",
+"Terpenes"
+],
+"correct_answer": "Fats and oils",
+"explanation": "Acylglycerols, specifically triacylglycerols (triglycerides), are chemically the fats and oils found in plants and animals.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/neuroscience/acylglycerol](https://www.sciencedirect.com/topics/neuroscience/acylglycerol)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e1v2w3x4-y5z6-4789-c0d1-e2f3g4h5i6j7",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Sickle cell anemia is caused by a change in which structure of the hemoglobin protein?",
+"options": [
+"Primary structure",
+"Secondary structure",
+"Tertiary structure",
+"Quaternary structure only"
+],
+"correct_answer": "Primary structure",
+"explanation": "Sickle cell anemia results from a single amino acid substitution (Glutamic acid to Valine) in the primary sequence of the beta-globin chain.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/Genetic-Disorders/Sickle-Cell-Disease](https://www.genome.gov/Genetic-Disorders/Sickle-Cell-Disease)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f2w3x4y5-z6a7-4890-d1e2-f3g4h5i6j7k8",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which organic base is NOT found in DNA?",
+"options": [
+"Adenine",
+"Guanine",
+"Uracil",
+"Thymine"
+],
+"correct_answer": "Uracil",
+"explanation": "Uracil is specific to RNA. In DNA, Thymine is used instead.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Nitrogenous-Base](https://www.google.com/search?q=https://www.genome.gov/genetics-glossary/Nitrogenous-Base)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a3x4y5z6-a7b8-4901-e2f3-g4h5i6j7k8l9",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The conversion of glucose to glycogen in the liver is called:",
+"options": [
+"Glycolysis",
+"Glycogenesis",
+"Glycogenolysis",
+"Gluconeogenesis"
+],
+"correct_answer": "Glycogenesis",
+"explanation": "Glycogenesis is the process of synthesizing glycogen from glucose for storage.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/medicine-and-dentistry/glycogenesis](https://www.google.com/search?q=https://www.sciencedirect.com/topics/medicine-and-dentistry/glycogenesis)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b4y5z6a7-b8c9-4012-f3g4-h5i6j7k8l9m0",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The R-group of Glycine is:",
+"options": [
+"A methyl group",
+"A hydrogen atom",
+"A hydroxyl group",
+"A benzene ring"
+],
+"correct_answer": "A hydrogen atom",
+"explanation": "Glycine is the simplest amino acid, where the R group is just a single hydrogen atom.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://pubchem.ncbi.nlm.nih.gov/compound/Glycine](https://pubchem.ncbi.nlm.nih.gov/compound/Glycine)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c5z6a7b8-c9d0-4123-g4h5-i6j7k8l9m0n1",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following describes the nature of enzymes?",
+"options": [
+"They are consumed in reactions.",
+"They are usually proteins.",
+"They increase activation energy.",
+"They work best at any pH."
+],
+"correct_answer": "They are usually proteins.",
+"explanation": "Almost all enzymes are globular proteins. They act as catalysts and are not consumed in the reaction.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK9921/](https://www.ncbi.nlm.nih.gov/books/NBK9921/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d6a7b8c9-d0e1-4234-h5i6-j7k8l9m0n1o2",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "What is the approximate diameter of the DNA double helix?",
+"options": [
+"2 nm",
+"20 nm",
+"3.4 nm",
+"0.34 nm"
+],
+"correct_answer": "2 nm",
+"explanation": "The B-form DNA double helix has a consistent diameter of approximately 2 nanometers (20 Angstroms).",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/](https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e7b8c9d0-e1f2-4345-i6j7-k8l9m0n1o2p3",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which carbohydrate is the main constituent of cotton fibers?",
+"options": [
+"Starch",
+"Glycogen",
+"Cellulose",
+"Chitin"
+],
+"correct_answer": "Cellulose",
+"explanation": "Cotton fibers are almost pure cellulose, which provides structural strength.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/cotton-fiber](https://www.google.com/search?q=https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/cotton-fiber)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f8c9d0e1-f2g3-4456-j7k8-l9m0n1o2p3q4",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of these is NOT a property of water?",
+"options": [
+"High heat of vaporization",
+"High specific heat capacity",
+"Expands upon freezing",
+"Non-polar solvent"
+],
+"correct_answer": "Non-polar solvent",
+"explanation": "Water is a polar solvent, not non-polar. It is excellent at dissolving other polar substances but does not dissolve non-polar lipids well.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/2%3A_The_Cell/02%3A_The_Chemical_Foundation_of_Life/2.2%3A_Water](https://www.google.com/search?q=https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%253A_General_Biology_(OpenStax)/2%253A_The_Cell/02%253A_The_Chemical_Foundation_of_Life/2.2%253A_Water)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a9d0e1f2-g3h4-4567-k8l9-m0n1o2p3q4r5",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "During DNA replication, the two strands are separated by breaking:",
+"options": [
+"Peptide bonds",
+"Phosphodiester bonds",
+"Hydrogen bonds",
+"Ionic bonds"
+],
+"correct_answer": "Hydrogen bonds",
+"explanation": "The strands of the double helix are held together by hydrogen bonds between complementary bases. These bonds are broken (unzipped) to allow replication.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/dna-replication-and-causes-of-mutation-409/](https://www.nature.com/scitable/topicpage/dna-replication-and-causes-of-mutation-409/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b0e1f2g3-h4i5-4678-l9m0-n1o2p3q4r5s6",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "A nucleoside consists of:",
+"options": [
+"Nitrogenous base + Sugar + Phosphate",
+"Nitrogenous base + Sugar",
+"Sugar + Phosphate",
+"Nitrogenous base + Phosphate"
+],
+"correct_answer": "Nitrogenous base + Sugar",
+"explanation": "A nucleoside consists of a nitrogenous base attached to a pentose sugar. Adding a phosphate group converts it into a nucleotide.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Nucleoside](https://www.google.com/search?q=https://www.genome.gov/genetics-glossary/Nucleoside)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c1f2g3h4-i5j6-4789-m0n1-o2p3q4r5s6t7",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following is a ketose sugar?",
+"options": [
+"Glucose",
+"Fructose",
+"Galactose",
+"Mannose"
+],
+"correct_answer": "Fructose",
+"explanation": "Fructose contains a ketone functional group (C=O) on the second carbon, classifying it as a ketose. Glucose and Galactose are aldoses (aldehyde group).",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://pubchem.ncbi.nlm.nih.gov/compound/Fructose](https://pubchem.ncbi.nlm.nih.gov/compound/Fructose)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d2g3h4i5-j6k7-4890-n1o2-p3q4r5s6t7u8",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "In proteins, a disulfide bond is a covalent bond formed between two:",
+"options": [
+"Alanine residues",
+"Cysteine residues",
+"Methionine residues",
+"Serine residues"
+],
+"correct_answer": "Cysteine residues",
+"explanation": "Two cysteine amino acids can oxidize to form a disulfide bond (-S-S-) between their sulfur atoms, which is crucial for stabilizing protein tertiary structure.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/disulfide-bond](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/disulfide-bond)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e3h4i5j6-k7l8-4901-o2p3-q4r5s6t7u8v9",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which major class of biological macromolecules includes DNA and RNA?",
+"options": [
+"Lipids",
+"Proteins",
+"Carbohydrates",
+"Nucleic acids"
+],
+"correct_answer": "Nucleic acids",
+"explanation": "Nucleic acids are macromolecules that store and transmit genetic information. The two main types are DNA and RNA.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Nucleic-Acid](https://www.google.com/search?q=https://www.genome.gov/genetics-glossary/Nucleic-Acid)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f4i5j6k7-l8m9-4012-p3q4-r5s6t7u8v9w0",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of these is NOT a reducing sugar?",
+"options": [
+"Glucose",
+"Fructose",
+"Maltose",
+"Sucrose"
+],
+"correct_answer": "Sucrose",
+"explanation": "Sucrose is a non-reducing sugar because its glycosidic bond locks the anomeric carbons of both glucose and fructose, preventing them from reducing other compounds.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://chem.libretexts.org/Bookshelves/Biological_Chemistry/Supplemental_Modules_(Biological_Chemistry)/Carbohydrates/Carbohydrates/Reducing_and_Non-Reducing_Sugars](https://www.google.com/search?q=https://chem.libretexts.org/Bookshelves/Biological_Chemistry/Supplemental_Modules_(Biological_Chemistry)/Carbohydrates/Carbohydrates/Reducing_and_Non-Reducing_Sugars)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a5j6k7l8-m9n0-4123-q4r5-s6t7u8v9w0x1",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "What is the primary biological role of mRNA?",
+"options": [
+"To catalyze reactions",
+"To transfer amino acids",
+"To serve as a template for protein synthesis",
+"To form the ribosome"
+],
+"correct_answer": "To serve as a template for protein synthesis",
+"explanation": "Messenger RNA (mRNA) carries the genetic code from DNA in the nucleus to the ribosomes in the cytoplasm, where it serves as a template for translation into protein.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Messenger-RNA](https://www.google.com/search?q=https://www.genome.gov/genetics-glossary/Messenger-RNA)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b6k7l8m9-n0o1-4234-r5s6-t7u8v9w0x1y2",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The sequence of amino acids in a protein is read from which end to which end?",
+"options": [
+"C-terminal to N-terminal",
+"N-terminal to C-terminal",
+"5' to 3'",
+"3' to 5'"
+],
+"correct_answer": "N-terminal to C-terminal",
+"explanation": "Proteins are synthesized and conventionally described starting from the N-terminus (free amino group) to the C-terminus (free carboxyl group).",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/n-terminus](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/n-terminus)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c7l8m9n0-o1p2-4345-s6t7-u8v9w0x1y2z3",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following is true about enzymes?",
+"options": [
+"They increase the activation energy of a reaction.",
+"They are not reusable.",
+"They are highly specific to their substrate.",
+"They work best at extreme temperatures."
+],
+"correct_answer": "They are highly specific to their substrate.",
+"explanation": "Enzymes possess specific active sites that bind only to specific substrates (lock and key or induced fit models), ensuring specificity in metabolic reactions.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK9921/](https://www.ncbi.nlm.nih.gov/books/NBK9921/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d8m9n0o1-p2q3-4456-t7u8-v9w0x1y2z3a4",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which lipid is the primary component of the myelin sheath in nerve fibers?",
+"options": [
+"Cholesterol",
+"Sphingomyelin (Phospholipid)",
+"Triglyceride",
+"Wax"
+],
+"correct_answer": "Sphingomyelin (Phospholipid)",
+"explanation": "Sphingomyelin is a type of phospholipid that is a major component of the myelin sheath, insulating nerve axons.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/neuroscience/sphingomyelin](https://www.sciencedirect.com/topics/neuroscience/sphingomyelin)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e9n0o1p2-q3r4-4567-u8v9-w0x1y2z3a4b5",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "In a DNA molecule, if the percentage of Adenine is 20%, what is the percentage of Guanine?",
+"options": [
+"20%",
+"30%",
+"40%",
+"60%"
+],
+"correct_answer": "30%",
+"explanation": "If A = 20%, then T = 20%. A + T = 40%. The remaining 60% must be G + C. Since G = C, Guanine must be 30%.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/chargaff-s-rule-5/](https://www.google.com/search?q=https://www.nature.com/scitable/definition/chargaff-s-rule-5/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f0o1p2q3-r4s5-4678-v9w0-x1y2z3a4b5c6",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The Beta-pleated sheet is stabilized by:",
+"options": [
+"Hydrogen bonds",
+"Ionic bonds",
+"Disulfide bonds",
+"Peptide bonds"
+],
+"correct_answer": "Hydrogen bonds",
+"explanation": "Like the alpha-helix, the beta-pleated sheet is a secondary structure stabilized by hydrogen bonds between the backbone amide and carbonyl groups.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26830/](https://www.ncbi.nlm.nih.gov/books/NBK26830/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a1p2q3r4-s5t6-4789-w0x1-y2z3a4b5c6d7",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which molecule acts as a messenger in cell signaling, derived from membrane phospholipids?",
+"options": [
+"Inositol trisphosphate (IP3)",
+"ATP",
+"Glucose",
+"Hemoglobin"
+],
+"correct_answer": "Inositol trisphosphate (IP3)",
+"explanation": "IP3 is a secondary messenger molecule used in signal transduction, derived from the hydrolysis of the phospholipid PIP2.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/neuroscience/inositol-trisphosphate](https://www.sciencedirect.com/topics/neuroscience/inositol-trisphosphate)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b2q3r4s5-t6u7-4890-x1y2-z3a4b5c6d7e8",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The process by which RNA is synthesized from a DNA template is called:",
+"options": [
+"Translation",
+"Transcription",
+"Replication",
+"Translocation"
+],
+"correct_answer": "Transcription",
+"explanation": "Transcription is the first step of gene expression where a particular segment of DNA is copied into RNA by the enzyme RNA polymerase.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Transcription](https://www.genome.gov/genetics-glossary/Transcription)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c3r4s5t6-u7v8-4901-y2z3-a4b5c6d7e8f9",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of these is a saturated fatty acid commonly found in animal fats?",
+"options": [
+"Oleic acid",
+"Linoleic acid",
+"Stearic acid",
+"Linolenic acid"
+],
+"correct_answer": "Stearic acid",
+"explanation": "Stearic acid is a saturated fatty acid with an 18-carbon chain, commonly found in animal and vegetable fats. Oleic and Linoleic acids are unsaturated.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://pubchem.ncbi.nlm.nih.gov/compound/Stearic-acid](https://pubchem.ncbi.nlm.nih.gov/compound/Stearic-acid)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d4s5t6u7-v8w9-4012-z3a4-b5c6d7e8f9g0",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The monomer unit of a polypeptide is:",
+"options": [
+"Nucleotide",
+"Glucose",
+"Amino acid",
+"Fatty acid"
+],
+"correct_answer": "Amino acid",
+"explanation": "Polypeptides (proteins) are long chains made up of amino acid monomers linked by peptide bonds.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Amino-Acids](https://www.genome.gov/genetics-glossary/Amino-Acids)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e5t6u7v8-w9x0-4123-a4b5-c6d7e8f9g0h1",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "What is the primary function of rRNA?",
+"options": [
+"Carries genetic code",
+"Transfers amino acids",
+"Forms the core structural and catalytic component of ribosomes",
+"Regulates gene expression"
+],
+"correct_answer": "Forms the core structural and catalytic component of ribosomes",
+"explanation": "Ribosomal RNA (rRNA) combines with proteins to form ribosomes, the cellular machinery where protein synthesis occurs.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/ribosomal-rna](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/ribosomal-rna)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f6u7v8w9-x0y1-4234-b5c6-d7e8f9g0h1i2",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following bonds is involved in maintaining the primary structure of a protein?",
+"options": [
+"Hydrogen bond",
+"Peptide bond",
+"Disulfide bond",
+"Ionic bond"
+],
+"correct_answer": "Peptide bond",
+"explanation": "The primary structure is the linear sequence of amino acids, which is maintained solely by covalent peptide bonds.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK21177/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK21177/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a7v8w9x0-y1z2-4345-c6d7-e8f9g0h1i2j3",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following properties of water is responsible for capillary action in plants?",
+"options": [
+"Specific heat capacity",
+"Density",
+"Adhesion and Cohesion",
+"Solubility"
+],
+"correct_answer": "Adhesion and Cohesion",
+"explanation": "Capillary action results from the adhesion of water molecules to the vessel walls and the cohesion between water molecules, allowing water to climb up narrow tubes.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.usgs.gov/special-topics/water-science-school/science/capillary-action](https://www.google.com/search?q=https://www.usgs.gov/special-topics/water-science-school/science/capillary-action)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b8w9x0y1-z2a3-4456-d7e8-f9g0h1i2j3k4",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which molecule acts as an antifreeze in the blood of some fish living in freezing waters?",
+"options": [
+"Glycoproteins",
+"Phospholipids",
+"Starch",
+"DNA"
+],
+"correct_answer": "Glycoproteins",
+"explanation": "Antifreeze glycoproteins prevent the formation of ice crystals in the blood of fish inhabiting polar regions.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/antifreeze-protein](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/antifreeze-protein)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c9x0y1z2-a3b4-4567-e8f9-g0h1i2j3k4l5",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Maltose is commonly found in:",
+"options": [
+"Milk",
+"Germinating seeds",
+"Table sugar",
+"Fruit juices"
+],
+"correct_answer": "Germinating seeds",
+"explanation": "Maltose (malt sugar) is produced during the breakdown of starch, such as in germinating barley seeds (malting).",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/maltose](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/maltose)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d0y1z2a3-b4c5-4678-f9g0-h1i2j3k4l5m6",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "How many different standard amino acids are used to synthesize proteins in humans?",
+"options": [
+"10",
+"20",
+"30",
+"64"
+],
+"correct_answer": "20",
+"explanation": "There are 20 standard amino acids that are encoded by the genetic code to build proteins in humans and most other organisms.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Amino-Acids](https://www.genome.gov/genetics-glossary/Amino-Acids)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e1z2a3b4-c5d6-4789-g0h1-i2j3k4l5m6n7",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following lipids does not contain fatty acid chains?",
+"options": [
+"Triglycerides",
+"Phospholipids",
+"Steroids",
+"Waxes"
+],
+"correct_answer": "Steroids",
+"explanation": "Steroids, such as cholesterol, are characterized by a four-ring carbon structure and do not contain fatty acid chains like other lipids.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/1%3A_The_Chemistry_of_Life/3%3A_Biological_Macromolecules/3.3%3A_Lipids](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/1%3A_The_Chemistry_of_Life/3%3A_Biological_Macromolecules/3.3%3A_Lipids)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f2a3b4c5-d6e7-4890-h1i2-j3k4l5m6n7o8",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "A key difference between DNA and RNA is:",
+"options": [
+"DNA is single-stranded, RNA is double-stranded.",
+"DNA contains ribose, RNA contains deoxyribose.",
+"DNA contains Thymine, RNA contains Uracil.",
+"DNA is found in the cytoplasm, RNA in the nucleus only."
+],
+"correct_answer": "DNA contains Thymine, RNA contains Uracil.",
+"explanation": "One of the primary structural differences is that DNA uses Thymine as a base, while RNA uses Uracil.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/RNA-Ribonucleic-Acid](https://www.genome.gov/genetics-glossary/RNA-Ribonucleic-Acid)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a3b4c5d6-e7f8-4901-i2j3-k4l5m6n7o8p9",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The storage form of lipids in adipose tissue is:",
+"options": [
+"Phospholipids",
+"Triacylglycerols",
+"Cholesterol",
+"Glycolipids"
+],
+"correct_answer": "Triacylglycerols",
+"explanation": "Triacylglycerols (triglycerides) are the main form of energy storage in adipose tissue.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/neuroscience/triglyceride](https://www.google.com/search?q=https://www.sciencedirect.com/topics/neuroscience/triglyceride)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b4c5d6e7-f8g9-4012-j3k4-l5m6n7o8p9q0",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following is a non-essential amino acid (can be synthesized by the human body)?",
+"options": [
+"Leucine",
+"Lysine",
+"Alanine",
+"Valine"
+],
+"correct_answer": "Alanine",
+"explanation": "Alanine is a non-essential amino acid because the human body can synthesize it. Leucine, Lysine, and Valine are essential and must be obtained from the diet.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://medlineplus.gov/ency/article/002222.htm](https://medlineplus.gov/ency/article/002222.htm)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c5d6e7f8-g9h0-4123-k4l5-m6n7o8p9q0r1",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The bond angle of the water molecule is approximately:",
+"options": [
+"180 degrees",
+"120 degrees",
+"109.5 degrees",
+"104.5 degrees"
+],
+"correct_answer": "104.5 degrees",
+"explanation": "Due to the repulsion of the two lone pairs of electrons on the oxygen atom, the bond angle in a water molecule is compressed to 104.5 degrees.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://pubchem.ncbi.nlm.nih.gov/compound/Water](https://pubchem.ncbi.nlm.nih.gov/compound/Water)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d6e7f8g9-h0i1-4234-l5m6-n7o8p9q0r1s2",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following molecules contains a phosphate group?",
+"options": [
+"Glucose",
+"Triglyceride",
+"Phospholipid",
+"Cholesterol"
+],
+"correct_answer": "Phospholipid",
+"explanation": "Phospholipids contain a phosphate group in their hydrophilic head, distinguishing them from simple triglycerides and cholesterol.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK9898/](https://www.ncbi.nlm.nih.gov/books/NBK9898/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e7f8g9h0-i1j2-4345-m6n7-o8p9q0r1s2t3",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "What is the result of the complete hydrolysis of DNA?",
+"options": [
+"Amino acids",
+"Ribose, nitrogenous bases, and phosphate",
+"Deoxyribose, nitrogenous bases, and phosphate",
+"Glucose and fructose"
+],
+"correct_answer": "Deoxyribose, nitrogenous bases, and phosphate",
+"explanation": "Complete hydrolysis of DNA breaks it down into its constituent components: the sugar deoxyribose, nitrogenous bases (A, T, C, G), and phosphate groups.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid](https://www.google.com/search?q=https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f8g9h0i1-j2k3-4456-n7o8-p9q0r1s2t3u4",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Prions are infectious agents composed entirely of:",
+"options": [
+"DNA",
+"RNA",
+"Protein",
+"Lipid"
+],
+"correct_answer": "Protein",
+"explanation": "Prions are misfolded proteins that can transmit their misfolded shape onto normal variants of the same protein, leading to disease.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.cdc.gov/prions/index.html](https://www.cdc.gov/prions/index.html)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a9h0i1j2-k3l4-4567-o8p9-q0r1s2t3u4v5",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of these bonds is the strongest in a biological environment?",
+"options": [
+"Hydrogen bond",
+"Van der Waals interaction",
+"Covalent bond",
+"Hydrophobic interaction"
+],
+"correct_answer": "Covalent bond",
+"explanation": "In the aqueous environment of the cell, covalent bonds are much stronger than non-covalent interactions like hydrogen bonds or Van der Waals forces.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26820/](https://www.ncbi.nlm.nih.gov/books/NBK26820/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b0i1j2k3-l4m5-4678-p9q0-r1s2t3u4v5w6",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which vitamin is a lipid-soluble molecule?",
+"options": [
+"Vitamin C",
+"Vitamin B12",
+"Vitamin D",
+"Vitamin B6"
+],
+"correct_answer": "Vitamin D",
+"explanation": "Vitamins A, D, E, and K are fat-soluble (lipid-soluble), while Vitamin C and the B-complex vitamins are water-soluble.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK534227/](https://www.ncbi.nlm.nih.gov/books/NBK534227/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c1j2k3l4-m5n6-4789-q0r1-s2t3u4v5w6x7",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The melting point of palmitic acid (16 carbons, saturated) is 63.1°C. The melting point of oleic acid (18 carbons, one double bond) is 13.4°C. This illustrates that:",
+"options": [
+"Longer chains always have lower melting points.",
+"Double bonds increase the melting point.",
+"Unsaturation (double bonds) decreases the melting point.",
+"Saturated fats are liquid at room temperature."
+],
+"correct_answer": "Unsaturation (double bonds) decreases the melting point.",
+"explanation": "The 'kink' caused by the double bond in unsaturated fatty acids prevents tight packing, significantly lowering the melting point compared to saturated fatty acids.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://chem.libretexts.org/Bookshelves/Biological_Chemistry/Supplemental_Modules_(Biological_Chemistry)/Lipids/Fatty_Acids/Melting_Point_of_Fatty_Acids](https://www.google.com/search?q=https://chem.libretexts.org/Bookshelves/Biological_Chemistry/Supplemental_Modules_(Biological_Chemistry)/Lipids/Fatty_Acids/Melting_Point_of_Fatty_Acids)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d2k3l4m5-n6o7-4890-r1s2-t3u4v5w6x7y8",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which molecule acts as the final electron acceptor in the aerobic respiration chain, a property dependent on its high electronegativity?",
+"options": [
+"Carbon",
+"Nitrogen",
+"Oxygen",
+"Hydrogen"
+],
+"correct_answer": "Oxygen",
+"explanation": "Oxygen's high electronegativity makes it the ideal final electron acceptor in the electron transport chain, forming water.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK26841/](https://www.ncbi.nlm.nih.gov/books/NBK26841/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e3l4m5n6-o7p8-4901-s2t3-u4v5w6x7y8z9",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "A hexose sugar has how many carbon atoms?",
+"options": [
+"3",
+"4",
+"5",
+"6"
+],
+"correct_answer": "6",
+"explanation": "Hexose sugars, such as glucose and fructose, contain six carbon atoms in their backbone.",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/hexose](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/hexose)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f4m5n6o7-p8q9-4012-t3u4-v5w6x7y8z9a0",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The folding of a protein into a globular shape is driven largely by:",
+"options": [
+"Hydrophobic interactions",
+"Peptide bonds",
+"Magnetic forces",
+"Gravitational forces"
+],
+"correct_answer": "Hydrophobic interactions",
+"explanation": "Hydrophobic interactions drive non-polar side chains to the interior of the protein to avoid water, which is a major force in protein folding.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/topicpage/protein-structure-14122136/](https://www.nature.com/scitable/topicpage/protein-structure-14122136/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "a5n6o7p8-q9r0-4123-u4v5-w6x7y8z9a0b1",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of these is a correct base pair found in RNA?",
+"options": [
+"A-T",
+"A-U",
+"G-T",
+"C-U"
+],
+"correct_answer": "A-U",
+"explanation": "In RNA, Adenine (A) pairs with Uracil (U). In DNA, Adenine pairs with Thymine (T).",
+"difficulty_level": "Easy",
+"source_urls": [
+{
+"url": "[https://www.genome.gov/genetics-glossary/RNA-Ribonucleic-Acid](https://www.genome.gov/genetics-glossary/RNA-Ribonucleic-Acid)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "b6o7p8q9-r0s1-4234-v5w6-x7y8z9a0b1c2",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which enzyme is responsible for unzipping the DNA double helix during replication?",
+"options": [
+"DNA Polymerase",
+"Ligase",
+"Helicase",
+"Primase"
+],
+"correct_answer": "Helicase",
+"explanation": "DNA helicase breaks the hydrogen bonds between the bases, unwinding and unzipping the DNA double helix.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.nature.com/scitable/definition/helicase-307/](https://www.nature.com/scitable/definition/helicase-307/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "c7p8q9r0-s1t2-4345-w6x7-y8z9a0b1c2d3",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "The amino acid sequence of insulin was first determined by:",
+"options": [
+"Watson and Crick",
+"Frederick Sanger",
+"Louis Pasteur",
+"Robert Hooke"
+],
+"correct_answer": "Frederick Sanger",
+"explanation": "Frederick Sanger was the first to determine the amino acid sequence of a protein (insulin), for which he won the Nobel Prize.",
+"difficulty_level": "Hard",
+"source_urls": [
+{
+"url": "[https://www.nobelprize.org/prizes/chemistry/1958/sanger/biographical/](https://www.nobelprize.org/prizes/chemistry/1958/sanger/biographical/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "d8q9r0s1-t2u3-4456-x7y8-z9a0b1c2d3e4",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Trans fats are produced by the industrial process of:",
+"options": [
+"Hydrolysis",
+"Hydrogenation",
+"Oxidation",
+"Polymerization"
+],
+"correct_answer": "Hydrogenation",
+"explanation": "Hydrogenation adds hydrogen to unsaturated fats to make them solid, often creating trans fats as a byproduct.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.mayoclinic.org/diseases-conditions/high-blood-cholesterol/in-depth/trans-fat/art-20046114](https://www.mayoclinic.org/diseases-conditions/high-blood-cholesterol/in-depth/trans-fat/art-20046114)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "e9r0s1t2-u3v4-4567-y8z9-a0b1c2d3e4f5",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of the following describes a zwitterion?",
+"options": [
+"A molecule with no charge",
+"A molecule with both positive and negative charges but net zero charge",
+"A negatively charged ion",
+"A positively charged ion"
+],
+"correct_answer": "A molecule with both positive and negative charges but net zero charge",
+"explanation": "At physiological pH, amino acids exist as zwitterions, having a protonated amino group (NH3+) and a deprotonated carboxyl group (COO-), resulting in a net neutral charge.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(McMurry)/26%3A_Biomolecules_-*Amino_Acids_Peptides_and_Proteins/26.02%3A_Amino_Acids_and_the_Henderson-Hasselbalch_Equation*-_Isoelectric_Points](https://www.google.com/search?q=https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%253A_Organic_Chemistry_(McMurry)/26%253A_Biomolecules_-_Amino_Acids_Peptides_and_Proteins/26.02%253A_Amino_Acids_and_the_Henderson-Hasselbalch_Equation_-_Isoelectric_Points)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+},
+{
+"mcq_id": "f0s1t2u3-v4w5-4678-z9a0-b1c2d3e4f5g6",
+"topic_id": "121139d6-3a89-4145-9e7e-1380513a3ede",
+"question": "Which of these is the most abundant protein in the human body?",
+"options": [
+"Actin",
+"Tubulin",
+"Collagen",
+"Hemoglobin"
+],
+"correct_answer": "Collagen",
+"explanation": "Collagen is the most abundant protein in mammals, making up about 25% to 35% of the whole-body protein content.",
+"difficulty_level": "Medium",
+"source_urls": [
+{
+"url": "[https://www.ncbi.nlm.nih.gov/books/NBK21582/](https://www.google.com/search?q=https://www.ncbi.nlm.nih.gov/books/NBK21582/)",
+"is_verified": true
+}
+],
+"copyright_safe": true,
+"ai_rephrased": true,
+"last_verified": "2026-02-11T12:30:00Z"
+}
+]
