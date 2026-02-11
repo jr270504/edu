@@ -1,0 +1,2394 @@
+[
+  {
+    "mcq_id": "b1c2d3e4-f5a6-4b7c-8d9e-0f1a2b3c4d5e",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which specific part of the neuron is responsible for receiving stimuli and conducting impulses toward the cell body?",
+    "options": [
+      "Axon",
+      "Dendrite",
+      "Myelin Sheath",
+      "Schwann Cell"
+    ],
+    "correct_answer": "Dendrite",
+    "explanation": "Dendrites are the branched protoplasmic extensions of a nerve cell that propagate the electrochemical stimulation received from other neural cells to the cell body (soma).",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK542256/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "c2d3e4f5-a6b7-4c8d-9e0f-1a2b3c4d5e6f",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "What is the approximate resting membrane potential of a typical neuron?",
+    "options": [
+      "-70 mV",
+      "+50 mV",
+      "0 mV",
+      "-55 mV"
+    ],
+    "correct_answer": "-70 mV",
+    "explanation": "The resting membrane potential of a neuron is typically around -70 millivolts (mV). This negative value indicates that the inside of the neuron is more negatively charged than the outside.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538300/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "d3e4f5a6-b7c8-4d9e-0f1a-2b3c4d5e6f7g",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "During the depolarization phase of an action potential, which ion channels open to allow a rapid influx of ions?",
+    "options": [
+      "Potassium channels",
+      "Sodium channels",
+      "Calcium channels",
+      "Chloride channels"
+    ],
+    "correct_answer": "Sodium channels",
+    "explanation": "When a threshold is reached, voltage-gated sodium channels open, allowing sodium ions (Na+) to rush into the cell, causing the membrane potential to become positive (depolarization).",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/the-action-potential",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "e4f5a6b7-c8d9-4e0f-1a2b-3c4d5e6f7g8h",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which neurotransmitter is primarily deficient in patients suffering from Parkinson's disease?",
+    "options": [
+      "Serotonin",
+      "Acetylcholine",
+      "Dopamine",
+      "GABA"
+    ],
+    "correct_answer": "Dopamine",
+    "explanation": "Parkinson's disease is a neurodegenerative disorder characterized by the loss of dopamine-producing neurons in the substantia nigra, leading to tremors and motor control issues.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.nia.nih.gov/health/parkinsons-disease",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "f5a6b7c8-d9e0-4f1a-2b3c-4d5e6f7g8h9i",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The 'fight or flight' response is activated by which division of the nervous system?",
+    "options": [
+      "Somatic Nervous System",
+      "Parasympathetic Nervous System",
+      "Sympathetic Nervous System",
+      "Enteric Nervous System"
+    ],
+    "correct_answer": "Sympathetic Nervous System",
+    "explanation": "The Sympathetic Nervous System prepares the body for stressful situations by increasing heart rate, dilating pupils, and inhibiting digestion, often termed the 'fight or flight' response.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK539845/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "a6b7c8d9-e0f1-4a2b-3c4d-5e6f7g8h9i0j",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which part of the human brain is primarily responsible for the coordination of voluntary muscle movements, balance, and posture?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla Oblongata",
+      "Hypothalamus"
+    ],
+    "correct_answer": "Cerebellum",
+    "explanation": "The Cerebellum, located at the back of the brain, is crucial for fine-tuning motor activity, maintaining posture, and regulating balance and coordination.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538167/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "b7c8d9e0-f1a2-4b3c-4d5e-6f7g8h9i0j1k",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Saltatory conduction occurs in which type of neurons?",
+    "options": [
+      "Non-myelinated neurons",
+      "Myelinated neurons",
+      "Sensory receptors",
+      "Glial cells"
+    ],
+    "correct_answer": "Myelinated neurons",
+    "explanation": "Saltatory conduction is the propagation of action potentials along myelinated axons from one node of Ranvier to the next, increasing the conduction velocity of action potentials.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538300/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "c8d9e0f1-a2b3-4c4d-5e6f-7g8h9i0j1k2l",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which hormone is secreted by the beta cells of the Islets of Langerhans in the pancreas?",
+    "options": [
+      "Glucagon",
+      "Insulin",
+      "Somatostatin",
+      "Adrenaline"
+    ],
+    "correct_answer": "Insulin",
+    "explanation": "Beta cells in the pancreatic islets produce insulin, which lowers blood glucose levels by facilitating glucose uptake into cells.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK459289/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "d9e0f1a2-b3c4-4d5e-6f7g-8h9i0j1k2l3m",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Gigantism is caused by the hypersecretion of which hormone during childhood?",
+    "options": [
+      "Thyroxine",
+      "Growth Hormone (Somatotropin)",
+      "Adrenaline",
+      "Insulin"
+    ],
+    "correct_answer": "Growth Hormone (Somatotropin)",
+    "explanation": "Excessive secretion of Growth Hormone (GH) from the anterior pituitary during childhood, before the epiphyseal plates close, leads to Gigantism.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK482141/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "e0f1a2b3-c4d5-4e6f-7g8h-9i0j1k2l3m4n",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The corpus callosum connects which two structures in the human brain?",
+    "options": [
+      "Cerebellum and Medulla",
+      "Right and Left Cerebral Hemispheres",
+      "Thalamus and Hypothalamus",
+      "Midbrain and Hindbrain"
+    ],
+    "correct_answer": "Right and Left Cerebral Hemispheres",
+    "explanation": "The corpus callosum is a thick band of nerve fibers that divides the cerebral cortex lobes into left and right hemispheres and facilitates communication between them.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK448209/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "f1a2b3c4-d5e6-4f7g-8h9i-0j1k2l3m4n5o",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which plant hormone is primarily responsible for apical dominance?",
+    "options": [
+      "Gibberellin",
+      "Cytokinin",
+      "Auxin",
+      "Ethylene"
+    ],
+    "correct_answer": "Auxin",
+    "explanation": "Auxins, produced in the apical bud, suppress the growth of lateral buds, a phenomenon known as apical dominance. Removing the apical bud often results in bushier growth.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/apical-dominance",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "a2b3c4d5-e6f7-4g8h-9i0j-1k2l3m4n5o6p",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The node of Ranvier is a gap in the:",
+    "options": [
+      "Dendrites",
+      "Myelin sheath",
+      "Cell body",
+      "Nucleus"
+    ],
+    "correct_answer": "Myelin sheath",
+    "explanation": "Nodes of Ranvier are periodic gaps in the insulating myelin sheath on the axon of certain neurons that serves to facilitate the rapid conduction of nerve impulses.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK541097/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "b3c4d5e6-f7g8-4h9i-0j1k-2l3m4n5o6p7q",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which of the following ions plays a critical role in the release of neurotransmitters at the synaptic cleft?",
+    "options": [
+      "Sodium (Na+)",
+      "Potassium (K+)",
+      "Calcium (Ca2+)",
+      "Chloride (Cl-)"
+    ],
+    "correct_answer": "Calcium (Ca2+)",
+    "explanation": "When an action potential reaches the axon terminal, voltage-gated calcium channels open. The influx of Ca2+ causes synaptic vesicles to fuse with the membrane and release neurotransmitters.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538300/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "c4d5e6f7-g8h9-4i0j-1k2l-3m4n5o6p7q8r",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Graves' disease is an autoimmune disorder that results in the hypersecretion of:",
+    "options": [
+      "Insulin",
+      "Thyroid hormones (T3 and T4)",
+      "Cortisol",
+      "Parathormone"
+    ],
+    "correct_answer": "Thyroid hormones (T3 and T4)",
+    "explanation": "Graves' disease causes the immune system to attack the thyroid, leading it to overproduce thyroid hormones (hyperthyroidism).",
+    "difficulty_level": "Hard",
+    "source_urls": [
+      {
+        "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/graves-disease",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "d5e6f7g8-h9i0-4j1k-2l3m-4n5o6p7q8r9s",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which of the following is considered the 'Master Gland' of the endocrine system?",
+    "options": [
+      "Thyroid",
+      "Adrenal Gland",
+      "Pituitary Gland",
+      "Pancreas"
+    ],
+    "correct_answer": "Pituitary Gland",
+    "explanation": "The pituitary gland is often called the master gland because the hormones it produces control so many other endocrine glands in the body.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK279/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "e6f7g8h9-i0j1-4k2l-3m4n-5o6p7q8r9s0t",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The autonomic nervous system is divided into which two main branches?",
+    "options": [
+      "Central and Peripheral",
+      "Sympathetic and Parasympathetic",
+      "Sensory and Motor",
+      "Brain and Spinal Cord"
+    ],
+    "correct_answer": "Sympathetic and Parasympathetic",
+    "explanation": "The Autonomic Nervous System (ANS), which controls involuntary functions, is divided into the Sympathetic (stress response) and Parasympathetic (rest and digest) divisions.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK539845/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "f7g8h9i0-j1k2-4l3m-4n5o-6p7q8r9s0t1u",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which part of the eye contains the photoreceptors (rods and cones)?",
+    "options": [
+      "Cornea",
+      "Iris",
+      "Retina",
+      "Lens"
+    ],
+    "correct_answer": "Retina",
+    "explanation": "The retina is the light-sensitive layer at the back of the eye that contains photoreceptor cells (rods and cones) which convert light into neural signals.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK470662/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "a8h9i0j1-k2l3-4m4n-5o6p-7q8r9s0t1u2v",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Addison's disease is caused by the hyposecretion of hormones from which gland?",
+    "options": [
+      "Thyroid Gland",
+      "Adrenal Cortex",
+      "Adrenal Medulla",
+      "Parathyroid Gland"
+    ],
+    "correct_answer": "Adrenal Cortex",
+    "explanation": "Addison's disease (adrenal insufficiency) occurs when the adrenal cortex produces insufficient amounts of cortisol and aldosterone.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "b9i0j1k2-l3m4-4n5o-6p7q-8r9s0t1u2v3w",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which hormone regulates the sleep-wake cycle (circadian rhythm)?",
+    "options": [
+      "Melatonin",
+      "Oxytocin",
+      "Prolactin",
+      "Calcitonin"
+    ],
+    "correct_answer": "Melatonin",
+    "explanation": "Melatonin, produced by the pineal gland, signals the body to prepare for sleep and helps regulate circadian rhythms.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK550972/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "c0j1k2l3-m4n5-4o6p-7q8r-9s0t1u2v3w4x",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "What is the primary function of the Eustachian tube?",
+    "options": [
+      "To collect sound waves",
+      "To equalize air pressure on both sides of the eardrum",
+      "To transmit vibrations to the cochlea",
+      "To maintain balance"
+    ],
+    "correct_answer": "To equalize air pressure on both sides of the eardrum",
+    "explanation": "The Eustachian tube connects the middle ear to the nasopharynx, allowing for the equalization of pressure between the middle ear and the atmosphere.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK448118/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "d1k2l3m4-n5o6-4p7q-8r9s-0t1u2v3w4x5y",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which part of the brain controls vital functions such as breathing, heart rate, and blood pressure?",
+    "options": [
+      "Thalamus",
+      "Medulla Oblongata",
+      "Corpus Callosum",
+      "Hippocampus"
+    ],
+    "correct_answer": "Medulla Oblongata",
+    "explanation": "The medulla oblongata, located in the brainstem, contains the cardiac, respiratory, and vasomotor centers that regulate breathing, heart rate, and blood pressure.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544297/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "e2l3m4n5-o6p7-4q8r-9s0t-1u2v3w4x5y6z",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which plant hormone is a gas that promotes fruit ripening?",
+    "options": [
+      "Auxin",
+      "Cytokinin",
+      "Ethylene",
+      "Abscisic Acid"
+    ],
+    "correct_answer": "Ethylene",
+    "explanation": "Ethylene is a gaseous plant hormone that plays a major role in fruit ripening and the abscission of leaves.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/ethylene",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "f3m4n5o6-p7q8-4r9s-0t1u-2v3w4x5y6z7a",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The reflex arc generally follows which pathway?",
+    "options": [
+      "Receptor -> Sensory Neuron -> Interneuron -> Motor Neuron -> Effector",
+      "Effector -> Motor Neuron -> Interneuron -> Sensory Neuron -> Receptor",
+      "Receptor -> Motor Neuron -> CNS -> Sensory Neuron -> Effector",
+      "Sensory Neuron -> Receptor -> CNS -> Motor Neuron -> Effector"
+    ],
+    "correct_answer": "Receptor -> Sensory Neuron -> Interneuron -> Motor Neuron -> Effector",
+    "explanation": "A reflex arc is the neural pathway that controls a reflex action. It typically goes from the receptor to sensory neuron, to an interneuron in the spinal cord, to a motor neuron, and finally to the effector.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK537300/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "a4n5o6p7-q8r9-4s0t-1u2v-3w4x5y6z7a8b",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "What is the main function of the sodium-potassium pump in a resting neuron?",
+    "options": [
+      "To pump 3 Na+ in and 2 K+ out",
+      "To pump 3 Na+ out and 2 K+ in",
+      "To pump 2 Na+ out and 3 K+ in",
+      "To pump equal amounts of Na+ and K+"
+    ],
+    "correct_answer": "To pump 3 Na+ out and 2 K+ in",
+    "explanation": "The Na+/K+ ATPase pump actively transports 3 Sodium ions out of the cell and 2 Potassium ions into the cell, helping maintain the negative resting potential.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538235/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "b5o6p7q8-r9s0-4t1u-2v3w-4x5y6z7a8b9c",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Tetany is a condition characterized by muscle spasms caused by low levels of which mineral in the blood?",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Potassium",
+      "Sodium"
+    ],
+    "correct_answer": "Calcium",
+    "explanation": "Tetany is caused by hypocalcemia (low blood calcium), often due to hypoparathyroidism. Low calcium increases neuronal excitability, leading to muscle spasms.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK549815/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "c6p7q8r9-s0t1-4u2v-3w4x-5y6z7a8b9c0d",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which hormone is responsible for the 'Let-down' reflex of milk during breastfeeding?",
+    "options": [
+      "Prolactin",
+      "Oxytocin",
+      "Estrogen",
+      "Progesterone"
+    ],
+    "correct_answer": "Oxytocin",
+    "explanation": "While Prolactin stimulates milk production, Oxytocin triggers the contraction of myoepithelial cells, causing milk ejection or 'let-down'.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK542249/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "d7q8r9s0-t1u2-4v3w-4x5y-6z7a8b9c0d1e",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Thigmotropism is a plant growth response to:",
+    "options": [
+      "Light",
+      "Gravity",
+      "Touch",
+      "Water"
+    ],
+    "correct_answer": "Touch",
+    "explanation": "Thigmotropism is the directional growth of a plant in response to touch or physical contact, commonly seen in climbing vines and tendrils.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/thigmotropism",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "e8r9s0t1-u2v3-4w4x-5y6z-7a8b9c0d1e2f",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which of the following hormones is a steroid?",
+    "options": [
+      "Insulin",
+      "Adrenaline",
+      "Cortisol",
+      "Thyroxine"
+    ],
+    "correct_answer": "Cortisol",
+    "explanation": "Cortisol is a steroid hormone produced by the adrenal cortex. Insulin is a peptide, adrenaline is an amine, and thyroxine is an iodinated amine derivative.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538239/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "f9s0t1u2-v3w4-4x5y-6z7a-8b9c0d1e2f3g",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The visual pigment found in the rod cells of the human retina is:",
+    "options": [
+      "Iodopsin",
+      "Rhodopsin",
+      "Chlorophyll",
+      "Hemoglobin"
+    ],
+    "correct_answer": "Rhodopsin",
+    "explanation": "Rhodopsin, also known as visual purple, is the light-sensitive pigment found in rod cells that enables vision in low-light conditions.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10850/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "a0t1u2v3-w4x5-4y6z-7a8b-9c0d1e2f3g4h",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "In the human ear, the organ of Corti is located in the:",
+    "options": [
+      "Semicircular canals",
+      "Cochlea",
+      "Middle ear",
+      "Vestibule"
+    ],
+    "correct_answer": "Cochlea",
+    "explanation": "The organ of Corti is the sensitive element in the inner ear that transduces mechanical sound vibrations into nerve impulses, located within the cochlea.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538334/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "b1u2v3w4-x5y6-4z7a-8b9c-0d1e2f3g4h5i",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which of the following is NOT an effect of the Sympathetic Nervous System?",
+    "options": [
+      "Dilation of pupil",
+      "Acceleration of heart beat",
+      "Stimulation of digestion",
+      "Relaxation of bronchi"
+    ],
+    "correct_answer": "Stimulation of digestion",
+    "explanation": "The Sympathetic Nervous System inhibits non-essential functions like digestion during stress ('fight or flight'), whereas the Parasympathetic system stimulates digestion.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK539845/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "c2v3w4x5-y6z7-4a8b-9c0d-1e2f3g4h5i6j",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which hormone acts to increase blood calcium levels by stimulating bone resorption?",
+    "options": [
+      "Calcitonin",
+      "Parathyroid Hormone (PTH)",
+      "Thyroxine",
+      "Insulin"
+    ],
+    "correct_answer": "Parathyroid Hormone (PTH)",
+    "explanation": "Parathyroid Hormone (PTH) increases blood calcium levels by stimulating osteoclasts to break down bone matrix and release calcium into the blood.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK499940/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "d3w4x5y6-z7a8-4b9c-0d1e-2f3g4h5i6j7k",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Diabetes insipidus is caused by a deficiency in which hormone?",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Antidiuretic Hormone (ADH)",
+      "Aldosterone"
+    ],
+    "correct_answer": "Antidiuretic Hormone (ADH)",
+    "explanation": "Diabetes insipidus is characterized by excessive thirst and excretion of large amounts of dilute urine, caused by a lack of ADH (Vasopressin) or the kidney's failure to respond to it.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.niddk.nih.gov/health-information/kidney-disease/diabetes-insipidus",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "e4x5y6z7-a8b9-4c0d-1e2f-3g4h5i6j7k8l",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Nissl's granules, found in neurons, are rich in:",
+    "options": [
+      "DNA",
+      "RNA (Ribosomes)",
+      "Lipids",
+      "Carbohydrates"
+    ],
+    "correct_answer": "RNA (Ribosomes)",
+    "explanation": "Nissl bodies (or granules) are large granular bodies found in neurons. They are composed of rough endoplasmic reticulum (RER) and free rosettes of polyribosomes, and are the site of protein synthesis.",
+    "difficulty_level": "Hard",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/neuroscience/nissl-body",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "f5y6z7a8-b9c0-4d1e-2f3g-4h5i6j7k8l9m",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The gap between two neurons where information is transmitted is called:",
+    "options": [
+      "Axon",
+      "Dendrite",
+      "Synapse",
+      "Ganglion"
+    ],
+    "correct_answer": "Synapse",
+    "explanation": "A synapse is the junction between two nerve cells, consisting of a minute gap across which impulses pass by diffusion of a neurotransmitter.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK553141/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "a6z7a8b9-c0d1-4e2f-3g4h-5i6j7k8l9m0n",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which of the following is an example of a mixed nerve?",
+    "options": [
+      "Optic nerve",
+      "Vagus nerve",
+      "Auditory nerve",
+      "Olfactory nerve"
+    ],
+    "correct_answer": "Vagus nerve",
+    "explanation": "The Vagus nerve (Cranial Nerve X) is a mixed nerve, meaning it contains both sensory (afferent) and motor (efferent) fibers.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK537171/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "b7a8b9c0-d1e2-4f3g-4h5i-6j7k8l9m0n1o",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which plant hormone delays leaf senescence (aging)?",
+    "options": [
+      "Ethylene",
+      "Abscisic Acid",
+      "Cytokinin",
+      "Auxin"
+    ],
+    "correct_answer": "Cytokinin",
+    "explanation": "Cytokinins promote cell division and delay the aging (senescence) of leaves by promoting nutrient mobilization.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/cytokinin",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "c8b9c0d1-e2f3-4g4h-5i6j-7k8l9m0n1o2p",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The hypothalamus controls the anterior pituitary gland via:",
+    "options": [
+      "Direct nerve impulses",
+      "Releasing and inhibiting factors",
+      "Electrical synapses",
+      "Enzyme secretion"
+    ],
+    "correct_answer": "Releasing and inhibiting factors",
+    "explanation": "The hypothalamus secretes specific releasing and inhibiting hormones (factors) into the hypophyseal portal system, which travel to the anterior pituitary to regulate its secretion.",
+    "difficulty_level": "Hard",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK499997/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "d9c0d1e2-f3g4-4h5i-6j7k-8l9m0n1o2p3q",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Myopia (nearsightedness) is corrected using which type of lens?",
+    "options": [
+      "Convex lens",
+      "Concave lens",
+      "Cylindrical lens",
+      "Bifocal lens"
+    ],
+    "correct_answer": "Concave lens",
+    "explanation": "In Myopia, light focuses in front of the retina. A concave (diverging) lens is used to push the focal point back onto the retina.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/nearsightedness-myopia",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "e0d1e2f3-g4h5-4i6j-7k8l-9m0n1o2p3q4r",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which specific area of the cerebral cortex is associated with the production of speech?",
+    "options": [
+      "Wernicke's area",
+      "Broca's area",
+      "Occipital lobe",
+      "Sensory cortex"
+    ],
+    "correct_answer": "Broca's area",
+    "explanation": "Broca's area, typically located in the frontal lobe of the left hemisphere, is crucial for speech production and articulation.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK519518/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "f1e2f3g4-h5i6-4j7k-8l9m-0n1o2p3q4r5s",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The deficiency of iodine in the diet leads to the enlargement of which gland?",
+    "options": [
+      "Pituitary",
+      "Thyroid",
+      "Adrenal",
+      "Pancreas"
+    ],
+    "correct_answer": "Thyroid",
+    "explanation": "Iodine is essential for thyroid hormone synthesis. A deficiency leads to low T3/T4 levels, causing TSH to rise and stimulate the thyroid gland to grow, resulting in a goiter.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK28/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "a2f3g4h5-i6j7-4k8l-9m0n-1o2p3q4r5s6t",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which of the following is a function of Glucagon?",
+    "options": [
+      "Decreases blood glucose levels",
+      "Stimulates conversion of glycogen to glucose",
+      "Promotes protein synthesis",
+      "Increases uptake of glucose by cells"
+    ],
+    "correct_answer": "Stimulates conversion of glycogen to glucose",
+    "explanation": "Glucagon is secreted by alpha cells of the pancreas when blood glucose is low. It stimulates the liver to break down glycogen into glucose (glycogenolysis), raising blood sugar.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK554345/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "b3g4h5i6-j7k8-4l9m-0n1o-2p3q4r5s6t7u",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Multiple Sclerosis is a disease characterized by the destruction of:",
+    "options": [
+      "Neurotransmitters",
+      "Myelin sheath in the CNS",
+      "Dendrites in the PNS",
+      "Cell bodies of motor neurons"
+    ],
+    "correct_answer": "Myelin sheath in the CNS",
+    "explanation": "Multiple Sclerosis (MS) is an autoimmune disease where the immune system attacks and damages the myelin sheath covering nerve fibers in the central nervous system.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ninds.nih.gov/health-information/disorders/multiple-sclerosis",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "c4h5i6j7-k8l9-4m0n-1o2p-3q4r5s6t7u8v",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which receptor in the human skin is responsible for detecting pressure?",
+    "options": [
+      "Meissner's corpuscle",
+      "Pacinian corpuscle",
+      "Free nerve endings",
+      "Merkel cells"
+    ],
+    "correct_answer": "Pacinian corpuscle",
+    "explanation": "Pacinian corpuscles are mechanoreceptors located deep in the skin that are sensitive to deep pressure and high-frequency vibration.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK539705/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "d5i6j7k8-l9m0-4n1o-2p3q-4r5s6t7u8v9w",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Abscisic acid (ABA) is primarily known as the:",
+    "options": [
+      "Growth promoting hormone",
+      "Stress hormone",
+      "Fruit ripening hormone",
+      "Flowering hormone"
+    ],
+    "correct_answer": "Stress hormone",
+    "explanation": "Abscisic acid is called the stress hormone because it initiates responses to environmental stress, such as closing stomata during drought to conserve water.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/abscisic-acid",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "e6j7k8l9-m0n1-4o2p-3q4r-5s6t7u8v9w0x",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which of the following is a function of cerebrospinal fluid (CSF)?",
+    "options": [
+      "Transmitting nerve impulses",
+      "Providing buoyancy and shock absorption",
+      "Producing myelin",
+      "Releasing hormones"
+    ],
+    "correct_answer": "Providing buoyancy and shock absorption",
+    "explanation": "CSF cushions the brain within the skull, provides buoyancy to reduce the effective weight of the brain, and clears metabolic waste.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK555913/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "f7k8l9m0-n1o2-4p3q-4r5s-6t7u8v9w0x1y",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The limbic system is primarily concerned with:",
+    "options": [
+      "Logic and reasoning",
+      "Emotions and memory",
+      "Balance and coordination",
+      "Visual processing"
+    ],
+    "correct_answer": "Emotions and memory",
+    "explanation": "The limbic system, including the amygdala and hippocampus, is responsible for emotional responses, motivation, and the formation of long-term memories.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538491/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "a8l9m0n1-o2p3-4q4r-5s6t-7u8v9w0x1y2z",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Acromegaly occurs due to the hypersecretion of growth hormone in:",
+    "options": [
+      "Infants",
+      "Adolescents",
+      "Adults",
+      "Fetus"
+    ],
+    "correct_answer": "Adults",
+    "explanation": "Acromegaly is caused by excess growth hormone in adults after the epiphyseal plates have closed, leading to thickening of bones in the face, hands, and feet.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/acromegaly",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "b9m0n1o2-p3q4-4r5s-6t7u-8v9w0x1y2z3a",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which of the following is true regarding a Reflex Action?",
+    "options": [
+      "It is a conscious and voluntary response",
+      "It involves processing by the cerebrum",
+      "It is an involuntary and rapid response",
+      "It is slower than a voluntary action"
+    ],
+    "correct_answer": "It is an involuntary and rapid response",
+    "explanation": "A reflex action is an automatic, involuntary, and rapid response to a stimulus, often mediated by the spinal cord without direct involvement of the conscious brain.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK537300/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "c0n1o2p3-q4r5-4s6t-7u8v-9w0x1y2z3a4b",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The hormone Gastrin, which stimulates gastric acid secretion, is produced by the:",
+    "options": [
+      "Liver",
+      "Pancreas",
+      "Stomach lining",
+      "Small intestine"
+    ],
+    "correct_answer": "Stomach lining",
+    "explanation": "Gastrin is a peptide hormone produced by G cells in the pyloric antrum of the stomach. It stimulates the secretion of gastric acid (HCl).",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK534822/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "d1o2p3q4-r5s6-4t7u-8v9w-0x1y2z3a4b5c",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which cranial nerve is responsible for the sense of smell?",
+    "options": [
+      "Optic (II)",
+      "Olfactory (I)",
+      "Trigeminal (V)",
+      "Facial (VII)"
+    ],
+    "correct_answer": "Olfactory (I)",
+    "explanation": "The Olfactory nerve (Cranial Nerve I) transmits sensory information regarding smells from the nose to the brain.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK556051/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "e2p3q4r5-s6t7-4u8v-9w0x-1y2z3a4b5c6d",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The white matter of the spinal cord is mainly composed of:",
+    "options": [
+      "Cell bodies",
+      "Myelinated nerve fibers",
+      "Unmyelinated nerve fibers",
+      "Dendrites"
+    ],
+    "correct_answer": "Myelinated nerve fibers",
+    "explanation": "White matter consists mainly of myelinated axons (nerve fibers), which give it the white color, as opposed to gray matter which contains cell bodies.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK549914/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "f3q4r5s6-t7u8-4v9w-0x1y-2z3a4b5c6d7e",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Ethene (Ethylene) is unique among plant hormones because it is:",
+    "options": [
+      "A protein",
+      "A gas",
+      "A steroid",
+      "An acid"
+    ],
+    "correct_answer": "A gas",
+    "explanation": "Ethylene is the only gaseous plant hormone, which allows it to diffuse easily through the air to affect nearby plants or plant parts.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/ethylene",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "a4r5s6t7-u8v9-4w0x-1y2z-3a4b5c6d7e8f",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which part of the brain is the main control center for homeostasis, regulating temperature, hunger, and thirst?",
+    "options": [
+      "Thalamus",
+      "Hypothalamus",
+      "Cerebrum",
+      "Pons"
+    ],
+    "correct_answer": "Hypothalamus",
+    "explanation": "The hypothalamus is vital for homeostasis. It regulates body temperature, hunger, thirst, sleep, and controls the pituitary gland.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK535380/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "b5s6t7u8-v9w0-4x1y-2z3a-4b5c6d7e8f9g",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "What is the function of the semicircular canals in the human ear?",
+    "options": [
+      "Hearing high-frequency sounds",
+      "Dynamic balance and rotational acceleration",
+      "Static balance and gravity detection",
+      "Pressure equalization"
+    ],
+    "correct_answer": "Dynamic balance and rotational acceleration",
+    "explanation": "The three semicircular canals are filled with fluid and detect rotational movements of the head, contributing to dynamic balance.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK482359/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "c6t7u8v9-w0x1-4y2z-3a4b-5c6d7e8f9g0h",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Cushing's syndrome is caused by excess production of:",
+    "options": [
+      "Thyroxine",
+      "Cortisol",
+      "Adrenaline",
+      "Insulin"
+    ],
+    "correct_answer": "Cortisol",
+    "explanation": "Cushing's syndrome results from prolonged exposure to high levels of cortisol, often due to an adrenal tumor or long-term steroid use.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/cushings-syndrome",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "d7u8v9w0-x1y2-4z3a-4b5c-6d7e8f9g0h1i",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which of the following is NOT a type of neuron based on function?",
+    "options": [
+      "Sensory neuron",
+      "Motor neuron",
+      "Interneuron",
+      "Glial neuron"
+    ],
+    "correct_answer": "Glial neuron",
+    "explanation": "Neurons are classified as Sensory, Motor, or Interneurons. Glial cells are support cells in the nervous system but are not neurons themselves.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK542256/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "e8v9w0x1-y2z3-4a4b-5c6d-7e8f9g0h1i2j",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The photoperiodic response in plants (flowering) is mediated by the pigment:",
+    "options": [
+      "Chlorophyll",
+      "Phytochrome",
+      "Carotenoid",
+      "Xanthophyll"
+    ],
+    "correct_answer": "Phytochrome",
+    "explanation": "Phytochrome is a photoreceptor pigment in plants that detects day length (photoperiod) to regulate flowering and other developmental processes.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/phytochrome",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "f9w0x1y2-z3a4-4b5c-6d7e-8f9g0h1i2j3k",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "During repolarization of a neuron, which event occurs?",
+    "options": [
+      "Na+ gates open, K+ gates close",
+      "K+ gates open, Na+ gates close",
+      "Both Na+ and K+ gates open",
+      "Both Na+ and K+ gates close"
+    ],
+    "correct_answer": "K+ gates open, Na+ gates close",
+    "explanation": "During repolarization, voltage-gated Sodium channels close, and Potassium channels open, allowing K+ to exit the cell and restore the negative charge.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538300/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "a0x1y2z3-a4b5-4c6d-7e8f-9g0h1i2j3k4l",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which disease is characterized by the degeneration of brain cells causing memory loss and confusion?",
+    "options": [
+      "Parkinson's disease",
+      "Alzheimer's disease",
+      "Epilepsy",
+      "Meningitis"
+    ],
+    "correct_answer": "Alzheimer's disease",
+    "explanation": "Alzheimer's disease is a progressive neurologic disorder that causes the brain to shrink (atrophy) and brain cells to die, leading to dementia and memory loss.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.nia.nih.gov/health/alzheimers-disease-fact-sheet",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "b1y2z3a4-b5c6-4d7e-8f9g-0h1i2j3k4l5m",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The hormone secreted by the pineal gland is:",
+    "options": [
+      "Melanin",
+      "Melatonin",
+      "Thyroxine",
+      "Thymosin"
+    ],
+    "correct_answer": "Melatonin",
+    "explanation": "The pineal gland secretes melatonin, which regulates the sleep-wake cycle. Note: Melanin is a skin pigment, not a hormone.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK550972/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "c2z3a4b5-c6d7-4e8f-9g0h-1i2j3k4l5m6n",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which of the following is an effect of the Parasympathetic Nervous System?",
+    "options": [
+      "Dilation of pupil",
+      "Constriction of bronchi",
+      "Increase in heart rate",
+      "Inhibition of saliva"
+    ],
+    "correct_answer": "Constriction of bronchi",
+    "explanation": "The Parasympathetic Nervous System ('rest and digest') conserves energy by slowing the heart rate and constricting bronchi, while stimulating digestion.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK553141/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "d3a4b5c6-d7e8-4f9g-0h1i-2j3k4l5m6n7o",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Parthenocarpy is the phenomenon of:",
+    "options": [
+      "Formation of fruit without fertilization",
+      "Formation of seed without fertilization",
+      "Falling of leaves",
+      "Bending of stem towards light"
+    ],
+    "correct_answer": "Formation of fruit without fertilization",
+    "explanation": "Parthenocarpy is the development of fruit without fertilization, resulting in seedless fruits. Hormones like Auxins and Gibberellins can induce this.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/parthenocarpy",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "e4b5c6d7-e8f9-4g0h-1i2j-3k4l5m6n7o8p",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which part of the neuron contains the nucleus?",
+    "options": [
+      "Axon",
+      "Dendrite",
+      "Soma (Cell Body)",
+      "Synaptic knob"
+    ],
+    "correct_answer": "Soma (Cell Body)",
+    "explanation": "The Soma, or cell body, contains the nucleus and most of the organelles essential for the neuron's survival.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK542256/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "f5c6d7e8-f9g0-4h1i-2j3k-4l5m6n7o8p9q",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The threshold potential for a neuron to fire an action potential is typically around:",
+    "options": [
+      "-70 mV",
+      "-55 mV",
+      "0 mV",
+      "+30 mV"
+    ],
+    "correct_answer": "-55 mV",
+    "explanation": "The threshold potential is the critical level to which a membrane potential must be depolarized (around -55 mV) to initiate an action potential.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/the-action-potential",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "a6d7e8f9-g0h1-4i2j-3k4l-5m6n7o8p9q0r",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which of the following hormones is produced by the placenta during pregnancy?",
+    "options": [
+      "Human Chorionic Gonadotropin (hCG)",
+      "Luteinizing Hormone (LH)",
+      "Follicle Stimulating Hormone (FSH)",
+      "Growth Hormone"
+    ],
+    "correct_answer": "Human Chorionic Gonadotropin (hCG)",
+    "explanation": "hCG is produced by the placenta shortly after implantation. It maintains the corpus luteum and is the marker detected in pregnancy tests.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK532950/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "b7e8f9g0-h1i2-4j3k-4l5m-6n7o8p9q0r1s",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Blind spot in the eye is the region where:",
+    "options": [
+      "Only rods are present",
+      "Only cones are present",
+      "Both rods and cones are absent",
+      "Maximum vision occurs"
+    ],
+    "correct_answer": "Both rods and cones are absent",
+    "explanation": "The blind spot (optic disc) is the area where the optic nerve exits the retina. There are no photoreceptors (rods or cones) there, so no vision is possible.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK470662/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "c8f9g0h1-i2j3-4k4l-5m6n-7o8p9q0r1s2t",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which hormone is responsible for ovulation?",
+    "options": [
+      "FSH",
+      "LH (Luteinizing Hormone)",
+      "Progesterone",
+      "Estrogen"
+    ],
+    "correct_answer": "LH (Luteinizing Hormone)",
+    "explanation": "A surge in Luteinizing Hormone (LH) triggers the release of the mature egg from the ovary (ovulation).",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK441904/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "d9g0h1i2-j3k4-4l5m-6n7o-8p9q0r1s2t3u",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The tough, white outer layer of the eye is called the:",
+    "options": [
+      "Cornea",
+      "Sclera",
+      "Choroid",
+      "Retina"
+    ],
+    "correct_answer": "Sclera",
+    "explanation": "The sclera is the dense, fibrous, opaque white outer coat enclosing the eyeball except the part covered by the cornea.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544321/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "e0h1i2j3-k4l5-4m6n-7o8p-9q0r1s2t3u4v",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which of the following is a symptom of hyperthyroidism?",
+    "options": [
+      "Weight gain",
+      "Cold intolerance",
+      "Weight loss",
+      "Slow heart rate"
+    ],
+    "correct_answer": "Weight loss",
+    "explanation": "Hyperthyroidism accelerates metabolism, leading to weight loss, rapid heartbeat, and heat intolerance.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/hyperthyroidism",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "f1i2j3k4-l5m6-4n7o-8p9q-0r1s2t3u4v5w",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "What is the primary effect of Gibberellins on plants?",
+    "options": [
+      "Inhibition of growth",
+      "Stem elongation (Bolting)",
+      "Leaf fall",
+      "Root initiation"
+    ],
+    "correct_answer": "Stem elongation (Bolting)",
+    "explanation": "Gibberellins stimulate rapid stem elongation (bolting), seed germination, and flowering.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/gibberellin",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "a2j3k4l5-m6n7-4o8p-9q0r-1s2t3u4v5w6x",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Neurotransmitters are stored in which part of the neuron?",
+    "options": [
+      "Dendrites",
+      "Cell body",
+      "Synaptic vesicles in axon terminal",
+      "Nucleus"
+    ],
+    "correct_answer": "Synaptic vesicles in axon terminal",
+    "explanation": "Neurotransmitters are packaged into synaptic vesicles located in the axon terminals (synaptic knobs) ready for release.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK539894/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "b3k4l5m6-n7o8-4p9q-0r1s-2t3u4v5w6x7y",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which part of the brain is affected in a person with ataxia (loss of coordination)?",
+    "options": [
+      "Hypothalamus",
+      "Cerebellum",
+      "Cerebrum",
+      "Pons"
+    ],
+    "correct_answer": "Cerebellum",
+    "explanation": "Since the cerebellum controls coordination and balance, damage to it results in ataxia, a lack of voluntary coordination of muscle movements.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ninds.nih.gov/health-information/disorders/ataxia",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "c4l5m6n7-o8p9-4q0r-1s2t-3u4v5w6x7y8z",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "In the spinal cord, the Gray Matter is shaped like:",
+    "options": [
+      "A butterfly or letter H",
+      "A circle",
+      "A square",
+      "A star"
+    ],
+    "correct_answer": "A butterfly or letter H",
+    "explanation": "In cross-section, the central gray matter of the spinal cord resembles a butterfly or the letter 'H'.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK549914/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "d5m6n7o8-p9q0-4r1s-2t3u-4v5w6x7y8z9a",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which hormone is an amino acid derivative?",
+    "options": [
+      "Testosterone",
+      "Insulin",
+      "Epinephrine (Adrenaline)",
+      "Estrogen"
+    ],
+    "correct_answer": "Epinephrine (Adrenaline)",
+    "explanation": "Epinephrine is derived from the amino acid tyrosine. Testosterone and Estrogen are steroids, and Insulin is a protein.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538239/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "e6n7o8p9-q0r1-4s2t-3u4v-5w6x7y8z9a0b",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The resting membrane potential is maintained primarily by:",
+    "options": [
+      "Passive diffusion of Na+",
+      "Active transport (Sodium-Potassium pump)",
+      "Passive diffusion of Cl-",
+      "Voltage-gated channels"
+    ],
+    "correct_answer": "Active transport (Sodium-Potassium pump)",
+    "explanation": "The Na+/K+ pump actively maintains the gradients of Na+ and K+ that result in the resting membrane potential.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538300/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "f7o8p9q0-r1s2-4t3u-4v5w-6x7y8z9a0b1c",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The condition 'Cretinism' is caused by deficiency of thyroid hormone in:",
+    "options": [
+      "Old age",
+      "Adults",
+      "Infancy/Childhood",
+      "Pregnancy"
+    ],
+    "correct_answer": "Infancy/Childhood",
+    "explanation": "Congenital hypothyroidism (Cretinism) is a deficiency of thyroid hormone in newborns and infants, leading to stunted physical and mental growth.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538237/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "a8p9q0r1-s2t3-4u4v-5w6x-7y8z9a0b1c2d",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which type of tropism involves growth in response to water?",
+    "options": [
+      "Phototropism",
+      "Geotropism",
+      "Hydrotropism",
+      "Chemotropism"
+    ],
+    "correct_answer": "Hydrotropism",
+    "explanation": "Hydrotropism is the directional growth of plant roots towards moisture or water sources.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/hydrotropism",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "b9q0r1s2-t3u4-4v5w-6x7y-8z9a0b1c2d3e",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which ion is essential for the transmission of nerve impulse and muscle contraction?",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Magnesium",
+      "Zinc"
+    ],
+    "correct_answer": "Calcium",
+    "explanation": "Calcium is crucial for neurotransmitter release at synapses and for the interaction of actin and myosin during muscle contraction.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538300/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "c0r1s2t3-u4v5-4w6x-7y8z-9a0b1c2d3e4f",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Androgens (male sex hormones) are produced by the:",
+    "options": [
+      "Ovaries",
+      "Testes (Interstitial cells)",
+      "Pancreas",
+      "Thyroid"
+    ],
+    "correct_answer": "Testes (Interstitial cells)",
+    "explanation": "Androgens like testosterone are produced by the interstitial cells (Leydig cells) of the testes.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK541079/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "d1s2t3u4-v5w6-4x7y-8z9a-0b1c2d3e4f5g",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The speed of nerve impulse is fastest in:",
+    "options": [
+      "Thin, unmyelinated fibers",
+      "Thick, myelinated fibers",
+      "Thin, myelinated fibers",
+      "Thick, unmyelinated fibers"
+    ],
+    "correct_answer": "Thick, myelinated fibers",
+    "explanation": "Conduction velocity increases with axon diameter and myelination. Thick, myelinated fibers offer the least resistance and saltatory conduction.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538300/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "e2t3u4v5-w6x7-4y8z-9a0b-1c2d3e4f5g6h",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which of the following hormones is NOT produced by the Anterior Pituitary?",
+    "options": [
+      "Growth Hormone (GH)",
+      "Thyroid Stimulating Hormone (TSH)",
+      "Antidiuretic Hormone (ADH)",
+      "Adrenocorticotropic Hormone (ACTH)"
+    ],
+    "correct_answer": "Antidiuretic Hormone (ADH)",
+    "explanation": "ADH is produced in the hypothalamus and released by the *Posterior* Pituitary. GH, TSH, and ACTH are Anterior Pituitary hormones.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK549804/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "f3u4v5w6-x7y8-4z9a-0b1c-2d3e4f5g6h7i",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which layer of the meninges is the outermost and toughest?",
+    "options": [
+      "Pia mater",
+      "Arachnoid mater",
+      "Dura mater",
+      "Gray matter"
+    ],
+    "correct_answer": "Dura mater",
+    "explanation": "The Dura mater is the thick, tough, outermost membrane of the meninges that protects the brain and spinal cord.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK539753/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "a4v5w6x7-y8z9-4a0b-1c2d-3e4f5g6h7i8j",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "What happens during the refractory period of a neuron?",
+    "options": [
+      "The neuron fires multiple impulses",
+      "The neuron cannot be easily re-excited",
+      "Sodium channels remain open",
+      "The membrane potential becomes positive"
+    ],
+    "correct_answer": "The neuron cannot be easily re-excited",
+    "explanation": "During the refractory period, the neuron is resetting its ion gradients and Na+ channels are inactive, making it impossible or very difficult to fire another action potential immediately.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538300/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "b5w6x7y8-z9a0-4b1c-2d3e-4f5g6h7i8j9k",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which hormone is an example of a catecholamine?",
+    "options": [
+      "Insulin",
+      "Norepinephrine",
+      "Cortisol",
+      "Estrogen"
+    ],
+    "correct_answer": "Norepinephrine",
+    "explanation": "Norepinephrine (and Epinephrine) are catecholamines, derived from the amino acid tyrosine.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538239/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "c6x7y8z9-a0b1-4c2d-3e4f-5g6h7i8j9k0l",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The stapes bone in the middle ear transmits vibrations to the:",
+    "options": [
+      "Tympanic membrane",
+      "Incus",
+      "Oval window",
+      "Round window"
+    ],
+    "correct_answer": "Oval window",
+    "explanation": "The stapes (stirrup) pushes against the Oval Window, transmitting mechanical vibrations into the fluid of the cochlea.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538334/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "d7y8z9a0-b1c2-4d3e-4f5g-6h7i8j9k0l1m",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Glaucoma is an eye condition caused by:",
+    "options": [
+      "Clouding of the lens",
+      "Increased intraocular pressure",
+      "Elongation of the eyeball",
+      "Deficiency of Vitamin A"
+    ],
+    "correct_answer": "Increased intraocular pressure",
+    "explanation": "Glaucoma involves damaged optic nerve usually due to high fluid pressure (intraocular pressure) inside the eye.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/glaucoma",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "e8z9a0b1-c2d3-4e4f-5g6h-7i8j9k0l1m2n",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which plant hormone is commercially used to induce rooting in stem cuttings?",
+    "options": [
+      "IAA (Indole Acetic Acid) - Auxin",
+      "Gibberellin",
+      "Cytokinin",
+      "Abscisic acid"
+    ],
+    "correct_answer": "IAA (Indole Acetic Acid) - Auxin",
+    "explanation": "Synthetic and natural Auxins (like IAA, IBA) are widely used in horticulture to stimulate root formation in stem cuttings.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/indoleacetic-acid",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "f9a0b1c2-d3e4-4f5g-6h7i-8j9k0l1m2n3o",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which part of the brain acts as a relay station for sensory impulses to the cerebral cortex?",
+    "options": [
+      "Hypothalamus",
+      "Thalamus",
+      "Pons",
+      "Medulla"
+    ],
+    "correct_answer": "Thalamus",
+    "explanation": "The Thalamus serves as a central relay station, receiving sensory signals and directing them to the appropriate areas of the cerebral cortex.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK542184/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "a0b1c2d3-e4f5-4g6h-7i8j-9k0l1m2n3o4p",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which of the following nerves carries impulses from the retina to the brain?",
+    "options": [
+      "Oculomotor nerve",
+      "Optic nerve",
+      "Trigeminal nerve",
+      "Vagus nerve"
+    ],
+    "correct_answer": "Optic nerve",
+    "explanation": "The Optic nerve (Cranial Nerve II) transmits visual information from the retina to the vision centers of the brain.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK556051/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "b1c2d3e4-f5g6-4h7i-8j9k-0l1m2n3o4p5q",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Hyperglycemia (high blood sugar) is a hallmark of:",
+    "options": [
+      "Diabetes mellitus",
+      "Diabetes insipidus",
+      "Addison's disease",
+      "Hypoglycemia"
+    ],
+    "correct_answer": "Diabetes mellitus",
+    "explanation": "Diabetes mellitus is characterized by chronic hyperglycemia due to defects in insulin secretion, insulin action, or both.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "c2d3e4f5-g6h7-4i8j-9k0l-1m2n3o4p5q6r",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The receptors for steroid hormones are typically found:",
+    "options": [
+      "On the cell membrane surface",
+      "Inside the cytoplasm or nucleus",
+      "In the blood plasma",
+      "In the synaptic cleft"
+    ],
+    "correct_answer": "Inside the cytoplasm or nucleus",
+    "explanation": "Steroid hormones are lipid-soluble and cross the cell membrane to bind with intracellular receptors in the cytoplasm or nucleus.",
+    "difficulty_level": "Hard",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538239/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "d3e4f5g6-h7i8-4j9k-0l1m-2n3o4p5q6r7s",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which phenomenon explains the bending of a plant stem towards a light source?",
+    "options": [
+      "Uniform distribution of auxin",
+      "Accumulation of auxin on the shaded side",
+      "Accumulation of auxin on the illuminated side",
+      "Destruction of auxin by light"
+    ],
+    "correct_answer": "Accumulation of auxin on the shaded side",
+    "explanation": "Phototropism occurs because auxin migrates to the shaded side of the stem, stimulating cell elongation there, causing the stem to bend towards the light.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/phototropism",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "e4f5g6h7-i8j9-4k0l-1m2n-3o4p5q6r7s8t",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The innermost layer of the eye containing photoreceptors is:",
+    "options": [
+      "Choroid",
+      "Sclera",
+      "Retina",
+      "Conjunctiva"
+    ],
+    "correct_answer": "Retina",
+    "explanation": "The retina is the innermost, light-sensitive layer of neural tissue that contains photoreceptors.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK470662/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "f5g6h7i8-j9k0-4l1m-2n3o-4p5q6r7s8t9u",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which of the following is responsible for maintaining the ion gradient across the resting neuronal membrane?",
+    "options": [
+      "Na+/K+ ATPase",
+      "Voltage-gated Na+ channels",
+      "Voltage-gated K+ channels",
+      "Ca2+ channels"
+    ],
+    "correct_answer": "Na+/K+ ATPase",
+    "explanation": "The Sodium-Potassium pump (ATPase) continually pumps Na+ out and K+ in against their concentration gradients to maintain the resting potential.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538300/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "a6h7i8j9-k0l1-4m2n-3o4p-5q6r7s8t9u0v",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Epilepsy is primarily a disorder of the:",
+    "options": [
+      "Peripheral Nervous System",
+      "Central Nervous System",
+      "Endocrine System",
+      "Digestive System"
+    ],
+    "correct_answer": "Central Nervous System",
+    "explanation": "Epilepsy is a CNS disorder in which brain activity becomes abnormal, causing seizures or periods of unusual behavior and sensations.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ninds.nih.gov/health-information/disorders/epilepsy",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "b7i8j9k0-l1m2-4n3o-4p5q-6r7s8t9u0v1w",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which hormone prepares the uterus for the implantation of a fertilized egg?",
+    "options": [
+      "FSH",
+      "Prolactin",
+      "Progesterone",
+      "Oxytocin"
+    ],
+    "correct_answer": "Progesterone",
+    "explanation": "Progesterone thickens and maintains the uterine lining (endometrium) in preparation for a potential pregnancy.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK558960/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "c8j9k0l1-m2n3-4o4p-5q6r-7s8t9u0v1w2x",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "What is the primary function of Schwann cells?",
+    "options": [
+      "To produce neurotransmitters",
+      "To form myelin sheath in the PNS",
+      "To detect stimuli",
+      "To fight infections"
+    ],
+    "correct_answer": "To form myelin sheath in the PNS",
+    "explanation": "Schwann cells are glial cells that produce the myelin sheath around neuronal axons in the Peripheral Nervous System (PNS).",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK542256/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "d9k0l1m2-n3o4-4p5q-6r7s-8t9u0v1w2x3y",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Short-sightedness (myopia) occurs when the eyeball is:",
+    "options": [
+      "Too short",
+      "Too long",
+      "Normal size",
+      "Flat"
+    ],
+    "correct_answer": "Too long",
+    "explanation": "In Myopia, the eyeball is often too long, causing light rays to focus in front of the retina rather than on it.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/nearsightedness-myopia",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "e0l1m2n3-o4p5-4q6r-7s8t-9u0v1w2x3y4z",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The hormone secretin acts on which organ to release bicarbonate ions?",
+    "options": [
+      "Stomach",
+      "Liver",
+      "Pancreas",
+      "Gallbladder"
+    ],
+    "correct_answer": "Pancreas",
+    "explanation": "Secretin stimulates the pancreas to secrete digestive fluids rich in bicarbonate ions to neutralize acidic chyme entering the small intestine.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK537154/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "f1m2n3o4-p5q6-4r7s-8t9u-0v1w2x3y4z5a",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which of the following processes requires ATP energy?",
+    "options": [
+      "Repolarization",
+      "Depolarization",
+      "Restoration of resting potential by Na+/K+ pump",
+      "Diffusion of neurotransmitters"
+    ],
+    "correct_answer": "Restoration of resting potential by Na+/K+ pump",
+    "explanation": "The Na+/K+ pump is an active transport mechanism that requires energy from ATP to move ions against their concentration gradients.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538235/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "a2n3o4p5-q6r7-4s8t-9u0v-1w2x3y4z5a6b",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Colour blindness is generally more common in males because:",
+    "options": [
+      "It is a Y-linked trait",
+      "It is an X-linked recessive trait",
+      "Males have more cones",
+      "Females have better vision"
+    ],
+    "correct_answer": "It is an X-linked recessive trait",
+    "explanation": "Red-green color blindness is an X-linked recessive disorder. Males (XY) need only one affected gene to show the trait, while females (XX) need two.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/color-blindness",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "b3o4p5q6-r7s8-4t9u-0v1w-2x3y4z5a6b7c",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "The hormone Erythropoietin (EPO), which stimulates red blood cell production, is primarily produced by the:",
+    "options": [
+      "Bone marrow",
+      "Liver",
+      "Kidneys",
+      "Spleen"
+    ],
+    "correct_answer": "Kidneys",
+    "explanation": "The kidneys produce Erythropoietin in response to low oxygen levels, which then stimulates the bone marrow to produce red blood cells.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.niddk.nih.gov/health-information/kidney-disease/anemia",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  },
+  {
+    "mcq_id": "c4p5q6r7-s8t9-4u0v-1w2x-3y4z5a6b7c8d",
+    "topic_id": "d3f898bd-c25e-4a4a-830a-c1da94eb10b5",
+    "question": "Which of the following is true about Vernalization?",
+    "options": [
+      "Induction of flowering by high temperature",
+      "Induction of flowering by low temperature treatment",
+      "Inhibition of flowering by light",
+      "Bending of stem towards light"
+    ],
+    "correct_answer": "Induction of flowering by low temperature treatment",
+    "explanation": "Vernalization is the induction of a plant's flowering process by exposure to the prolonged cold of winter, or by an artificial equivalent.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/vernalization",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T11:34:00Z"
+  }
+]
