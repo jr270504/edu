@@ -1,0 +1,1152 @@
+[
+  {
+    "mcq_id": "c7a8b9d1-2e3f-4a5b-6c7d-8e9f0a1b2c3d",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "In the process of photosynthesis, which molecule acts as the primary electron acceptor after the excitation of Photosystem II (P680)?",
+    "options": [
+      "Plastoquinone",
+      "Pheophytin (Primary Acceptor)",
+      "Plastocyanin",
+      "Ferredoxin"
+    ],
+    "correct_answer": "Pheophytin (Primary Acceptor)",
+    "explanation": "When light strikes P680 in Photosystem II, an electron is excited and captured by the primary electron acceptor, which is a modified chlorophyll molecule known as pheophytin. From there, it is passed to plastoquinone.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2606019/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "d8b9c0e2-3f4g-5h6i-7j8k-9l0m1n2o3p4q",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Which specific functional group distinguishes the molecular structure of Chlorophyll b from Chlorophyll a?",
+    "options": [
+      "Methyl group (-CH3)",
+      "Aldehyde group (-CHO)",
+      "Carboxyl group (-COOH)",
+      "Hydroxyl group (-OH)"
+    ],
+    "correct_answer": "Aldehyde group (-CHO)",
+    "explanation": "The porphyrin ring of Chlorophyll a contains a methyl group (-CH3) at the position where Chlorophyll b contains an aldehyde group (-CHO). This structural difference alters their absorption spectra and color.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.vedantu.com/biology/difference-between-chlorophyll-a-and-chlorophyll-b",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "e9c0d1f3-4g5h-6i7j-8k9l-0m1n2o3p4q5r",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "What is the net gain of ATP molecules produced during the glycolysis of one glucose molecule?",
+    "options": [
+      "2 ATP",
+      "4 ATP",
+      "36 ATP",
+      "38 ATP"
+    ],
+    "correct_answer": "2 ATP",
+    "explanation": "Glycolysis produces a total of 4 ATP molecules through substrate-level phosphorylation, but since 2 ATP molecules are consumed in the preparatory phase, the net gain is 2 ATP.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK482303/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "f0d1e2g4-5h6i-7j8k-9l0m-1n2o3p4q5r6s",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "During the Calvin Cycle, which enzyme is responsible for catalyzing the fixation of carbon dioxide to Ribulose Bisphosphate (RuBP)?",
+    "options": [
+      "PEP Carboxylase",
+      "Rubisco",
+      "ATP Synthase",
+      "Hexokinase"
+    ],
+    "correct_answer": "Rubisco",
+    "explanation": "Rubisco (Ribulose-1,5-bisphosphate carboxylase/oxygenase) is the enzyme that catalyzes the first step of the Calvin cycle, attaching CO2 to RuBP to form an unstable 6-carbon compound.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.khanacademy.org/science/biology/photosynthesis-in-plants/the-calvin-cycle-reactions/a/calvin-cycle",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "a1b2c3d4-e5f6-7g8h-9i0j-k1l2m3n4o5p6",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "In the mitochondrial Electron Transport Chain (ETC), which molecule serves as the final electron acceptor?",
+    "options": [
+      "NADP+",
+      "Oxygen",
+      "Cytochrome c",
+      "Ubiquinone"
+    ],
+    "correct_answer": "Oxygen",
+    "explanation": "Oxygen is the final electron acceptor in the aerobic electron transport chain. It combines with electrons and protons (H+) to form water (H2O) at Complex IV.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "b2c3d4e5-f6g7-8h9i-0j1k-l2m3n4o5p6q7",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Where exactly does the Krebs cycle (Citric Acid Cycle) occur in a eukaryotic cell?",
+    "options": [
+      "Cytoplasm",
+      "Inner Mitochondrial Membrane",
+      "Mitochondrial Matrix",
+      "Thylakoid Membrane"
+    ],
+    "correct_answer": "Mitochondrial Matrix",
+    "explanation": "The enzymatic reactions of the Krebs cycle take place in the mitochondrial matrix, where pyruvate is oxidized and coenzymes are reduced.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.biologyonline.com/dictionary/mitochondrial-matrix",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "c3d4e5f6-g7h8-9i0j-1k2l-m3n4o5p6q7r8",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Which of the following pigments is directly responsible for shielding chlorophyll from intense light and photo-oxidation?",
+    "options": [
+      "Chlorophyll b",
+      "Carotenoids",
+      "Phycobilins",
+      "Xanthophylls only"
+    ],
+    "correct_answer": "Carotenoids",
+    "explanation": "Carotenoids absorb excess light energy that would otherwise damage chlorophyll and dissipate it as heat. They act as photoprotective agents.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6164215/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "d4e5f6g7-h8i9-0j1k-2l3m-n4o5p6q7r8s9",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Identify the correct molecular formula for Chlorophyll a.",
+    "options": [
+      "C55H70O6N4Mg",
+      "C55H72O5N4Mg",
+      "C54H70O5N4Mg",
+      "C55H72O6N4Fe"
+    ],
+    "correct_answer": "C55H72O5N4Mg",
+    "explanation": "Chlorophyll a has the molecular formula C55H72O5N4Mg. Chlorophyll b differs slightly, having the formula C55H70O6N4Mg due to the aldehyde group substitution.",
+    "difficulty_level": "Hard",
+    "source_urls": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Chlorophyll-a",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "e5f6g7h8-i9j0-1k2l-3m4n-o5p6q7r8s9t0",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "During the light-dependent reactions, photolysis of water occurs to supply electrons to:",
+    "options": [
+      "Photosystem I (P700)",
+      "Photosystem II (P680)",
+      "NADP+ Reductase",
+      "Cytochrome Complex"
+    ],
+    "correct_answer": "Photosystem II (P680)",
+    "explanation": "When P680 loses an electron, it becomes a strong oxidizing agent and splits water molecules to replenish its lost electrons, releasing oxygen and protons.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.khanacademy.org/science/ap-biology/cellular-energetics/photosynthesis/a/light-dependent-reactions",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "f6g7h8i9-j0k1-2l3m-4n5o-p6q7r8s9t0u1",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "What is the primary product of the reaction catalyzed by Pyruvate Dehydrogenase during the link reaction?",
+    "options": [
+      "Citrate",
+      "Acetyl-CoA",
+      "Oxaloacetate",
+      "Phosphoenolpyruvate"
+    ],
+    "correct_answer": "Acetyl-CoA",
+    "explanation": "Pyruvate dehydrogenase converts pyruvate into Acetyl-CoA by removing CO2 and reducing NAD+ to NADH, allowing the acetyl group to enter the Krebs cycle.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK493173/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "a7b8c9d0-e1f2-3g4h-5i6j-7k8l9m0n1o2p",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Which of the following processes generates ATP via substrate-level phosphorylation?",
+    "options": [
+      "Electron Transport Chain",
+      "Glycolysis and Krebs Cycle",
+      "Calvin Cycle",
+      "Photophosphorylation"
+    ],
+    "correct_answer": "Glycolysis and Krebs Cycle",
+    "explanation": "Substrate-level phosphorylation occurs in Glycolysis (producing ATP) and the Krebs cycle (producing GTP/ATP) where a phosphate group is directly transferred to ADP.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/2%3A_The_Cell/07%3A_Cellular_Respiration/7.2%3A_Glycolysis",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "b8c9d0e1-f2g3-4h5i-6j7k-8l9m0n1o2p3q",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "In the absence of oxygen, yeast cells convert pyruvate into:",
+    "options": [
+      "Lactic acid",
+      "Ethanol and CO2",
+      "Acetyl-CoA",
+      "Citrate"
+    ],
+    "correct_answer": "Ethanol and CO2",
+    "explanation": "Yeast performs alcoholic fermentation under anaerobic conditions, decarboxylating pyruvate to acetaldehyde and then reducing it to ethanol, releasing CO2.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/alcoholic-fermentation",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "c9d0e1f2-g3h4-5i6j-7k8l-9m0n1o2p3q4r",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "How many molecules of NADH are produced during one turn of the Krebs cycle?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "3",
+    "explanation": "One turn of the Krebs cycle produces 3 NADH molecules (at isocitrate, alpha-ketoglutarate, and malate oxidation steps), 1 FADH2, and 1 ATP/GTP.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation/pyruvate-oxidation-and-the-citric-acid-cycle/a/the-citric-acid-cycle",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "d0e1f2g3-h4i5-6j7k-8l9m-0n1o2p3q4r5s",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Which component of the Electron Transport Chain acts as a mobile electron carrier between Complex III and Complex IV?",
+    "options": [
+      "Ubiquinone (Coenzyme Q)",
+      "Cytochrome c",
+      "Plastocyanin",
+      "FAD"
+    ],
+    "correct_answer": "Cytochrome c",
+    "explanation": "Cytochrome c is a small, water-soluble protein that carries electrons on the outer surface of the inner mitochondrial membrane from Complex III to Complex IV.",
+    "difficulty_level": "Hard",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21163/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "e1f2g3h4-i5j6-7k8l-9m0n-1o2p3q4r5s6t",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "The 'Z-scheme' in photosynthesis describes the flow of electrons during:",
+    "options": [
+      "Cyclic photophosphorylation",
+      "Non-cyclic photophosphorylation",
+      "The Calvin cycle",
+      "Glycolysis"
+    ],
+    "correct_answer": "Non-cyclic photophosphorylation",
+    "explanation": "The Z-scheme illustrates the energy levels of electrons as they pass from H2O to PSII, then to PSI, and finally to NADP+ during non-cyclic photophosphorylation.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/earth-and-planetary-sciences/z-scheme",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "f2g3h4i5-j6k7-8l9m-0n1o-2p3q4r5s6t7u",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "In the Calvin cycle, how many molecules of ATP are consumed to produce one molecule of G3P (Glyceraldehyde-3-phosphate) as a net gain?",
+    "options": [
+      "6 ATP",
+      "9 ATP",
+      "18 ATP",
+      "12 ATP"
+    ],
+    "correct_answer": "9 ATP",
+    "explanation": "To produce one net G3P (a 3-carbon sugar), the cycle runs 3 times, consuming 9 ATP (6 for reduction, 3 for regeneration) and 6 NADPH.",
+    "difficulty_level": "Hard",
+    "source_urls": [
+      {
+        "url": "https://courses.lumenlearning.com/suny-biology1/chapter/the-calvin-cycle/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "a3b4c5d6-e7f8-9g0h-1i2j-3k4l5m6n7o8p",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Which organelle is associated with the process of photorespiration along with the chloroplast and mitochondrion?",
+    "options": [
+      "Lysosome",
+      "Peroxisome",
+      "Golgi apparatus",
+      "Ribosome"
+    ],
+    "correct_answer": "Peroxisome",
+    "explanation": "Photorespiration involves the cooperative interaction of three organelles: the chloroplast, the peroxisome, and the mitochondrion.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/photorespiration",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "b4c5d6e7-f8g9-0h1i-2j3k-4l5m6n7o8p9q",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "The synthesis of ATP by the chemiosmotic mechanism depends on:",
+    "options": [
+      "Direct transfer of phosphate from substrate",
+      "A proton gradient across a membrane",
+      "The breakdown of glucose into pyruvate",
+      "The presence of oxygen in the matrix"
+    ],
+    "correct_answer": "A proton gradient across a membrane",
+    "explanation": "Chemiosmosis relies on the establishment of a proton (H+) electrochemical gradient across the inner mitochondrial membrane (or thylakoid), driving ATP synthase.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.nature.com/scitable/topicpage/mitochondria-and-the-chemiosmotic-hypothesis-14227094/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "c5d6e7f8-g9h0-1i2j-3k4l-5m6n7o8p9q0r",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "What is the peak absorption wavelength of Photosystem I (PS I)?",
+    "options": [
+      "680 nm",
+      "700 nm",
+      "730 nm",
+      "450 nm"
+    ],
+    "correct_answer": "700 nm",
+    "explanation": "The reaction center of Photosystem I contains a specialized chlorophyll a molecule called P700, which absorbs light most effectively at 700 nm.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/photosystem-i",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "d6e7f8g9-h0i1-2j3k-4l5m-6n7o8p9q0r1s",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Which metal ion is found at the center of the porphyrin ring in a chlorophyll molecule?",
+    "options": [
+      "Iron (Fe)",
+      "Magnesium (Mg)",
+      "Copper (Cu)",
+      "Manganese (Mn)"
+    ],
+    "correct_answer": "Magnesium (Mg)",
+    "explanation": "A single Magnesium atom (Mg++) is coordinated at the center of the porphyrin ring in chlorophyll, crucial for its light-absorbing properties.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/earth-and-planetary-sciences/porphyrin",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "e7f8g9h0-i1j2-3k4l-5m6n-7o8p9q0r1s2t",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "How many protons (H+) are pumped across the inner mitochondrial membrane by Complex II (Succinate Dehydrogenase) during electron transport?",
+    "options": [
+      "0",
+      "2",
+      "4",
+      "6"
+    ],
+    "correct_answer": "0",
+    "explanation": "Complex II (Succinate Dehydrogenase) passes electrons to Ubiquinone but does not span the entire membrane and does not pump any protons.",
+    "difficulty_level": "Hard",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21163/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "f8g9h0i1-j2k3-4l5m-6n7o-8p9q0r1s2t3u",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Which pigment absorbs light primarily in the blue-violet and red regions of the visible spectrum?",
+    "options": [
+      "Carotenoids",
+      "Chlorophyll a",
+      "Chlorophyll b",
+      "Phycocyanin"
+    ],
+    "correct_answer": "Chlorophyll a",
+    "explanation": "Chlorophyll a has absorption peaks in the blue-violet (approx 430nm) and red (approx 662nm) regions, reflecting green light.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.vedantu.com/biology/difference-between-chlorophyll-a-and-chlorophyll-b",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "a9b0c1d2-e3f4-5g6h-7i8j-9k0l1m2n3o4p",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "The correct sequence of electron flow in the light reaction of photosynthesis is:",
+    "options": [
+      "PS I -> ETC -> PS II -> NADP+",
+      "PS II -> ETC -> PS I -> NADP+",
+      "PS II -> PS I -> ETC -> NADP+",
+      "PS I -> PS II -> ETC -> ATP"
+    ],
+    "correct_answer": "PS II -> ETC -> PS I -> NADP+",
+    "explanation": "Electrons originate from water, enter Photosystem II, travel through the ETC to Photosystem I, and are finally used to reduce NADP+ to NADPH.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.khanacademy.org/science/ap-biology/cellular-energetics/photosynthesis/a/light-dependent-reactions",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "b0c1d2e3-f4g5-6h7i-8j9k-0l1m2n3o4p5q",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Which enzyme converts Glucose-6-phosphate to Fructose-6-phosphate in glycolysis?",
+    "options": [
+      "Hexokinase",
+      "Phosphofructokinase",
+      "Phosphoglucose isomerase",
+      "Aldolase"
+    ],
+    "correct_answer": "Phosphoglucose isomerase",
+    "explanation": "Phosphoglucose isomerase reorganizes the structure of glucose-6-phosphate (an aldose) into fructose-6-phosphate (a ketose) during the second step of glycolysis.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/glucose-6-phosphate-isomerase",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "c1d2e3f4-g5h6-7i8j-9k0l-1m2n3o4p5q6r",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Cyclic photophosphorylation results in the production of:",
+    "options": [
+      "ATP only",
+      "ATP and NADPH",
+      "NADPH and O2",
+      "ATP, NADPH, and O2"
+    ],
+    "correct_answer": "ATP only",
+    "explanation": "In cyclic photophosphorylation, electrons cycle back to Photosystem I via the cytochrome complex, generating a proton gradient for ATP synthesis but producing no NADPH or Oxygen.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://ib.bioninja.com.au/higher-level/topic-8-metabolism-cell/83-photosynthesis/cyclic-vs-non-cyclic.html",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "d2e3f4g5-h6i7-8j9k-0l1m-2n3o4p5q6r7s",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "In the Krebs cycle, which molecule combines with Acetyl-CoA to form Citrate?",
+    "options": [
+      "Malate",
+      "Alpha-ketoglutarate",
+      "Oxaloacetate",
+      "Succinate"
+    ],
+    "correct_answer": "Oxaloacetate",
+    "explanation": "Acetyl-CoA (2 carbons) combines with Oxaloacetate (4 carbons) to form Citrate (6 carbons) in the first step of the Krebs cycle, catalyzed by citrate synthase.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation/pyruvate-oxidation-and-the-citric-acid-cycle/a/the-citric-acid-cycle",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "e3f4g5h6-i7j8-9k0l-1m2n-3o4p5q6r7s8t",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Which stage of aerobic respiration produces the highest yield of ATP?",
+    "options": [
+      "Glycolysis",
+      "Krebs Cycle",
+      "Oxidative Phosphorylation (ETC)",
+      "Link Reaction"
+    ],
+    "correct_answer": "Oxidative Phosphorylation (ETC)",
+    "explanation": "Oxidative phosphorylation generates the vast majority of ATP (approx 32-34) via the Electron Transport Chain and Chemiosmosis, compared to just 2 from glycolysis and 2 from Krebs.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/2%3A_The_Cell/07%3A_Cellular_Respiration/7.4%3A_Oxidative_Phosphorylation",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "f4g5h6i7-j8k9-0l1m-2n3o-4p5q6r7s8t9u",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "What is the primary function of NAD+ in cellular respiration?",
+    "options": [
+      "To hydrolyze ATP",
+      "To act as an electron carrier",
+      "To synthesize glucose",
+      "To transport oxygen"
+    ],
+    "correct_answer": "To act as an electron carrier",
+    "explanation": "NAD+ acts as a coenzyme that accepts electrons (and a proton) to become NADH, carrying these high-energy electrons to the electron transport chain.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/nicotinamide-adenine-dinucleotide",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "a5b6c7d8-e9f0-1g2h-3i4j-5k6l7m8n9o0p",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "The rate-limiting enzyme of glycolysis is:",
+    "options": [
+      "Hexokinase",
+      "Phosphofructokinase (PFK)",
+      "Pyruvate Kinase",
+      "Enolase"
+    ],
+    "correct_answer": "Phosphofructokinase (PFK)",
+    "explanation": "Phosphofructokinase (PFK) catalyzes the commitment step of glycolysis (Fructose-6-P to Fructose-1,6-bisP) and is the main point of regulation via allosteric inhibition by ATP.",
+    "difficulty_level": "Hard",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK482303/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "b6c7d8e9-f0g1-2h3i-4j5k-6l7m8n9o0p1q",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Which of the following is an example of an accessory pigment?",
+    "options": [
+      "Chlorophyll a",
+      "P700",
+      "Carotene",
+      "P680"
+    ],
+    "correct_answer": "Carotene",
+    "explanation": "Carotene is an accessory pigment (a carotenoid) that absorbs light in wavelengths not efficiently absorbed by chlorophyll a and passes the energy to the reaction center.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://biologydictionary.net/accessory-pigment/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "c7d8e9f0-g1h2-3i4j-5k6l-7m8n9o0p1q2r",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "In C4 plants, the initial fixation of CO2 occurs in which cell type?",
+    "options": [
+      "Bundle sheath cells",
+      "Mesophyll cells",
+      "Epidermal cells",
+      "Xylem parenchyma"
+    ],
+    "correct_answer": "Mesophyll cells",
+    "explanation": "In C4 plants, CO2 is first fixed into a 4-carbon compound in the mesophyll cells by PEP carboxylase before being transported to bundle sheath cells for the Calvin cycle.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.khanacademy.org/science/biology/photosynthesis-in-plants/photorespiration--c3-c4-cam-plants/a/c3-c4-and-cam-plants-agriculture",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "d8e9f0g1-h2i3-4j5k-6l7m-8n9o0p1q2r3s",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "During glycolysis, which molecule is split into two 3-carbon compounds?",
+    "options": [
+      "Glucose-6-phosphate",
+      "Fructose-1,6-bisphosphate",
+      "Fructose-6-phosphate",
+      "Pyruvate"
+    ],
+    "correct_answer": "Fructose-1,6-bisphosphate",
+    "explanation": "The enzyme aldolase splits Fructose-1,6-bisphosphate into two interconvertible triose phosphates: Glyceraldehyde-3-phosphate (G3P) and Dihydroxyacetone phosphate (DHAP).",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK482303/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "e9f0g1h2-i3j4-5k6l-7m8n-9o0p1q2r3s4t",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "The bond energy of the terminal phosphate bond in ATP is approximately:",
+    "options": [
+      "3.4 kcal/mol",
+      "7.3 kcal/mol",
+      "12.1 kcal/mol",
+      "686 kcal/mol"
+    ],
+    "correct_answer": "7.3 kcal/mol",
+    "explanation": "Hydrolysis of the terminal phosphate bond of ATP releases approximately 7.3 kcal/mol (or 30.5 kJ/mol) of free energy under standard conditions.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK553175/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "f0g1h2i3-j4k5-6l7m-8n9o-0p1q2r3s4t5u",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Which scientist used Spirogyra and aerobic bacteria to determine the action spectrum of photosynthesis?",
+    "options": [
+      "Van Niel",
+      "T.W. Engelmann",
+      "Melvin Calvin",
+      "Priestley"
+    ],
+    "correct_answer": "T.W. Engelmann",
+    "explanation": "T.W. Engelmann illuminated a filamentous alga (Spirogyra) with light passed through a prism and observed that aerobic bacteria congregated in blue and red light regions.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/action-spectrum",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "a1h2i3j4-k5l6-7m8n-9o0p-1q2r3s4t5u6v",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "What is the first stable 3-carbon compound produced in the Calvin Cycle (C3 cycle)?",
+    "options": [
+      "Pyruvate",
+      "3-Phosphoglycerate (PGA)",
+      "Glyceraldehyde-3-Phosphate (G3P)",
+      "Oxaloacetate"
+    ],
+    "correct_answer": "3-Phosphoglycerate (PGA)",
+    "explanation": "Upon carbon fixation by Rubisco, the unstable 6-carbon intermediate immediately splits into two molecules of 3-Phosphoglycerate (PGA), the first stable product.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.khanacademy.org/science/biology/photosynthesis-in-plants/the-calvin-cycle-reactions/a/calvin-cycle",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "b2i3j4k5-l6m7-8n9o-0p1q-2r3s4t5u6v7w",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "How many ATP molecules are theoretically yielded from the oxidation of one FADH2 molecule in the electron transport chain?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "2",
+    "explanation": "FADH2 enters the ETC at Complex II, bypassing the first proton pump. Consequently, it creates a smaller proton gradient, yielding approximately 1.5 to 2 ATP (commonly rounded to 2 in textbooks).",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(Kaiser)/Unit_7%3A_Microbial_Genetics_and_Microbial_Metabolism/18%3A_Microbial_Metabolism/18.3%3A_Aerobic_Respiration/18.3E%3A_Theoretical_ATP_Yield",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "c3j4k5l6-m7n8-9o0p-1q2r-3s4t5u6v7w8x",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "The copper-containing protein involved in electron transfer between the Cytochrome complex and Photosystem I is:",
+    "options": [
+      "Ferredoxin",
+      "Plastoquinone",
+      "Plastocyanin",
+      "Cytochrome b6"
+    ],
+    "correct_answer": "Plastocyanin",
+    "explanation": "Plastocyanin is a mobile copper-containing protein found in the thylakoid lumen that transfers electrons from the Cytochrome b6f complex to P700 of Photosystem I.",
+    "difficulty_level": "Hard",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/plastocyanin",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "d4k5l6m7-n8o9-0p1q-2r3s-4t5u6v7w8x9y",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Which of the following equations correctly represents the overall process of aerobic respiration?",
+    "options": [
+      "6CO2 + 6H2O + Energy -> C6H12O6 + 6O2",
+      "C6H12O6 + 6O2 -> 6CO2 + 6H2O + Energy",
+      "C6H12O6 -> 2C2H5OH + 2CO2 + Energy",
+      "C6H12O6 + 6CO2 -> 6O2 + 6H2O + Energy"
+    ],
+    "correct_answer": "C6H12O6 + 6O2 -> 6CO2 + 6H2O + Energy",
+    "explanation": "Aerobic respiration oxidizes glucose (C6H12O6) in the presence of oxygen (O2) to produce carbon dioxide (CO2), water (H2O), and energy (ATP).",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.bbc.co.uk/bitesize/guides/z32797h/revision/1",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "e5l6m7n8-o9p0-1q2r-3s4t-5u6v7w8x9y0z",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "In the reduction phase of the Calvin cycle, which two molecules are used to convert 3-PGA into G3P?",
+    "options": [
+      "ATP and O2",
+      "NADPH and CO2",
+      "ATP and NADPH",
+      "FADH2 and ATP"
+    ],
+    "correct_answer": "ATP and NADPH",
+    "explanation": "ATP provides the energy for phosphorylation, and NADPH provides the electrons (reducing power) to convert 3-Phosphoglycerate (3-PGA) into Glyceraldehyde-3-phosphate (G3P).",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.khanacademy.org/science/biology/photosynthesis-in-plants/the-calvin-cycle-reactions/a/calvin-cycle",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "f6m7n8o9-p0q1-2r3s-4t5u-6v7w8x9y0z1a",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Which specific location within the chloroplast is the site of the light-independent reactions (Calvin cycle)?",
+    "options": [
+      "Thylakoid lumen",
+      "Thylakoid membrane",
+      "Stroma",
+      "Grana"
+    ],
+    "correct_answer": "Stroma",
+    "explanation": "The light-independent reactions, or Calvin cycle, occur in the stroma (the fluid-filled space) of the chloroplast, utilizing ATP and NADPH produced in the thylakoids.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/stroma-of-chloroplast",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "a7n8o9p0-q1r2-3s4t-5u6v-7w8x9y0z1a2b",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Lactic acid fermentation occurs in human muscle cells when there is a lack of:",
+    "options": [
+      "Glucose",
+      "Carbon dioxide",
+      "Oxygen",
+      "ATP"
+    ],
+    "correct_answer": "Oxygen",
+    "explanation": "Under strenuous activity when oxygen supply is insufficient (anaerobic conditions), muscle cells convert pyruvate to lactic acid to regenerate NAD+ and continue glycolysis.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK539692/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "b8o9p0q1-r2s3-4t5u-6v7w-8x9y0z1a2b3c",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Which enzyme complex is responsible for transferring electrons to the final electron acceptor in the mitochondrial ETC?",
+    "options": [
+      "Complex I (NADH Dehydrogenase)",
+      "Complex II (Succinate Dehydrogenase)",
+      "Complex III (Cytochrome bc1)",
+      "Complex IV (Cytochrome c Oxidase)"
+    ],
+    "correct_answer": "Complex IV (Cytochrome c Oxidase)",
+    "explanation": "Complex IV (Cytochrome c Oxidase) transfers electrons from Cytochrome c to Oxygen, the final electron acceptor, reducing it to water.",
+    "difficulty_level": "Hard",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21163/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "c9p0q1r2-s3t4-5u6v-7w8x-9y0z1a2b3c4d",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Photosynthetically Active Radiation (PAR) corresponds to the wavelength range of:",
+    "options": [
+      "200-400 nm",
+      "400-700 nm",
+      "700-900 nm",
+      "1000-1200 nm"
+    ],
+    "correct_answer": "400-700 nm",
+    "explanation": "Photosynthetically Active Radiation (PAR) covers the visible light spectrum from 400 nm (violet) to 700 nm (red), which plants use for photosynthesis.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/photosynthetically-active-radiation",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "d0q1r2s3-t4u5-6v7w-8x9y-0z1a2b3c4d5e",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "What is the primary purpose of the 'Regeneration' phase in the Calvin cycle?",
+    "options": [
+      "To produce Glucose",
+      "To reform Ribulose Bisphosphate (RuBP)",
+      "To release CO2",
+      "To generate ATP"
+    ],
+    "correct_answer": "To reform Ribulose Bisphosphate (RuBP)",
+    "explanation": "The regeneration phase uses ATP to rearrange G3P molecules back into Ribulose Bisphosphate (RuBP), ensuring the cycle can accept new CO2 molecules.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.khanacademy.org/science/biology/photosynthesis-in-plants/the-calvin-cycle-reactions/a/calvin-cycle",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "e1r2s3t4-u5v6-7w8x-9y0z-1a2b3c4d5e6f",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "During non-cyclic electron flow, which complex pumps protons from the stroma into the thylakoid lumen?",
+    "options": [
+      "Cytochrome b6f Complex",
+      "Photosystem I",
+      "ATP Synthase",
+      "Ferredoxin"
+    ],
+    "correct_answer": "Cytochrome b6f Complex",
+    "explanation": "As electrons pass from Photosystem II to Photosystem I, they travel through the Cytochrome b6f complex, which pumps protons into the thylakoid lumen to build a gradient.",
+    "difficulty_level": "Hard",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/cytochrome-b6f-complex",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "f2s3t4u5-v6w7-8x9y-0z1a-2b3c4d5e6f7g",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Which molecule acts as the reducing agent to convert oxaloacetate to malate in the malate-aspartate shuttle?",
+    "options": [
+      "FADH2",
+      "NADH",
+      "NADPH",
+      "GTP"
+    ],
+    "correct_answer": "NADH",
+    "explanation": "In the cytosol, NADH is oxidized to NAD+ to convert oxaloacetate to malate, allowing the reducing equivalents to enter the mitochondria via the shuttle.",
+    "difficulty_level": "Hard",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/neuroscience/malate-aspartate-shuttle",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "a3t4u5v6-w7x8-9y0z-1a2b-3c4d5e6f7g8h",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "Which of the following is produced during the oxidation of Pyruvate to Acetyl-CoA?",
+    "options": [
+      "ATP",
+      "FADH2",
+      "CO2",
+      "Water"
+    ],
+    "correct_answer": "CO2",
+    "explanation": "The link reaction removes a carboxyl group from pyruvate, releasing it as Carbon Dioxide (CO2) while producing NADH and Acetyl-CoA.",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation/pyruvate-oxidation-and-the-citric-acid-cycle/a/pyruvate-oxidation",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "b4u5v6w7-x8y9-0z1a-2b3c-4d5e6f7g8h9i",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "The primary role of the antenna complex (light-harvesting complex) is to:",
+    "options": [
+      "Split water molecules",
+      "Synthesize ATP",
+      "Funnel light energy to the reaction center",
+      "Fix carbon dioxide"
+    ],
+    "correct_answer": "Funnel light energy to the reaction center",
+    "explanation": "The antenna complex contains pigment molecules that capture light energy and transfer it via resonance energy transfer to the reaction center chlorophyll.",
+    "difficulty_level": "Easy",
+    "source_urls": [
+      {
+        "url": "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/light-harvesting-complex",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "c5v6w7x8-y9z0-1a2b-3c4d-5e6f7g8h9i0j",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "How many turns of the Calvin cycle are required to produce one net molecule of Glucose (C6H12O6)?",
+    "options": [
+      "1",
+      "3",
+      "6",
+      "12"
+    ],
+    "correct_answer": "6",
+    "explanation": "Since one turn fixes one CO2 molecule, and glucose has 6 carbons, the cycle must turn 6 times to produce one molecule of glucose (or two G3P molecules).",
+    "difficulty_level": "Medium",
+    "source_urls": [
+      {
+        "url": "https://www.khanacademy.org/science/biology/photosynthesis-in-plants/the-calvin-cycle-reactions/a/calvin-cycle",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  },
+  {
+    "mcq_id": "d6w7x8y9-z0a1-2b3c-4d5e-6f7g8h9i0j1k",
+    "topic_id": "537583c6-4dae-4974-88b7-d33e18301dda",
+    "question": "What is the correct order of electron carriers in the mitochondrial Electron Transport Chain?",
+    "options": [
+      "Complex I -> Q -> Complex III -> Cyt c -> Complex IV",
+      "Complex I -> Complex II -> Complex III -> Complex IV",
+      "Complex II -> Cyt c -> Complex III -> Q -> Complex IV",
+      "Complex IV -> Cyt c -> Complex III -> Q -> Complex I"
+    ],
+    "correct_answer": "Complex I -> Q -> Complex III -> Cyt c -> Complex IV",
+    "explanation": "Electrons from NADH enter Complex I, move to Ubiquinone (Q), then to Complex III, then to Cytochrome c, and finally to Complex IV. (Complex II also feeds to Q).",
+    "difficulty_level": "Hard",
+    "source_urls": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21163/",
+        "is_verified": true
+      }
+    ],
+    "copyright_safe": true,
+    "ai_rephrased": true,
+    "last_verified": "2026-02-11T10:22:47Z"
+  }
+]
